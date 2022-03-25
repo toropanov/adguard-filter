@@ -151,6 +151,11 @@ wylsa.com##.marketWidgetWrapper
 wylsa.com##.relatedPosts
 jsfiddle.net###hello-bar
 
+lifehacker.ru###comments
+lifehacker.ru##.widgets-renderer-item_comments
+lifehacker.ru##.widgets-renderer-item_taxonomy-posts
+lifehacker.ru##.nav-menu-below-header__container
+
 vc.ru###notify
 
 habr.com##.layout__row_services
