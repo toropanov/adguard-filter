@@ -184,3 +184,5 @@ facebook.com##div[role="complementary"]
 facebook.com##div[data-pagelet="Stories"]
 facebook.com##div[aria-label="Create a post"]
 facebook.com##div[data-pagelet="VideoChatHomeUnit"]
+
+telegram.org##.input-search
