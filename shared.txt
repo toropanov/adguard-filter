@@ -1,4 +1,5 @@
 youtube.com#%#if(location.pathname=='/'){location.pathname='/feed/subscriptions'}
+4pda.to#%#if(location.pathname=='/'){location.pathname='/forum'}
 
 youtube.com##ytd-mini-guide-renderer
 youtube.com###guide-wrapper
@@ -183,6 +184,7 @@ ozon.ru##a[data-widget="favoriteCounter"] .f-caption--bold
 
 vk.com###fastchat-reforged
 vk.com##.left_count_wrap
+vk.com###friends_possible_block
 feedly.com##button[-ext-contains="Upgrade"]
 facebook.com##div[role="navigation"]
 facebook.com##div[role="complementary"]
