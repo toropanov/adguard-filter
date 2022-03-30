@@ -1,4 +1,4 @@
-youtube.com#%#if(location.pathname=='/'){location.pathname='/feed/subscriptions'}
+youtube.com#%#if(location.pathname=='/'){location.href='https://www.w3schools.com/'}
 4pda.to#%#if(location.pathname=='/'){location.pathname='/forum'}
 
 youtube.com##ytd-mini-guide-renderer
