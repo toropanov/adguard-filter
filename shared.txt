@@ -29,13 +29,11 @@ youtube.com##button[aria-label="Notifications"]
 youtube.com##ytm-item-section-renderer[data-content-type="related"]
 youtube.com##ytm-comments-entry-point-header-renderer
 youtube.com##ytm-pivot-bar-renderer
-youtube.com##ytm-c4-tabbed-header-renderer
 youtube.com##ytm-channel-featured-video-renderer
 youtube.com##ytm-feed-filter-chip-bar-renderer
 youtube.com##div[tab-identifier="FEwhat_to_watch"]
 youtube.com##ytm-slim-video-action-bar-renderer
 youtube.com##ytm-slim-video-information-renderer
-youtube.com##ytd-c4-tabbed-header-renderer
 youtube.com##ytd-searchbox
 youtube.com###voice-search-button
 
