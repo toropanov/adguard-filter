@@ -27,6 +27,13 @@ youtube.com##button[aria-label="Create"]
 youtube.com##button[aria-label="Guide"]
 youtube.com##button[aria-label="YouTube apps"]
 youtube.com##button[aria-label="Notifications"]
+youtube.com##ytm-item-section-renderer[data-content-type="related"]
+youtube.com##ytm-comments-entry-point-header-renderer
+youtube.com##ytm-pivot-bar-renderer
+youtube.com##ytm-c4-tabbed-header-renderer
+youtube.com##ytm-channel-featured-video-renderer
+youtube.com##ytm-feed-filter-chip-bar-renderer
+youtube.com##div[tab-identifier="FEwhat_to_watch"]
 
 duckduckgo.com###powered_by
 duckduckgo.com##.js-feedback-btn-wrap
@@ -180,6 +187,9 @@ habr.com##.tm-page__sidebar
 leetcode.com##img[alt="logo"]
 journal.tinkoff.ru###comments
 linkedin.com###msg-overlay
+
+pornhub.com##*
+beeg.com##*
 
 pinterest.com##button[aria-label="Notifications"]
 pinterest.com##button[aria-label="Messages"]
