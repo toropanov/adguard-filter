@@ -157,6 +157,8 @@ lifehacker.ru###comments
 lifehacker.ru##.widgets-renderer-item_comments
 lifehacker.ru##.widgets-renderer-item_taxonomy-posts
 lifehacker.ru##.nav-menu-below-header__container
+lifehacker.ru##.primary-menu
+lifehacker.ru##.article-card-container__widgets
 
 vc.ru###notify
 
