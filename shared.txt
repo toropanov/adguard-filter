@@ -25,6 +25,7 @@ youtube.com##button[aria-label="Search YouTube"]
 youtube.com##button[aria-label="Create a video or post"]
 youtube.com##button[aria-label="Create"]
 youtube.com##button[aria-label="Guide"]
+youtube.com##button[aria-label="Upload"]
 youtube.com##button[aria-label="YouTube apps"]
 youtube.com##button[aria-label="Notifications"]
 youtube.com##ytm-item-section-renderer[data-content-type="related"]
@@ -37,6 +38,7 @@ youtube.com##ytm-slim-video-action-bar-renderer
 youtube.com##ytm-slim-video-information-renderer
 youtube.com##ytd-searchbox
 youtube.com###voice-search-button
+youtube.com##.banner-visible-area
 
 duckduckgo.com###powered_by
 duckduckgo.com##.js-feedback-btn-wrap
