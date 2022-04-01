@@ -35,6 +35,7 @@ youtube.com##ytm-feed-filter-chip-bar-renderer
 youtube.com##div[tab-identifier="FEwhat_to_watch"]
 youtube.com##ytm-slim-video-action-bar-renderer
 youtube.com##ytm-slim-video-information-renderer
+youtube.com##ytd-c4-tabbed-header-renderer
 
 duckduckgo.com###powered_by
 duckduckgo.com##.js-feedback-btn-wrap
@@ -188,7 +189,6 @@ habr.com##.tm-page__sidebar
 leetcode.com##img[alt="logo"]
 journal.tinkoff.ru###comments
 linkedin.com###msg-overlay
-
 pornhub.com##*
 beeg.com##*
 
