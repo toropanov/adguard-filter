@@ -36,6 +36,8 @@ youtube.com##div[tab-identifier="FEwhat_to_watch"]
 youtube.com##ytm-slim-video-action-bar-renderer
 youtube.com##ytm-slim-video-information-renderer
 youtube.com##ytd-c4-tabbed-header-renderer
+youtube.com##ytd-searchbox
+youtube.com###voice-search-button
 
 duckduckgo.com###powered_by
 duckduckgo.com##.js-feedback-btn-wrap
