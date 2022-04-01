@@ -8,6 +8,9 @@ youtube.com###masthead-skeleton-icons
 youtube.com###home-page-skeleton
 youtube.com##ytd-rich-grid-renderer
 youtube.com##ytd-comments
+youtube.com###related
+youtube.com###info-contents
+youtube.com###meta
 youtube.com###endpoint[title="Home"]
 youtube.com###endpoint[title="Trending"]
 youtube.com###endpoint[title="Originals"]
