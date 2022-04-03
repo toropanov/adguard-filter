@@ -175,6 +175,7 @@ lifehacker.ru##.primary-menu
 lifehacker.ru##.article-card-container__widgets
 lifehacker.ru##.widgets-renderer
 lifehacker.ru##.lh-middle-article-card__controls-and-meta
+lifehacker.ru##.lh-small-article-card__controls-and-meta
 lifehacker.ru##.article-card-actions
 
 vc.ru###notify
