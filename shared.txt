@@ -194,6 +194,18 @@ journal.tinkoff.ru###comments
 linkedin.com###msg-overlay
 pornhub.com##*
 beeg.com##*
+kod.ru##*
+appleinsider.ru##*
+androidinsider.ru##*
+iguides.ru##*
+lenta.ru##*
+wylsa.com##*
+ria.ru##*
+rbc.ru##*
+vedomosti.ru##*
+pikabu.ru##*
+iphones.ru##*
+vc.ru##*
 
 pinterest.com##button[aria-label="Notifications"]
 pinterest.com##button[aria-label="Messages"]
