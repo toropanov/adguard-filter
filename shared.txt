@@ -210,6 +210,7 @@ vedomosti.ru##*
 pikabu.ru##*
 iphones.ru##*
 vc.ru##*
+lifehacker.ru##*
 
 pinterest.com##button[aria-label="Notifications"]
 pinterest.com##button[aria-label="Messages"]
