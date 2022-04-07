@@ -92,6 +92,7 @@ aliexpress.com##.mobile-app
 aliexpress.com##.rus-mall-img
 
 stock.adobe.com###fmf-promo
+javascript.ru##.buy-book-button
 
 ebay.com###hlGlobalFooter
 ebay.com##.hl-banner-carousel
