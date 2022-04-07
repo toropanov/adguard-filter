@@ -94,6 +94,7 @@ aliexpress.com##.rus-mall-img
 stock.adobe.com###fmf-promo
 javascript.ru##.buy-book-button
 w3schools.com###right
+w3schools.com##a[title="Go Pro"]
 w3schools.com##a[title="Courses"]
 w3schools.com##a[title="Get Your Own Website With W3Schools Spaces"]
 
