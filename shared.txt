@@ -208,6 +208,7 @@ beeg.com##*
 kod.ru##*
 appleinsider.ru##*
 androidinsider.ru##*
+mobile-review.com##*
 iguides.ru##*
 lenta.ru##*
 wylsa.com##*
