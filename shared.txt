@@ -227,6 +227,16 @@ ozon.ru##a[data-widget="favoriteCounter"] .f-caption--bold
 vk.com###fastchat-reforged
 vk.com##.left_count_wrap
 vk.com###friends_possible_block
+vk.com##.BottomMenu
+vk.com##.notify_panel
+vk.com##.feedAssistance
+vk.com##.post_withExtraHeader
+vk.com##.PostRowBottomButtons
+vk.com##.new_post_container
+vk.com##.recommends_link
+vk.com##a[href="/mail"]
+vk.com##nav[role="navigation"]
+
 feedly.com##button[-ext-contains="Upgrade"]
 facebook.com##div[role="navigation"]
 facebook.com##div[role="complementary"]
