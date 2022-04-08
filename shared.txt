@@ -227,6 +227,8 @@ ozon.ru##a[data-widget="favoriteCounter"] .f-caption--bold
 vk.com###fastchat-reforged
 vk.com##.left_count_wrap
 
+vk.com###page_avatar
+vk.com###profile_friends_recomm
 vk.com###submit_post_box
 vk.com###public_followers
 vk.com###friends_possible_block
