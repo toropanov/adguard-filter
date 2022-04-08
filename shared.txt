@@ -46,6 +46,8 @@ duckduckgo.com##.badge-link
 duckduckgo.com##.header--aside__item.showcase
 duckduckgo.com##.header--aside__social
 
+4pda.to##.borderwrap:contains("Информационная панель")
+
 avito.ru##.main-page-flex-container
 avito.ru##.footer-extended
 avito.ru##.js-promo-sticky-container
