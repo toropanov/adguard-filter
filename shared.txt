@@ -226,6 +226,10 @@ ozon.ru##a[data-widget="favoriteCounter"] .f-caption--bold
 
 vk.com###fastchat-reforged
 vk.com##.left_count_wrap
+vk.com##.like_wrap
+vk.com##.replies
+vk.com##.post_replies_header
+vk.com##.wall_signed
 
 vk.com###page_avatar
 vk.com###profile_friends_recomm
