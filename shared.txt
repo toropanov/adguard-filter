@@ -234,8 +234,15 @@ vk.com##.post_withExtraHeader
 vk.com##.PostRowBottomButtons
 vk.com##.new_post_container
 vk.com##.recommends_link
+vk.com##.mmi_ads
 vk.com##a[href="/mail"]
-vk.com##nav[role="navigation"]
+vk.com##a[href="/feed"]
+vk.com##a[href="/search"]
+vk.com##a[href="/feed?section=recommended"]
+vk.com##a[href="/feed?section=notifications"]
+vk.com##a[href="/friends"]
+vk.com##a[href="/docs"]
+vk.com##a[data-header="Photos"]]
 
 feedly.com##button[-ext-contains="Upgrade"]
 facebook.com##div[role="navigation"]
