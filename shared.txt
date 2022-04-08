@@ -229,6 +229,8 @@ vk.com##.left_count_wrap
 vk.com##.like_wrap
 vk.com##.replies
 vk.com##.post_replies_header
+vk.com##.header__title
+vk.com##h1[aria-labelledby="header__title"]
 
 vk.com###page_avatar
 vk.com###profile_friends_recomm
