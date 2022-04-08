@@ -245,6 +245,8 @@ vk.com##.PostRowBottomButtons
 vk.com##.new_post_container
 vk.com##.recommends_link
 vk.com##.mmi_ads
+vk.com##.mmi_apps
+vk.com##.mmi_likes
 vk.com##a[href="/mail"]
 vk.com##a[href="/im"]
 vk.com##a[href="/feed"]
