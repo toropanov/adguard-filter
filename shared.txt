@@ -95,6 +95,7 @@ aliexpress.com##.mobile-app
 aliexpress.com##.rus-mall-img
 
 stock.adobe.com###fmf-promo
+javascript.ru###comments
 javascript.ru##.buy-book-button
 w3schools.com###right
 w3schools.com##a[title="Go Pro"]
