@@ -95,7 +95,6 @@ aliexpress.com##.mobile-app
 aliexpress.com##.rus-mall-img
 
 stock.adobe.com###fmf-promo
-javascript.ru###comments
 javascript.ru##.buy-book-button
 w3schools.com###right
 w3schools.com##a[title="Go Pro"]
@@ -134,7 +133,6 @@ iguides.ru##.label
 iguides.ru##.coment_count
 iguides.ru##.newsTapes
 iguides.ru##.tags-wrapper
-iguides.ru##.comments
 iguides.ru##.author
 iguides.ru##.LINKS_AFTER_ARTICLE
 iguides.ru##.top-popular-news-in-detail
@@ -195,7 +193,6 @@ habr.com##.layout__row_navbar
 habr.com##.layout__row_footer
 habr.com##.post__title-text
 habr.com##.post-additionals
-habr.com###comments
 habr.com##.layout__row_promo-blocks
 habr.com##.layout__row_footer-links
 habr.com##.layout__row_footer
@@ -203,7 +200,6 @@ habr.com##.sidebar
 habr.com##.tm-page__sidebar
 
 leetcode.com##img[alt="logo"]
-journal.tinkoff.ru###comments
 linkedin.com###msg-overlay
 pornhub.com##*
 beeg.com##*
