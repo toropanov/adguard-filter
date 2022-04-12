@@ -1,5 +1,6 @@
 youtube.com#%#if(location.pathname=='/'){location.href='https://www.w3schools.com/'}
 4pda.to#%#if(location.pathname=='/'){location.pathname='/forum'}
+javascript.ru#%#if(location.hostname=='javascript.ru' && location.pathname=='/'){location.hostname='learn.javascript.ru'}
 
 youtube.com##ytd-mini-guide-renderer
 youtube.com###guide-wrapper
