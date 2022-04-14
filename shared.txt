@@ -58,6 +58,7 @@ avito.ru##div[class^="index-logo"]
 avito.ru##div[class^="index-social"]
 avito.ru##div[class^="index-center"]:has([data-marker="bx-recommendations-block-item"])
 avito.ru##div[data-marker="new-section/list"]
+avito.ru##div[data-marker="header"]
 avito.ru##div[data-marker="stories"]
 avito.ru##div[data-marker="footer"]
 avito.ru##a[data-marker="menu/nc"]
