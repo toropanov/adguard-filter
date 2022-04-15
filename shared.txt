@@ -102,6 +102,8 @@ aliexpress.com##.rus-mall-img
 stock.adobe.com###fmf-promo
 javascript.ru##.buy-book-button
 javascript.ru##.main__header-title
+javascript.ru###comments
+javascript.ru##.page-footer
 w3schools.com###right
 w3schools.com##a[title="Go Pro"]
 w3schools.com##a[title="Courses"]
