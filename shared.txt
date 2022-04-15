@@ -224,6 +224,7 @@ tproger.ru###tp-recommended-posts
 tproger.ru###tproger-comments
 tproger.ru##.single__thumbnail
 tproger.ru##.float-widget-container
+tproger.ru##.footer-meta
 
 leetcode.com##img[alt="logo"]
 linkedin.com###msg-overlay
