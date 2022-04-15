@@ -207,6 +207,8 @@ habr.com##.layout__row_footer-links
 habr.com##.layout__row_footer
 habr.com##.sidebar
 habr.com##.tm-page__sidebar
+habr.com##.tm-page__header
+habr.com##.tm-company-profile-card
 habr.com##.tm-article-sticky-panel
 habr.com##.tm-article-presenter__header
 habr.com##.tm-base-layout__header
