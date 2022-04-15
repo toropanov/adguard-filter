@@ -194,6 +194,7 @@ lifehacker.ru##.article-card-actions
 
 vc.ru###notify
 
+habr.com##header
 habr.com##.layout__row_services
 habr.com##.layout__row_navbar
 habr.com##.layout__row_footer
@@ -204,6 +205,12 @@ habr.com##.layout__row_footer-links
 habr.com##.layout__row_footer
 habr.com##.sidebar
 habr.com##.tm-page__sidebar
+habr.com##.tm-article-sticky-panel
+habr.com##.tm-article-presenter__header
+habr.com##.tm-base-layout__header
+habr.com##.tm-article-presenter__footer
+habr.com##.tm-footer-menu
+habr.com##.tm-footer
 
 leetcode.com##img[alt="logo"]
 linkedin.com###msg-overlay
