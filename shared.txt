@@ -223,6 +223,7 @@ tproger.ru###post-widget-container
 tproger.ru###tp-recommended-posts
 tproger.ru###tproger-comments
 tproger.ru##.single__thumbnail
+tproger.ru##.float-widget-container
 
 leetcode.com##img[alt="logo"]
 linkedin.com###msg-overlay
