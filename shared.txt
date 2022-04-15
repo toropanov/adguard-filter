@@ -218,7 +218,9 @@ habr.com##.tm-footer
 
 tproger.ru##.single__header
 tproger.ru##.container-header
-tproger.ru##.aside-left__wrapper
+tproger.ru##aside
+tproger.ru###post-widget-container
+tproger.ru###tp-recommended-posts
 tproger.ru###tproger-comments
 
 leetcode.com##img[alt="logo"]
