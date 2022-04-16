@@ -4,6 +4,7 @@ javascript.ru#%#if(location.hostname=='javascript.ru' && location.pathname=='/')
 jsbin.com#%#if(location.pathname=='/)){location.pathname='/edit?js,console'}
 
 jsbin.com###toppanel
+jsbin.com##.help
 
 youtube.com##ytd-mini-guide-renderer
 youtube.com###guide-wrapper
