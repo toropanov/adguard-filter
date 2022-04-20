@@ -133,6 +133,7 @@ forum.adguard.com###header
 calvinklein.ru##div.ReactModalPortal:nth-child(30) > div.ReactModal__Overlay.ReactModal__Overlay--after-open
 
 music.yandex.ru##.deco-teaser
+music.yandex.ru##.deco-tooltip
 music.yandex.ru##.page-main__line
 music.yandex.ru##.footer
 music.yandex.ru##.teaser
