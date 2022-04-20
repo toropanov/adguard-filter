@@ -133,6 +133,9 @@ forum.adguard.com###header
 calvinklein.ru##div.ReactModalPortal:nth-child(30) > div.ReactModal__Overlay.ReactModal__Overlay--after-open
 
 music.yandex.ru##.deco-teaser
+music.yandex.ru##.page-main__line
+music.yandex.ru##.footer
+music.yandex.ru##.teaser
 
 drive.google.com##a[data-target="upgrade-storage"]
 drive.google.com##a[aria-label="Support"]
