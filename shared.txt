@@ -290,6 +290,7 @@ vk.com##.header__title
 vk.com##h1[aria-labelledby="header__title"]
 
 woman.ru##*
+otvet.mail.ru##*
 
 vk.com###page_avatar
 vk.com###profile_friends_recomm
