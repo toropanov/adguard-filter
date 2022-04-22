@@ -289,6 +289,8 @@ vk.com##.post_replies_header
 vk.com##.header__title
 vk.com##h1[aria-labelledby="header__title"]
 
+woman.ru##*
+
 vk.com###page_avatar
 vk.com###profile_friends_recomm
 vk.com###submit_post_box
