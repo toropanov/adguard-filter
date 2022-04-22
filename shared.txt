@@ -45,6 +45,26 @@ youtube.com##ytd-searchbox
 youtube.com###voice-search-button
 youtube.com##.banner-visible-area
 
+duckduckgo.com###links:has-text(/Димас Из Батайска/):upward(5)
+youtube.com##ytd-channel-name:has-text(Димас из Батайска):upward(12)
+youtube.com##h1:has-text(Димас из Батайска):upward(4)
+youtube.com##h3:has-text(Димас из Батайска):upward(10)
+
+duckduckgo.com###links:has-text(/Дима Гордей/):upward(5)
+youtube.com##ytd-channel-name:has-text(Дима Гордей):upward(12)
+youtube.com##h1:has-text(Дима Гордей):upward(4)
+youtube.com##h3:has-text(Дима Гордей):upward(10)
+
+duckduckgo.com###links:has-text(/Blondinka Drive/):upward(5)
+youtube.com##ytd-channel-name:has-text(Blondinka Drive):upward(12)
+youtube.com##h1:has-text(Blondinka Drive):upward(4)
+youtube.com##h3:has-text(Blondinka Drive):upward(10)
+
+duckduckgo.com###links:has-text(/Тукитук/):upward(5)
+duckduckgo.com###links:has-text(/Афоня ТВ/):upward(5)
+duckduckgo.com###links:has-text(/Majorka/):upward(5)
+duckduckgo.com###links:has-text(/Мажорка/):upward(5)
+
 duckduckgo.com###powered_by
 duckduckgo.com##.js-feedback-btn-wrap
 duckduckgo.com##.badge-link
