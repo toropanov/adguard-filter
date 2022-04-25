@@ -2,6 +2,7 @@ youtube.com#%#if(location.pathname=='/'){location.href='https://www.w3schools.co
 4pda.to#%#if(location.pathname=='/'){location.pathname='/forum'}
 javascript.ru#%#if(location.hostname=='javascript.ru' && location.pathname=='/'){location.hostname='learn.javascript.ru'}
 jsbin.com#%#if(location.pathname=='/')){location.pathname='/edit?js,console'}
+duckduckgo.com#%#if(location.hostname=='duckduckgo.com'){location.hostname='safe.duckduckgo.com'}
 
 jsbin.com###toppanel
 jsbin.com##.help
