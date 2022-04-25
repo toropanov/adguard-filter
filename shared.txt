@@ -69,6 +69,8 @@ duckduckgo.com###links:has-text(/Мажорка/):upward(5)
 duckduckgo.com###powered_by
 duckduckgo.com##.js-feedback-btn-wrap
 duckduckgo.com##.badge-link
+duckduckgo.com###header_wrapper
+duckduckgo.com###bottom_spacing2
 duckduckgo.com##.header--aside__item.showcase
 duckduckgo.com##.header--aside__social
 duckduckgo.com###links:has-text(/порн/):upward(6)
