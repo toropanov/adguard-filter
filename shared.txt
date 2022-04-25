@@ -71,6 +71,7 @@ duckduckgo.com##.badge-link
 duckduckgo.com##.header--aside__item.showcase
 duckduckgo.com##.header--aside__social
 duckduckgo.com###links:has-text(/порн/):upward(6)
+duckduckgo.com##.dropdown--safe-search
 
 4pda.to##.borderwrap:contains("Информационная панель")
 
