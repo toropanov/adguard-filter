@@ -71,10 +71,12 @@ duckduckgo.com##.js-feedback-btn-wrap
 duckduckgo.com##.badge-link
 duckduckgo.com###header_wrapper
 duckduckgo.com###bottom_spacing2
+duckduckgo.com##.feedback-prompt
 duckduckgo.com##.header--aside__item.showcase
 duckduckgo.com##.header--aside__social
 duckduckgo.com###links:has-text(/порн/):upward(6)
 duckduckgo.com##.dropdown--safe-search
+duckduckgo.com##.dropdown--date
 
 4pda.to##.borderwrap:contains("Информационная панель")
 
