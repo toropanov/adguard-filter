@@ -165,6 +165,7 @@ behance.net##.InfinityFooter__global-selector
 behance.net##a[title="Adobe Creative Cloud"]
 behance.net##.js-vue-mobile-app-upsell
 behance.net##a:has-text(/Use App/)
+behance.net#$#.mobile-banner-visible { position: relative !important; }
 
 music.yandex.ru##.deco-teaser
 music.yandex.ru##.deco-tooltip
