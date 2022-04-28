@@ -79,6 +79,8 @@ duckduckgo.com##.logo-wrap--home
 duckduckgo.com##.tag-home
 duckduckgo.com##.footer_homepage
 
+raindrop.io##a[href="https://raindrop.io/pro/buy"]
+
 4pda.to###navstrip
 4pda.to###logostrip
 4pda.to###submenu
