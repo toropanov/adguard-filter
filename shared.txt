@@ -79,7 +79,14 @@ duckduckgo.com##.dropdown--date
 duckduckgo.com##.logo-wrap--home
 duckduckgo.com##.tag-home
 
+4pda.to###navstrip
+4pda.to###logostrip
+4pda.to###gfooter
+4pda.to##.copyright
+4pda.to##.social-icons
+4pda.to##.borderwrap:contains("Правилами раздела")
 4pda.to##.borderwrap:contains("Информационная панель")
+4pda.to##.borderwrap:contains("читают эту тему")
 
 avito.ru##.main-page-flex-container
 avito.ru##.footer-extended
