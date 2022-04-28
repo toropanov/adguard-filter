@@ -152,7 +152,6 @@ reddit.com##.scrollerItem:has-text("Top livestream")
 reddit.com##div[data-testid="frontpage-sidebar"]
 reddit.com##.XPromoPopup
 reddit.com##.TopNav__promoButton
-reddit.com#$#.scroll-disabled { overflow: scroll !important; position: relative !important; }
 
 lucidchart.com##lucid-message-bar
 lucidchart.com##.integration-buttons
@@ -161,14 +160,11 @@ lucidchart.com##.component-growl-container
 forum.adguard.com###header
 
 behance.net##.Popup-popup-Hub
-behance.net##button:has-text(Sign Up)
+behance.net##button:has-text(/Sign Up/)
 behance.net##.InfinityFooter__global-selector
 behance.net##a[title="Adobe Creative Cloud"]
 behance.net##.js-vue-mobile-app-upsell
-behance.net##a:has-text(Use App)
-behance.net#$#.mobile-banner-visible { position: relative !important; }
-
-calvinklein.ru##div.ReactModalPortal:nth-child(30) > div.ReactModal__Overlay.ReactModal__Overlay--after-open
+behance.net##a:has-text(/Use App/)
 
 music.yandex.ru##.deco-teaser
 music.yandex.ru##.deco-tooltip
