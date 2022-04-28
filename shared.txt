@@ -81,6 +81,8 @@ duckduckgo.com##.tag-home
 
 4pda.to###navstrip
 4pda.to###logostrip
+4pda.to###submenu
+4pda.to###userlinks
 4pda.to###gfooter
 4pda.to##.copyright
 4pda.to##.social-icons
