@@ -91,6 +91,9 @@ duckduckgo.com##.tag-home
 4pda.to##.borderwrap:contains("Информационная панель")
 4pda.to##.borderwrap:contains("читают эту тему")
 
+yandex.ru##.container__services
+yandex.ru##.media-grid
+
 avito.ru##.main-page-flex-container
 avito.ru##.footer-extended
 avito.ru##.js-promo-sticky-container
