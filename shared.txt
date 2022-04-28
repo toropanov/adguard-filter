@@ -40,7 +40,6 @@ youtube.com##ytm-channel-featured-video-renderer
 youtube.com##ytm-feed-filter-chip-bar-renderer
 youtube.com##div[tab-identifier="FEwhat_to_watch"]
 youtube.com##ytm-slim-video-action-bar-renderer
-youtube.com##ytm-slim-video-information-renderer
 youtube.com##ytd-searchbox
 youtube.com###voice-search-button
 youtube.com##.banner-visible-area
@@ -84,6 +83,8 @@ duckduckgo.com##.tag-home
 4pda.to###submenu
 4pda.to###userlinks
 4pda.to###gfooter
+4pda.to##.menu-main-mobile
+4pda.to##.makepost_link
 4pda.to##.copyright
 4pda.to##.social-icons
 4pda.to##.borderwrap:contains("Правилами раздела")
