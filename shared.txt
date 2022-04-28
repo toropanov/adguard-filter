@@ -1,5 +1,5 @@
 youtube.com#%#if(location.pathname=='/'){location.href='https://www.w3schools.com/'}
-4pda.to#%#if(location.pathname=='/' || location.search == '?act=idx'){ location.href = 'https://4pda.to/forum/index.php?act=fav&code=no' }
+4pda.to#%#if(location.pathname=='/' || location.search == '?act=idx' || location.search.includes('showforum')){ location.href = 'https://safe.duckduckgo.com' }
 jsbin.com#%#if(location.pathname=='/')){location.pathname='/edit?js,console'}
 duckduckgo.com#%#if(location.hostname=='duckduckgo.com'){location.hostname='safe.duckduckgo.com'}
 
@@ -76,6 +76,8 @@ duckduckgo.com##.header--aside__social
 duckduckgo.com###links:has-text(/порн/):upward(6)
 duckduckgo.com##.dropdown--safe-search
 duckduckgo.com##.dropdown--date
+duckduckgo.com##.logo-wrap--home
+duckduckgo.com##.tag-home
 
 4pda.to##.borderwrap:contains("Информационная панель")
 
