@@ -226,6 +226,15 @@ twitter.com##aside[aria-label="Who to follow"]
   
 zeplin.io##.socketBanner.warn
 
+zen.yandex.ru##header
+zen.yandex.ru###article__comments
+zen.yandex.ru##.article-left-block__cropped
+zen.yandex.ru##.sticky-container
+zen.yandex.ru##.article__title
+zen.yandex.ru##.article__bottom-embed
+zen.yandex.ru##.socials-block__leftBlock-3D
+zen.yandex.ru##.article-subscribe-banner
+
 yandex.ru##.mn__first_up
 yandex.ru##.mn__services
 
