@@ -64,6 +64,9 @@ duckduckgo.com###links:has-text(/Афоня ТВ/):upward(5)
 duckduckgo.com###links:has-text(/Majorka/):upward(5)
 duckduckgo.com###links:has-text(/Мажорка/):upward(5)
 
+duckduckgo.com##.result[data-domain="www.woman.ru"]
+duckduckgo.com##.result[data-domain="lifehacker.r"]
+
 duckduckgo.com###powered_by
 duckduckgo.com##.js-feedback-btn-wrap
 duckduckgo.com##.badge-link
@@ -297,6 +300,7 @@ tproger.ru##.footer-meta
 
 leetcode.com##img[alt="logo"]
 linkedin.com###msg-overlay
+
 pornhub.com##*
 beeg.com##*
 kod.ru##*
