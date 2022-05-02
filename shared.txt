@@ -355,9 +355,11 @@ ozon.ru##div[data-widget="catalogMenu"]
 ozon.ru##ul[data-widget="horizontalMenu"]
 ozon.ru##div[data-widget="objectBannerList"]
 ozon.ru##div[data-widget="footer"]
+ozon.ru##div[data-widget="container"]
 ozon.ru##div[data-widget="webNotificationsCounter"]
 ozon.ru##div[data-widget="skuLine"]:has-text(Рекомендации для вас)
 ozon.ru##a[data-widget="webToAppBanner"]
+ozon.ru##div[data-widget="paginator"]
 ozon.ru##div[data-widget="mobileEntryPoints"]
 ozon.ru##div[data-widget="objectGrid1"]
 ozon.ru##div[data-widget="objectGrid2"]
@@ -366,6 +368,7 @@ ozon.ru##a[href="/my/main"] .tsCaptionBold
 ozon.ru##a[href="/my/favorites"] .tsCaptionBold
 ozon.ru##a[href="/my/favorites/"] span span
 ozon.ru##a[href="/live"]
+ozon.ru##a[href=^"/highlight/"]
 ozon.ru##footer
 
 vk.com###fastchat-reforged
