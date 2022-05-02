@@ -358,8 +358,6 @@ ozon.ru##div[data-widget="footer"]
 ozon.ru##div[data-widget="webNotificationsCounter"]
 ozon.ru##div[data-widget="skuLine"]:has-text(Рекомендации для вас)
 ozon.ru##a[data-widget="webToAppBanner"]
-[$path=|/|]ozon.ru##div[data-widget="container"]
-[$path=|/|]ozon.ru##div[data-widget="paginator"]
 ozon.ru##div[data-widget="mobileEntryPoints"]
 ozon.ru##div[data-widget="objectGrid1"]
 ozon.ru##div[data-widget="objectGrid2"]
@@ -441,3 +439,6 @@ facebook.com##div[aria-label="Create a post"]
 facebook.com##div[data-pagelet="VideoChatHomeUnit"]
 
 telegram.org##.input-search
+
+[$path=|/|]ozon.ru##div[data-widget="container"]
+[$path=|/|]ozon.ru##div[data-widget="paginator"]
