@@ -355,7 +355,6 @@ ozon.ru##div[data-widget="catalogMenu"]
 ozon.ru##ul[data-widget="horizontalMenu"]
 ozon.ru##div[data-widget="objectBannerList"]
 ozon.ru##div[data-widget="footer"]
-ozon.ru##div[data-widget="container"]
 ozon.ru##div[data-widget="advBanner"]
 ozon.ru##div[data-widget="webNotificationsCounter"]
 ozon.ru##div[data-widget="skuLine"]:has-text(Рекомендации для вас)
