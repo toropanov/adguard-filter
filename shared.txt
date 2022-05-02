@@ -150,6 +150,20 @@ aliexpress.com##.hot-words
 aliexpress.com##.mobile-app
 aliexpress.com##.rus-mall-img
 
+aliexpress.ru##a[class*="TopBanner"]
+aliexpress.ru##div[class*="MultiSidebarTab"]
+aliexpress.ru##div[class*="IntroductionCarousel"]
+aliexpress.ru##a[class*="IntroductionBannerV2"]
+aliexpress.ru##div[class*="CampaignEntrance"]
+aliexpress.ru##div[class*="HotProducts"]
+aliexpress.ru##div[class*="TopProducts"]
+aliexpress.ru##div[class*="Footer"]
+aliexpress.ru##div[class*="InfoBanner"]
+aliexpress.ru##div[class*="Waterfall"]
+aliexpress.ru##div[class*="ChannelEntrance"]
+aliexpress.ru##div[class*="CategoriesMenu"]
+aliexpress.ru##div[class*="IntroductionEntrance"]
+
 stock.adobe.com###fmf-promo
 javascript.ru##.buy-book-button
 javascript.ru##.main__header-title
