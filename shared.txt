@@ -266,6 +266,11 @@ market.yandex.ru##div[data-zone-name="footerSubscription"]
 market.yandex.ru##div[data-apiary-widget-name="@MarketNode/FooterHistory"]
 market.yandex.ru##div[data-zone-name="Banner"]
 market.yandex.ru##div[data-zone-name="HeadBanner"]
+market.yandex.ru##div[data-zone-name="index-page"]
+market.yandex.ru##div[data-zone-name="category-link"]
+market.yandex.ru##div[data-zone-name="footer"]
+market.yandex.ru##div[data-zone-name="thematic-entrypoint"]
+market.yandex.ru##div[data-zone-name="review-poll-popup"]
 
 wylsa.com##.comments-area
 wylsa.com##.marketWidgetWrapper
