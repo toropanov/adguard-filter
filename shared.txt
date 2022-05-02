@@ -318,6 +318,7 @@ iphones.ru##*
 vc.ru##*
 lifehacker.ru##*
 3dnews.ru##*
+tjournal.ru##*
 
 pinterest.com##button[aria-label="Notifications"]
 pinterest.com##button[aria-label="Messages"]
