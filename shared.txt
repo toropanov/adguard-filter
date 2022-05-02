@@ -358,12 +358,12 @@ ozon.ru##div[data-widget="footer"]
 ozon.ru##div[data-widget="webNotificationsCounter"]
 ozon.ru##div[data-widget="skuLine"]:has-text(Рекомендации для вас)
 ozon.ru##a[data-widget="webToAppBanner"]
-[$path=|/|]ozon.ru##div[data-widget="mobileEntryPoints"]
 [$path=|/|]ozon.ru##div[data-widget="container"]
 [$path=|/|]ozon.ru##div[data-widget="paginator"]
-[$path=|/|]ozon.ru##div[data-widget="objectGrid1"]
-[$path=|/|]ozon.ru##div[data-widget="objectGrid2"]
-[$path=|/|]ozon.ru##div[data-widget="objectGrid3"]
+ozon.ru##div[data-widget="mobileEntryPoints"]
+ozon.ru##div[data-widget="objectGrid1"]
+ozon.ru##div[data-widget="objectGrid2"]
+ozon.ru##div[data-widget="objectGrid3"]
 ozon.ru##a[href="/my/main"] .tsCaptionBold
 ozon.ru##a[href="/my/favorites"] .tsCaptionBold
 ozon.ru##a[href="/my/favorites/"] span span
