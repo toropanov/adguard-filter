@@ -338,8 +338,16 @@ pinterest.com##button[aria-label="Notifications"]
 pinterest.com##button[aria-label="Messages"]
 leetcode.com###subscribe
 
-ozon.ru##div[data-widget="profileLogo"] .f-caption--bold
-ozon.ru##a[data-widget="favoriteCounter"] .f-caption--bold
+ozon.ru##div[data-widget="topBar"]
+ozon.ru##div[data-widget="catalogMenu"]
+ozon.ru##ul[data-widget="horizontalMenu"]
+ozon.ru##div[data-widget="objectBannerList"]
+ozon.ru##div[data-widget="skuLine"]:has-text(Рекомендации для вас)
+[$path=|/|]ozon.ru##div[data-widget="container"]
+[$path=|/|]ozon.ru##div[data-widget="paginator"]
+ozon.ru##a[href="/my/main"] .tsCaptionBold
+ozon.ru##a[href="/my/favorites"] .tsCaptionBold
+ozon.ru##footer
 
 vk.com###fastchat-reforged
 vk.com##.left_count_wrap
