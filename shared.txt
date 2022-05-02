@@ -151,6 +151,9 @@ aliexpress.com##.mobile-app
 aliexpress.com##.rus-mall-img
 
 aliexpress.ru##a[class*="TopBanner"]
+aliexpress.ru##div[class*="PseudoSmartBanner"]
+aliexpress.ru##div[class*="SnowDiamondMenu"]
+aliexpress.ru##div[class*="SnowPrivacyPolicyBanner"]
 aliexpress.ru##div[class*="MultiSidebarTab"]
 aliexpress.ru##div[class*="IntroductionCarousel"]
 aliexpress.ru##a[class*="IntroductionBannerV2"]
