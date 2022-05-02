@@ -271,6 +271,7 @@ market.yandex.ru##div[data-zone-name="category-link"]
 market.yandex.ru##div[data-zone-name="footer"]
 market.yandex.ru##div[data-zone-name="thematic-entrypoint"]
 market.yandex.ru##div[data-zone-name="review-poll-popup"]
+market.yandex.ru###catalogPopupButton
 
 wylsa.com##.comments-area
 wylsa.com##.marketWidgetWrapper
