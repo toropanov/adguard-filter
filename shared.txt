@@ -105,6 +105,8 @@ avito.ru##.footer-extended
 avito.ru##.js-promo-sticky-container
 avito.ru##.serp-vips
 avito.ru##.js-footer-app
+avito.ru##.fraud-alert
+avito.ru##.seller-safety
 avito.ru##.category-map
 avito.ru##div[class^="index-logo"]
 avito.ru##div[class^="index-social"]
@@ -116,6 +118,7 @@ avito.ru##div[data-marker="footer"]
 avito.ru##a[data-marker="navigation/link"]
 avito.ru##a[data-marker="search-form/save"]
 avito.ru##a[data-marker="more-link"]
+avito.ru##button[data-marker="navigation/more-button"]
 avito.ru##a[data-marker="menu/nc"]
 avito.ru##a[data-marker="menu/business"]
 avito.ru##a[href="/paid-services/listing-fees"]
