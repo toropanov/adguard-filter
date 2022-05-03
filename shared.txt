@@ -359,7 +359,7 @@ tproger.ru##.float-widget-container
 tproger.ru##.footer-meta
 
 glassdoor.com###ContentWallHardsell
-glassdoor.com#$#.mobile-banner-visible { overflow: scroll !important; }
+glassdoor.com#$#body { overflow: scroll !important; }
 
 leetcode.com##img[alt="logo"]
 linkedin.com###msg-overlay
