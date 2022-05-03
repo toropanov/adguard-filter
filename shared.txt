@@ -140,6 +140,28 @@ youla.ru##div[data-test-block="IndexContainerPanel"]
 youla.ru##div[data-test-block="IndexContainerSidebar"]
 youla.ru##footer[data-test-component="Footer"]
 
+drive2.ru##div[data-target="drom_main_view"]
+drive2.ru##button[data-action="notifications.toggle"]
+drive2.ru##button[data-role="subscribe"]
+drive2.ru##footer
+drive2.ru##.l-top
+drive2.ru##.l-nav
+drive2.ru##.c-share
+drive2.ru##.c-comments-counter
+drive2.ru##.c-like
+drive2.ru##.c-car-card
+drive2.ru##.c-user-card
+drive2.ru##.c-subscribe-container
+drive2.ru##.l-container > div:nth-child(2) > div:nth-child(1) > div:nth-child(4)
+drive2.ru##.l-container > div:nth-child(2) > div:nth-child(1) > div:nth-child(5)
+drive2.ru##.l-container > div:nth-child(2) > div:nth-child(1) > div:nth-child(6)
+drive2.ru##.l-container > div:nth-child(2) > div:nth-child(1) > div:nth-child(7)
+drive2.ru##.l-container > div:nth-child(2) > div:nth-child(1) > div:nth-child(8)
+drive2.ru##h1:has-text(Лента):upward(3)
+drive2.ru##div[class*="preview__comments"]
+drive2.ru##.l-container > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2)
+drive2.ru##.l-container > div:nth-child(2) > div:nth-child(2) > div:nth-child(2) > div:nth-child(2)
+
 aliexpress.com###home-firstscreen
 aliexpress.com###middle-promotion-container
 aliexpress.com###j-multi-sidebar-outer
