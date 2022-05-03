@@ -104,6 +104,7 @@ avito.ru##.main-page-flex-container
 avito.ru##.footer-extended
 avito.ru##.js-promo-sticky-container
 avito.ru##.serp-vips
+avito.ru##.js-footer-app
 avito.ru##.category-map
 avito.ru##div[class^="index-logo"]
 avito.ru##div[class^="index-social"]
@@ -122,6 +123,7 @@ avito.ru##div[data-marker="linked-info-banner"]
 avito.ru##div[data-marker="float-add-button"]
 avito.ru##div[data-marker="catalog-section"]
 avito.ru##div[data-marker="header/notifications"]
+avito.ru##div[data-banner-id="profile/apps-banner"]
 avito.ru##section[aria-label="Рекомендованные объявления"]
 
 youla.ru##h2
