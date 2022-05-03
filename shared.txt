@@ -199,6 +199,8 @@ aliexpress.ru##div[class*="Waterfall"]
 aliexpress.ru##div[class*="ChannelEntrance"]
 aliexpress.ru##div[class*="CategoriesMenu"]
 aliexpress.ru##div[class*="IntroductionEntrance"]
+aliexpress.ru##div[class*="ShoppingcartRecommendWrapper"]
+aliexpress.ru##div[class*="ShoppingcartPaymentBanner"]
 
 stock.adobe.com###fmf-promo
 javascript.ru##.buy-book-button
