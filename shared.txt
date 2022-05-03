@@ -111,6 +111,7 @@ avito.ru##.category-map
 avito.ru##div[class^="index-logo"]
 avito.ru##div[class^="index-social"]
 avito.ru##div[class^="index-center"]:has([data-marker="bx-recommendations-block-item"])
+avito.ru##div[class*="delivery-banner"]
 avito.ru##div[data-marker="new-section/list"]
 avito.ru##div[data-marker="header/navbar"] li
 avito.ru##div[data-marker="stories"]
