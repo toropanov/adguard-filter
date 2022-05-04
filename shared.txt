@@ -126,7 +126,7 @@ avito.ru##.seller-safety
 avito.ru##.category-map
 avito.ru##div[class^="index-logo"]
 avito.ru##div[class^="index-social"]
-avito.ru##div[class^="index-nav-item"]
+avito.ru##div[class*="index-nav-item"]
 avito.ru##div[class^="index-center"]:has([data-marker="bx-recommendations-block-item"])
 avito.ru##div[class*="delivery-banner"]
 avito.ru##div[data-marker="new-section/list"]
