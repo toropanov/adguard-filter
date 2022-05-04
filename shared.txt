@@ -386,10 +386,14 @@ glassdoor.com#$#body { overflow: scroll !important; }
 
 leetcode.com##img[alt="logo"]
 linkedin.com###msg-overlay
+linkedin.com##.share-box-feed-entry__closed-share-box
 linkedin.com##.avatar
+linkedin.com##.ad-banner-container
 linkedin.com##img[class*="avatar"]
 linkedin.com##img[class*="entity-image"]
 linkedin.com##img[class*="EntityPhoto"]
+linkedin.com##a[data-link-to="notifications"]
+linkedin.com##footer
 
 pornhub.com##*
 beeg.com##*
