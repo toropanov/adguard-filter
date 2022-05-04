@@ -255,6 +255,7 @@ behance.net##.js-vue-mobile-app-upsell
 behance.net##a:has-text(/Use App/)
 behance.net#$#.mobile-banner-visible { position: relative !important; }
 
+music.yandex.ru##.head-kids__controlls
 music.yandex.ru##.deco-teaser
 music.yandex.ru##.deco-tooltip
 music.yandex.ru##.page-main__line
