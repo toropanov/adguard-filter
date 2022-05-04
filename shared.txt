@@ -261,6 +261,8 @@ music.yandex.ru##.page-main__line
 music.yandex.ru##.footer
 music.yandex.ru##.teaser
 music.yandex.ru##.plus-points
+music.yandex.ru##.rup__content-description
+music.yandex.ru##.rup__content-button-caption
 
 drive.google.com##a[data-target="upgrade-storage"]
 drive.google.com##a[aria-label="Support"]
