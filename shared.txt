@@ -12,6 +12,8 @@ jsbin.com##.toppanel-logo
 jsbin.com##.toppanel-love
 jsbin.com##.menu:has-text(File)
 
+google.com##a[aria-label="Google apps"]
+
 youtube.com##ytd-mini-guide-renderer
 youtube.com###guide-wrapper
 youtube.com###guide-button
