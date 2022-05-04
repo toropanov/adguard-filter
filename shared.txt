@@ -107,6 +107,10 @@ raindrop.io##a[href="https://raindrop.io/pro/buy"]
 4pda.to##.borderwrap:contains("читают эту тему")
 
 yandex.ru##.services-new
+yandex.ru##.desk-notif-card
+yandex.ru##.headline__bar
+yandex.ru##.headline__datetime
+yandex.ru##.home-link
 yandex.ru##.media-grid
 ya.ru##a.layout__footer-logo
 ya.ru##a.personal__mail
