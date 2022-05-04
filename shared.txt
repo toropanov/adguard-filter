@@ -5,9 +5,12 @@ jsbin.com#%#if(location.search!=='?js,console'){location.search='?js,console'}
 duckduckgo.com#%#if(location.hostname=='duckduckgo.com'){location.hostname='safe.duckduckgo.com'}
 
 jsbin.com###toppanel
-jsbin.com###control
+jsbin.com###panels
 jsbin.com##.help
 jsbin.com##.meta
+jsbin.com##.toppanel-logo
+jsbin.com##.toppanel-love
+jsbin.com##.menu:has-text('File')
 
 youtube.com##ytd-mini-guide-renderer
 youtube.com###guide-wrapper
