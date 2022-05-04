@@ -90,6 +90,7 @@ duckduckgo.com##.dropdown--date
 duckduckgo.com##.logo-wrap--home
 duckduckgo.com##.tag-home
 duckduckgo.com##.footer_homepage
+duckduckgo.com##.footer
 
 raindrop.io##a[href="https://raindrop.io/pro/buy"]
 
