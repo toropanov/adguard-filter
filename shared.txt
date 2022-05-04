@@ -148,7 +148,7 @@ avito.ru##div[data-marker="catalog-section"]
 avito.ru##div[data-marker="header/notifications"]
 avito.ru##div[data-banner-id="profile/apps-banner"]
 avito.ru##section[aria-label="Рекомендованные объявления"]
-avito.ru##a[channels/channelLink]:has-text(Поддержка Авито)
+avito.ru##a[data-marker="channels/channelLink"]:has-text(Поддержка Авито)
 avito.ru###messenger-channels-list div[data-marker="avatar"]
 
 youla.ru##h2
