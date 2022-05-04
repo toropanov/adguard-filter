@@ -109,6 +109,8 @@ raindrop.io##a[href="https://raindrop.io/pro/buy"]
 
 yandex.ru##.services-new
 yandex.ru##.media-grid
+ya.ru##a.layout__footer-logo
+ya.ru##a.personal__mail
 
 avito.ru##.main-page-flex-container
 avito.ru##.footer-extended
