@@ -323,6 +323,8 @@ market.yandex.ru##div[data-zone-name="footer"]
 market.yandex.ru##div[data-zone-name="thematic-entrypoint"]
 market.yandex.ru##div[data-zone-name="review-poll-popup"]
 market.yandex.ru##div[data-apiary-widget-name="@mobile/Footer"]
+market.yandex.ru##div[data-apiary-widget-name="@MarketNode/HeaderNav"]
+market.yandex.ru##div[data-apiary-widget-name="@MarketNode/HeaderPlusBalance"]
 market.yandex.ru###catalogPopupButton
 
 wylsa.com##.comments-area
