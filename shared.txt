@@ -307,6 +307,7 @@ zen.yandex.ru##.article-subscribe-banner
 
 yandex.ru##.mn__first_up
 yandex.ru##.mn__services
+yandex.ru#$#.document:not(.document_dark_yes) .rows:after { height: 100vh !important; }
 
 music.yandex.ru##.deco-teaser
 market.yandex.ru##.n-review-poll
