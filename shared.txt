@@ -129,7 +129,7 @@ avito.ru##div[class^="index-social"]
 avito.ru##div[class^="index-center"]:has([data-marker="bx-recommendations-block-item"])
 avito.ru##div[class*="delivery-banner"]
 avito.ru##div[data-marker="new-section/list"]
-avito.ru##div[data-marker="header/navbar"] li
+avito.ru##div[data-marker="header/navbar"] > div:nth-child(1) > div:nth-child(1)
 avito.ru##div[data-marker="stories"]
 avito.ru##div[data-marker="footer"]
 avito.ru##a[data-marker="navigation/link"]
@@ -148,6 +148,8 @@ avito.ru##div[data-marker="catalog-section"]
 avito.ru##div[data-marker="header/notifications"]
 avito.ru##div[data-banner-id="profile/apps-banner"]
 avito.ru##section[aria-label="Рекомендованные объявления"]
+avito.ru##a[channels/channelLink]:has-text(Поддержка Авито)
+avito.ru###messenger-channels-list div[data-marker="avatar"]
 
 youla.ru##h2
 youla.ru##div[data-test-component="BannerRotator"]
@@ -255,6 +257,7 @@ behance.net##.js-vue-mobile-app-upsell
 behance.net##a:has-text(/Use App/)
 behance.net#$#.mobile-banner-visible { position: relative !important; }
 
+music.yandex.ru##.notify
 music.yandex.ru##.head-kids__controlls
 music.yandex.ru##.deco-teaser
 music.yandex.ru##.deco-tooltip
