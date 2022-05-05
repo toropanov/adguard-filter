@@ -291,7 +291,7 @@ music.yandex.ru##.plus-points
 music.yandex.ru##.rup__content-description
 music.yandex.ru##.rup__content-button-caption
 
-drive.google.com##a[data-target="upgrade-storage"]
+drive.google.com##div[data-target="upgrade-storage"]
 drive.google.com##a[aria-label="Support"]
 
 radio.yandex.ru##a.station[href^="/genre/"]
