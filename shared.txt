@@ -170,7 +170,10 @@ tinkoff.ru##div[class*="PulseComment"]
 tinkoff.ru##div[class*="Pulse"]
 tinkoff.ru##div[class*="Stories"]
 tinkoff.ru##div[class*="footer"]
+tinkoff.ru##div[class*="Tabs"]:has-text(Пульс)
 tinkoff.ru##a[href="/invest/pulse/"]:upward(1)
+tinkoff.ru##div[class*="Tabs-module__tabItem"]:has-text(Пульс)
+tinkoff.ru##div[class*="SecurityBlockHeader"]:has-text(Интересное в Пульсе)
 
 youla.ru##h2
 youla.ru##div[data-test-component="BannerRotator"]
