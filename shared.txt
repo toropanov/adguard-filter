@@ -165,6 +165,11 @@ avito.ru##a[href="/business"]
 avito.ru##a[href="/shops/moskva_i_mo"]
 avito.ru##a[href="//support.avito.ru"]
 
+tinkoff.ru##div[class*="PulsePost"]
+tinkoff.ru##div[class*="PulseComment"]
+tinkoff.ru##div[class*="Pulse"]
+tinkoff.ru##a[href="/invest/pulse/"]:upward(1)
+
 youla.ru##h2
 youla.ru##div[data-test-component="BannerRotator"]
 youla.ru##div[data-test-component="CategoryRotator"]
