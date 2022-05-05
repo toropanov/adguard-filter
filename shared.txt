@@ -165,9 +165,8 @@ avito.ru##a[href="/business"]
 avito.ru##a[href="/shops/moskva_i_mo"]
 avito.ru##a[href="//support.avito.ru"]
 
-tinkoff.ru##div[class*="PulsePost"]
-tinkoff.ru##div[class*="PulseComment"]
 tinkoff.ru##div[class*="Pulse"]
+tinkoff.ru##div[class*="pulse"]
 tinkoff.ru##div[class*="Stories"]
 tinkoff.ru##div[class*="footer"]
 tinkoff.ru##a[href="/invest/pulse/"]:upward(1)
