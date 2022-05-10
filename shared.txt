@@ -53,25 +53,26 @@ youtube.com##ytd-searchbox
 youtube.com###voice-search-button
 youtube.com##.banner-visible-area
 
-duckduckgo.com###links:has-text(/Димас Из Батайска/):upward(5)
+duckduckgo.com###links:has-text(/Димас Из Батайска/):upward(6)
 youtube.com##ytd-channel-name:has-text(Димас из Батайска):upward(12)
 youtube.com##h1:has-text(Димас из Батайска):upward(4)
 youtube.com##h3:has-text(Димас из Батайска):upward(10)
 
-duckduckgo.com###links:has-text(/Дима Гордей/):upward(5)
+duckduckgo.com###links:has-text(/Дима Гордей/):upward(6)
 youtube.com##ytd-channel-name:has-text(Дима Гордей):upward(12)
 youtube.com##h1:has-text(Дима Гордей):upward(4)
 youtube.com##h3:has-text(Дима Гордей):upward(10)
 
-duckduckgo.com###links:has-text(/Blondinka Drive/):upward(5)
+duckduckgo.com###links:has-text(/Blondinka Drive/):upward(6)
 youtube.com##ytd-channel-name:has-text(Blondinka Drive):upward(12)
 youtube.com##h1:has-text(Blondinka Drive):upward(4)
 youtube.com##h3:has-text(Blondinka Drive):upward(10)
 
-duckduckgo.com###links:has-text(/Тукитук/):upward(5)
-duckduckgo.com###links:has-text(/Афоня ТВ/):upward(5)
-duckduckgo.com###links:has-text(/Majorka/):upward(5)
-duckduckgo.com###links:has-text(/Мажорка/):upward(5)
+duckduckgo.com###links:has-text(/Тукитук/):upward(6)
+duckduckgo.com###links:has-text(/Афоня ТВ/):upward(6)
+duckduckgo.com###links:has-text(/Majorka/):upward(6)
+duckduckgo.com###links:has-text(/Мажорка/):upward(6)
+duckduckgo.com###links:has-text(smotrim.net):upward(6)
 
 duckduckgo.com##.result[data-domain="www.woman.ru"]
 duckduckgo.com##.result[data-domain="lifehacker.r"]
@@ -440,6 +441,8 @@ vc.ru##*
 lifehacker.ru##*
 3dnews.ru##*
 tjournal.ru##*
+smotrim.net##*
+mirtesen.ru##*
 
 pinterest.com##button[aria-label="Notifications"]
 pinterest.com##button[aria-label="Messages"]
