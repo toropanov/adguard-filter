@@ -162,6 +162,7 @@ avito.ru##li[class*="profile-sidebar-navigation-item"]:has-text(Кошелёк)
 avito.ru##li[class*="profile-sidebar-navigation-item"]:has-text(Заказы)
 avito.ru##li[class*="profile-sidebar-navigation-item"]:has-text(Мои отзывы)
 avito.ru##li[class*="profile-sidebar-navigation-item"]:has-text(Управление профилем)
+avito.ru##a[data-marker="menu/save-search"] span
 avito.ru##div[class*="index-info"]
 avito.ru##ul[class*="index-nav-inner"]
 avito.ru##span[class*="index-nav-tab-notify"]
