@@ -164,6 +164,7 @@ avito.ru##li[class*="profile-sidebar-navigation-item"]:has-text(Мои отзы�
 avito.ru##li[class*="profile-sidebar-navigation-item"]:has-text(Управление профилем)
 avito.ru##div[class*="index-info"]
 avito.ru##ul[class*="index-nav-inner"]
+avito.ru##span[class*="index-nav-tab-notify"]
 avito.ru##a[href="/business"]
 avito.ru##a[href="/shops/moskva_i_mo"]
 avito.ru##a[href="//support.avito.ru"]
