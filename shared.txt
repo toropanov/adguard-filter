@@ -74,6 +74,10 @@ duckduckgo.com###links:has-text(/Афоня ТВ/):upward(6)
 duckduckgo.com###links:has-text(/Majorka/):upward(6)
 duckduckgo.com###links:has-text(/Мажорка/):upward(6)
 duckduckgo.com###links:has-text(smotrim.net):upward(6)
+duckduckgo.com###links:has-text(escort):upward(6)
+duckduckgo.com###links:has-text(эскорт):upward(6)
+duckduckgo.com###links:has-text(голая):upward(6)
+duckduckgo.com###links:has-text(раздетая):upward(6)
 
 duckduckgo.com##.result[data-domain="www.woman.ru"]
 duckduckgo.com##.result[data-domain="lifehacker.r"]
