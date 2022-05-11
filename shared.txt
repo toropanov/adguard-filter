@@ -150,6 +150,7 @@ avito.ru##a[href="/profile/notifications"]:upward(1)
 avito.ru##a[href="/favorites"] i
 avito.ru##a[href="/profile/safety?srcRef=lk"]
 avito.ru##div[data-marker="header/notifications"]
+avito.ru##div[data-marker="header/username-tooltip/favorites/count"]
 avito.ru##div[data-marker="linked-info-banner"]
 avito.ru##div[data-marker="float-add-button"]
 avito.ru##div[data-marker="catalog-section"]
