@@ -549,6 +549,10 @@ facebook.com##div[role="complementary"]
 facebook.com##div[data-pagelet="Stories"]
 facebook.com##div[aria-label="Create a post"]
 facebook.com##div[data-pagelet="VideoChatHomeUnit"]
+facebook.com##img[alt*="Profile Photo"]
+facebook.com##div[data-pagelet*="FeedUnit"]:has-text(Reels)
+facebook.com##div[data-pagelet*="FeedUnit"]:has-text(People You May Know)
+facebook.com##div[role="feed"]
 
 telegram.org##.input-search
 
