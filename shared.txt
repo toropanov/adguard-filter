@@ -146,10 +146,11 @@ avito.ru##button[data-marker="navigation/more-button"]
 avito.ru##a[data-marker="menu/nc"]
 avito.ru##a[data-marker="menu/business"]
 avito.ru##a[href="/paid-services/listing-fees"]
-avito.ru##a[href="/profile/notifications"]
+avito.ru##a[href="/profile/notifications"]:upward(1)
 avito.ru##a[href="/favorites"] i
 avito.ru##a[href="/profile/safety?srcRef=lk"]
 avito.ru##div[data-marker="header/notifications"]
+avito.ru##div[data-marker="header/username-tooltip/favorites/count"]
 avito.ru##div[data-marker="linked-info-banner"]
 avito.ru##div[data-marker="float-add-button"]
 avito.ru##div[data-marker="catalog-section"]
@@ -564,6 +565,10 @@ facebook.com##div[role="complementary"]
 facebook.com##div[data-pagelet="Stories"]
 facebook.com##div[aria-label="Create a post"]
 facebook.com##div[data-pagelet="VideoChatHomeUnit"]
+facebook.com##img[alt*="Profile Photo"]
+facebook.com##div[data-pagelet*="FeedUnit"]:has-text(Reels)
+facebook.com##div[data-pagelet*="FeedUnit"]:has-text(People You May Know)
+facebook.com##div[role="feed"]
 
 telegram.org##.input-search
 
