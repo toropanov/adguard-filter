@@ -231,6 +231,7 @@ drive2.ru##.js-market-indexmode
 drive2.ru##.c-top-nav
 drive2.ru##.c-top__userpic
 drive2.ru##.c-radiogroup
+drive2.ru##a[data-action="msgr.show"]
 
 aliexpress.com###home-firstscreen
 aliexpress.com###middle-promotion-container
