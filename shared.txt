@@ -214,6 +214,21 @@ drive2.ru##h1:has-text(Лента):upward(3)
 drive2.ru##div[class*="preview__comments"]
 drive2.ru##.l-container > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2)
 drive2.ru##.l-container > div:nth-child(2) > div:nth-child(2) > div:nth-child(2) > div:nth-child(2)
+drive2.ru##a[data-ym-target="drom_car_click"]:upward(1)
+drive2.ru##div[data-target="drom_catalog_view"]
+drive2.ru##.c-slideshow
+drive2.ru##.c-car-info
+drive2.ru##.c-car-desc:upward(1)
+drive2.ru###comments:upward(2)
+drive2.ru##.c-block__more
+drive2.ru##div script:upward(1)
+drive2.ru##.c-lb-card__comments
+drive2.ru##.c-lb-card__likes
+drive2.ru##.c-lb-card__date
+drive2.ru##span.c-counter
+drive2.ru##div[data-tt="Записей в бортжурнале"]
+drive2.ru##div[title="Драйв"]
+drive2.ru##.js-market-indexmode
 
 aliexpress.com###home-firstscreen
 aliexpress.com###middle-promotion-container
