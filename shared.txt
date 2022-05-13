@@ -296,6 +296,7 @@ reddit.com##.scrollerItem:has-text("Top livestream")
 reddit.com##div[data-testid="frontpage-sidebar"]
 reddit.com##.XPromoPopup
 reddit.com##.TopNav__promoButton
+reddit.com##div[aria-modal="true"]:upward(1)
 
 lucidchart.com##lucid-message-bar
 lucidchart.com##.integration-buttons
