@@ -442,6 +442,9 @@ glassdoor.com###ContentWallHardsell
 glassdoor.com#$#body { overflow: scroll !important; }
 
 leetcode.com##img[alt="logo"]
+leetcode.com##div[class*="notification-btn-container"]:upward(1)
+leetcode.com##div[class*="nav-item-container"]:has-text(Store)
+
 linkedin.com###msg-overlay
 linkedin.com##.share-box-feed-entry__closed-share-box
 linkedin.com##.avatar
