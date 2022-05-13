@@ -4,6 +4,7 @@ drive2.ru#%#if(location.pathname=='/'){location.href='https://www.w3schools.com/
 jsbin.com#%#if(location.search!=='?js,console'){location.search='?js,console'}
 duckduckgo.com#%#if(location.hostname=='duckduckgo.com'){location.hostname='safe.duckduckgo.com'}
 toggl.com#%#if(location.pathname=='/'){location.href='https://track.toggl.com/timer'}
+journal.tinkoff.ru#%#if(location.pathname=='/'){location.href='https://www.w3schools.com/'}
 
 jsbin.com###toppanel
 jsbin.com###panels
