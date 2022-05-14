@@ -147,7 +147,7 @@ avito.ru##button[data-marker="navigation/more-button"]
 avito.ru##a[data-marker="menu/nc"]
 avito.ru##a[data-marker="menu/business"]
 avito.ru##a[href="/paid-services/listing-fees"]
-avito.ru##a[href="/profile/notifications"]:upward(1)
+avito.ru##a[href="/profile/notifications"]
 avito.ru##a[href="/favorites"] i
 avito.ru##a[href="/profile/safety?srcRef=lk"]
 avito.ru##div[data-marker="header/notifications"]
