@@ -135,6 +135,7 @@ avito.ru##div[class^="index-social"]
 avito.ru##li[class*="index-nav-item"]
 avito.ru##div[class^="index-center"]:has([data-marker="bx-recommendations-block-item"])
 avito.ru##div[class*="delivery-banner"]
+avito.ru##div[class*="header-navigation-logo"]
 avito.ru##div[data-marker="new-section/list"]
 avito.ru##div[data-marker="stories"]
 avito.ru##div[data-marker="geo-location"]
@@ -256,6 +257,7 @@ aliexpress.com##.rus-mall-img
 aliexpress.ru##a[class*="TopBanner"]
 aliexpress.ru##a[class*="PseudoSmartBanner"]
 aliexpress.ru##div[class*="SnowDiamondMenu"]
+aliexpress.ru##div[class*="Header_Logo"]
 aliexpress.ru##div[class*="MobileSnowNavigation"]
 aliexpress.ru##div[class*="SnowPrivacyPolicyBanner"]
 aliexpress.ru##div[class*="MultiSidebarTab"]
@@ -502,6 +504,7 @@ ozon.ru##a[href="/my/main"] .tsCaptionBold
 ozon.ru##a[href="/my/favorites"] .tsCaptionBold
 ozon.ru##a[href="/my/favorites/"] span span
 ozon.ru##a[href="/live"]
+ozon.ru##header img[alt="Ozon"]
 ozon.ru##footer
 
 vk.com###fastchat-reforged
