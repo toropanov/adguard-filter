@@ -259,6 +259,7 @@ aliexpress.ru##a[class*="PseudoSmartBanner"]
 aliexpress.ru##div[class*="SnowDiamondMenu"]
 aliexpress.ru##div[class*="Header_Logo"]
 aliexpress.ru##div[class*="MobileSnowNavigation"]
+aliexpress.ru##div[class*="SearchHeader_CategoriesWithToggleButton"]
 aliexpress.ru##div[class*="SnowPrivacyPolicyBanner"]
 aliexpress.ru##div[class*="MultiSidebarTab"]
 aliexpress.ru##div[class*="IntroductionCarousel"]
@@ -275,6 +276,9 @@ aliexpress.ru##div[class*="CategoriesMenu"]
 aliexpress.ru##div[class*="IntroductionEntrance"]
 aliexpress.ru##div[class*="ShoppingcartRecommendWrapper"]
 aliexpress.ru##div[class*="ShoppingcartPaymentBanner"]
+aliexpress.ru##i[class*="Header_ShopCart__counter"]
+aliexpress.ru##div[class*="TopHeadV2_TopHeadV2__topBarItem"]:has-text(Продавайте на AliExpress)
+aliexpress.ru##div[class*="TopHeadV2_TopHeadV2__topBarItemsWrap"]:has-text(Защита Покупателя)
 
 stock.adobe.com###fmf-promo
 javascript.ru##.buy-book-button
