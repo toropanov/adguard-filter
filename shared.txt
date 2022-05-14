@@ -277,6 +277,7 @@ aliexpress.ru##div[class*="IntroductionEntrance"]
 aliexpress.ru##div[class*="ShoppingcartRecommendWrapper"]
 aliexpress.ru##div[class*="ShoppingcartPaymentBanner"]
 aliexpress.ru##i[class*="Header_ShopCart__counter"]
+aliexpress.ru##div[class*="SearchHeader_ShopCart__counter"]
 aliexpress.ru##div[class*="TopHeadV2_TopHeadV2__topBarItem"]:has-text(Продавайте на AliExpress)
 aliexpress.ru##div[class*="TopHeadV2_TopHeadV2__topBarItemsWrap"]:has-text(Защита Покупателя)
 
