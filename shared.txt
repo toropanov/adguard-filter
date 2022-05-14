@@ -484,6 +484,7 @@ lifehacker.ru##*
 tjournal.ru##*
 smotrim.net##*
 mirtesen.ru##*
+maximonline.ru##*
 
 pinterest.com##button[aria-label="Notifications"]
 pinterest.com##button[aria-label="Messages"]
