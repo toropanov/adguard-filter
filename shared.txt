@@ -59,7 +59,7 @@ youtube.com##ytd-channel-name:has-text(/Димас из Батайска|Дим�
 youtube.com##h1:has-text(/Димас из Батайска|Дима Гордей|Blondinka Drive/):upward(4)
 youtube.com##h3:has-text(/Димас из Батайска|Дима Гордей|Blondinka Drive/):upward(10)
 
-duckduckgo.com###links:has-text(/Тукитук|Афоня ТВ|Majorka|Мажорка|smotrim.net|escort|эскорт|голая|раздетая|топлес|Blondinka Drive|Дима Гордей|Димас Из Батайска|dezinfo.net/devushki/):upward(6)
+duckduckgo.com###links:has-text(/Тукитук|Афоня ТВ|Majorka|Мажорка|smotrim.net|escort|эскорт|голая|раздетая|топлес|Blondinka Drive|Дима Гордей|Димас Из Батайска|dezinfo.net/devushki|sliv-foto.ru/):upward(6)
 
 duckduckgo.com##.result[data-domain="www.woman.ru"]
 duckduckgo.com##.result[data-domain="lifehacker.ru"]
