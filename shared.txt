@@ -301,7 +301,8 @@ behance.net##a:has-text(/Use App/)
 behance.net#$#.mobile-banner-visible { position: relative !important; }
 
 music.yandex.ru##.notify
-music.yandex.ru##.head-kids__controlls
+music.yandex.ru##a[data-name="kids"]
+music.yandex.ru##a[data-name="non-music"]
 music.yandex.ru##.deco-teaser
 music.yandex.ru##.deco-tooltip
 music.yandex.ru##.page-main__line
