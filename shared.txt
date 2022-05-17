@@ -315,6 +315,9 @@ music.yandex.ru##.rup__content-description
 music.yandex.ru##.rup__content-button-caption
 music.yandex.ru##span.playlist-notification
 music.yandex.ru##.rup__animation
+music.yandex.ru##.page-album__top
+music.yandex.ru##.page-album__other-artist-albums
+music.yandex.ru##.page-album__related-content
 music.yandex.ru##.page-users .d-generic-page-head
 
 drive.google.com##div[data-target="upgrade-storage"]:upward(2)
