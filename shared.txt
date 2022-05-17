@@ -294,8 +294,10 @@ lucidchart.com##.component-growl-container
 
 forum.adguard.com###header
 
+kino.pub###content[role="main"] .app-body:has-text(Новые фильмы)
 kino.pub##a[href="/selection/my"]
 kino.pub##a[href="/subtitle"]
+kino.pub###aside
 kino.pub###aside:remove()
 kino.pub###comments
 
@@ -378,10 +380,12 @@ yandex.ru##.mn__first_up
 yandex.ru##.mn__services
 yandex.ru#$#.document:not(.document_dark_yes) .rows:after { height: 100vh !important; }
 
+mkze.elm.ovh###content[role="main"] .app-body:has-text(Новые фильмы)
 mkze.elm.ovh##a[href="/selection/my"]
 mkze.elm.ovh##a[href="/subtitle"]
+mkze.elm.ovh###aside
 mkze.elm.ovh###aside:remove()
-mkze.el.ovh###comments
+mkze.elm.ovh###comments
 
 music.yandex.ru##.deco-teaser
 market.yandex.ru##.n-review-poll
