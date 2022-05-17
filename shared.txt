@@ -3,8 +3,10 @@ drive2.ru#%#if(location.pathname=='/'){location.href='https://www.w3schools.com/
 4pda.to#%#if(location.pathname=='/' || location.search == '?act=idx' || location.search.includes('showforum')){ location.href = 'https://safe.duckduckgo.com' }
 jsbin.com#%#if(location.search!=='?js,console'){location.search='?js,console'}
 duckduckgo.com#%#if(location.hostname=='duckduckgo.com'){location.hostname='safe.duckduckgo.com'}
+mkze.elm.ovh#%#if(location.pathname=='/'){location.pathname='/favorites'}
 toggl.com#%#if(location.pathname=='/'){location.href='https://track.toggl.com/timer'}
 journal.tinkoff.ru#%#if(location.pathname=='/'){location.href='https://www.w3schools.com/'}
+kino.pub#%#if(location.pathname=='/'){location.pathname='/favorites'}
 
 jsbin.com###toppanel
 jsbin.com###panels
@@ -292,6 +294,11 @@ lucidchart.com##.component-growl-container
 
 forum.adguard.com###header
 
+kino.pub##a[href="/selection/my"]
+kino.pub##a[href="/subtitle"]
+kino.pub###aside nav
+kino.pub###comments
+
 behance.net##.Popup-popup-Hub
 behance.net##button:has-text(/Sign Up/)
 behance.net##.InfinityFooter__global-selector
@@ -370,6 +377,11 @@ zen.yandex.ru##.article-subscribe-banner
 yandex.ru##.mn__first_up
 yandex.ru##.mn__services
 yandex.ru#$#.document:not(.document_dark_yes) .rows:after { height: 100vh !important; }
+
+mkze.elm.ovh##a[href="/selection/my"]
+mkze.elm.ovh##a[href="/subtitle"]
+mkze.elm.ovh###aside nav
+mkze.el.ovh###comments
 
 music.yandex.ru##.deco-teaser
 market.yandex.ru##.n-review-poll
@@ -597,10 +609,3 @@ telegram.org##.input-search
 
 [$path=|/|]ozon.ru##div[data-widget="container"]
 [$path=|/|]ozon.ru##div[data-widget="paginator"]
-
-##footer#footer
-##footer.footer
-##div#footer
-##div.footer
-##[class~=footer]
-##[id~=footer]
