@@ -303,6 +303,8 @@ behance.net#$#.mobile-banner-visible { position: relative !important; }
 music.yandex.ru##.notify
 music.yandex.ru##a[data-name="kids"]
 music.yandex.ru##a[data-name="non-music"]
+music.yandex.ru##div[data-tab-id="kids"]
+music.yandex.ru##.page-radio__station:has-text(/Rap and Hip-Hop|R'n'B|Children’s Music|Soviet music|Russian Chanson|Retro Pop/)
 music.yandex.ru##.deco-teaser
 music.yandex.ru##.deco-tooltip
 music.yandex.ru##.page-main__line
@@ -313,6 +315,7 @@ music.yandex.ru##.rup__content-description
 music.yandex.ru##.rup__content-button-caption
 music.yandex.ru##span.playlist-notification
 music.yandex.ru##.rup__animation
+music.yandex.ru##.page-users .d-generic-page-head
 
 drive.google.com##div[data-target="upgrade-storage"]:upward(2)
 drive.google.com##a[data-target="quota"]
