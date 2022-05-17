@@ -296,7 +296,7 @@ forum.adguard.com###header
 
 kino.pub##a[href="/selection/my"]
 kino.pub##a[href="/subtitle"]
-kino.pub###aside nav
+kino.pub###aside:remove()
 kino.pub###comments
 
 behance.net##.Popup-popup-Hub
@@ -380,7 +380,7 @@ yandex.ru#$#.document:not(.document_dark_yes) .rows:after { height: 100vh !impor
 
 mkze.elm.ovh##a[href="/selection/my"]
 mkze.elm.ovh##a[href="/subtitle"]
-mkze.elm.ovh###aside nav
+mkze.elm.ovh###aside:remove()
 mkze.el.ovh###comments
 
 music.yandex.ru##.deco-teaser
