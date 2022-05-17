@@ -319,6 +319,7 @@ music.yandex.ru##.page-album__top
 music.yandex.ru##.page-album__other-artist-albums
 music.yandex.ru##.page-album__related-content
 music.yandex.ru##.page-users .d-generic-page-head
+music.yandex.ru##.entity-cover
 
 drive.google.com##div[data-target="upgrade-storage"]:upward(2)
 drive.google.com##a[data-target="quota"]
