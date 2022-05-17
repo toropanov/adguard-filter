@@ -300,6 +300,7 @@ kino.pub##a[href="/subtitle"]
 kino.pub###aside
 kino.pub###aside:remove()
 kino.pub###comments
+kino.pub##.carousel-index:upward(1)
 
 behance.net##.Popup-popup-Hub
 behance.net##button:has-text(/Sign Up/)
@@ -386,6 +387,7 @@ mkze.elm.ovh##a[href="/subtitle"]
 mkze.elm.ovh###aside
 mkze.elm.ovh###aside:remove()
 mkze.elm.ovh###comments
+mkze.elm.ovh##.carousel-index:upward(1)
 
 music.yandex.ru##.deco-teaser
 market.yandex.ru##.n-review-poll
