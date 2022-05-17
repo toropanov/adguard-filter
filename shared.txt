@@ -597,3 +597,10 @@ telegram.org##.input-search
 
 [$path=|/|]ozon.ru##div[data-widget="container"]
 [$path=|/|]ozon.ru##div[data-widget="paginator"]
+
+##footer#footer
+##footer.footer
+##div#footer
+##div.footer
+##[class~=footer]
+##[id~=footer]
