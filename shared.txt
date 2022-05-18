@@ -499,7 +499,7 @@ smotrim.net##*
 mirtesen.ru##*
 maximonline.ru##*
 rozetked.me##*
-ixbt.com
+ixbt.com##*
 
 pinterest.com##button[aria-label="Notifications"]
 pinterest.com##button[aria-label="Messages"]
