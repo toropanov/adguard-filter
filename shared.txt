@@ -548,6 +548,8 @@ vk.com###profile_albums
 vk.com###profile_media_narrow_block
 vk.com###top_audio
 vk.com###side_bar
+vk.com###search_menu
+vk.com###filter_form
 vk.com###group_topics
 vk.com###react_rootEcosystemServicesNavigationEntry
 vk.com##aside[aria-label="Contacts"]
@@ -563,6 +565,7 @@ vk.com##aside[aria-label="May attend"]
 vk.com##aside[aria-label="Articles"]
 vk.com##aside[aria-label="Photos"]
 vk.com##aside[aria-label="Organizers"]
+vk.com##aside[aria-label="Discussion board"]
 vk.com##.group_counters_wrap
 vk.com##.people_cell_img
 vk.com##.search_item_img
