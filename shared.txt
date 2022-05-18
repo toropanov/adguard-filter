@@ -296,13 +296,20 @@ reddit.com##.scrollerItem:has-text("Top livestream")
 reddit.com##div[data-testid="frontpage-sidebar"]
 reddit.com##.XPromoPopup
 reddit.com##.TopNav__promoButton
+reddit.com###SearchDropdown
 reddit.com##div[aria-modal="true"]:upward(1)
+reddit.com##header a[href="/r/popular/"]:upward(2)
+reddit.com##header a[href="https://www.reddit.com/chat"]:upward(2)
+reddit.com##i.icon-karma_fill:upward(1)
+reddit.com##div[aria-label="Start typing to filter your communities or use up and down to select."]
 
 lucidchart.com##lucid-message-bar
 lucidchart.com##.integration-buttons
 lucidchart.com##.component-growl-container
 
 forum.adguard.com###header
+forum.adguard.com##.p-body-sidebar
+forum.adguard.com##.node-extra
 
 kino.pub###content[role="main"] .app-body:has-text(Новые фильмы)
 kino.pub##a[href="/selection/my"]
@@ -487,29 +494,7 @@ linkedin.com##img[class*="EntityPhoto"]
 linkedin.com##a[data-link-to="notifications"]
 linkedin.com##footer
 
-kod.ru##*
-appleinsider.ru##*
-androidinsider.ru##*
-pornhub.com##*
-mobile-review.com##*
-iguides.ru##*
-lenta.ru##*
-beeg.com##*
-wylsa.com##*
-ria.ru##*
-rbc.ru##*
-vedomosti.ru##*
-pikabu.ru##*
-iphones.ru##*
-vc.ru##*
-lifehacker.ru##*
-3dnews.ru##*
-tjournal.ru##*
-smotrim.net##*
-mirtesen.ru##*
-maximonline.ru##*
-rozetked.me##*
-ixbt.com##*
+kod.ru,appleinsider.ru,androidinsider.ru,pornhub.com,mobile-review.com,iguides.ru,lenta.ru,beeg.com,wylsa.com,ria.ru,rbc.ru,vedomosti.ru,pikabu.ru,iphones.ru,vc.ru,lifehacker.ru,3dnews.ru,tjournal.ru,smotrim.net,mirtesen.ru,maximonline.ru,rozetked.me,ixbt.com,ferra.ru##*
 
 pinterest.com##button[aria-label="Notifications"]
 pinterest.com##button[aria-label="Messages"]
