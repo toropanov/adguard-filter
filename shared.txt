@@ -547,7 +547,6 @@ vk.com###public_videos
 vk.com###profile_albums
 vk.com###profile_media_narrow_block
 vk.com###top_audio
-vk.com###narrow_column
 vk.com###side_bar
 vk.com###group_topics
 vk.com###react_rootEcosystemServicesNavigationEntry
