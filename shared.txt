@@ -554,7 +554,7 @@ vk.com###filter_form
 vk.com##.search_results
 vk.com###group_topics
 vk.com##.mention_tt_img
-vk.com##.mention_tt
+vk.com##.wall_signed
 vk.com##.page_actions_more
 vk.com###react_rootEcosystemServicesNavigationEntry
 vk.com##aside[aria-label="Contacts"]
