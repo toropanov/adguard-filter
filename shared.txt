@@ -550,6 +550,7 @@ vk.com###top_audio
 vk.com###side_bar
 vk.com###search_menu
 vk.com###filter_form
+vk.com###search_content
 vk.com###group_topics
 vk.com###react_rootEcosystemServicesNavigationEntry
 vk.com##aside[aria-label="Contacts"]
