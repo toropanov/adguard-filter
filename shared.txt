@@ -574,6 +574,8 @@ vk.com##aside[aria-label="Music"]
 vk.com##.people_cell_img
 vk.com##.search_item_img
 vk.com##.TopSearch
+vk.com###feed_recommends
+vk.com###stories_feed_wrap
 vk.com##.profile_rate_warning
 vk.com###profile_photos_module
 vk.com###profile_friends_recomm
