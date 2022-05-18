@@ -553,6 +553,7 @@ vk.com###search_menu
 vk.com###filter_form
 vk.com##.search_results
 vk.com###group_topics
+vk.com##.page_actions_more
 vk.com###react_rootEcosystemServicesNavigationEntry
 vk.com##aside[aria-label="Contacts"]
 vk.com##aside[aria-label="Links"]
@@ -566,6 +567,7 @@ vk.com##aside[aria-label="Attending"]
 vk.com##aside[aria-label="May attend"]
 vk.com##aside[aria-label="Articles"]
 vk.com##aside[aria-label="Photos"]
+vk.com##aside[aria-label="Files"]
 vk.com##aside[aria-label="Organizers"]
 vk.com##aside[aria-label="Discussion board"]
 vk.com##.group_counters_wrap
