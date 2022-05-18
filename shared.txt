@@ -549,6 +549,7 @@ vk.com###profile_media_narrow_block
 vk.com###top_audio
 vk.com###narrow_column
 vk.com###side_bar
+vk.com###public_subscribe
 vk.com###group_topics
 vk.com###react_rootEcosystemServicesNavigationEntry
 vk.com##aside[aria-label="Contacts"]
