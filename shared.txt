@@ -576,6 +576,7 @@ vk.com##.search_item_img
 vk.com##.TopSearch
 vk.com###feed_recommends
 vk.com###stories_feed_wrap
+vk.com###feed_rmenu
 vk.com##.profile_rate_warning
 vk.com###profile_photos_module
 vk.com###profile_friends_recomm
