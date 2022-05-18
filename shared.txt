@@ -25,6 +25,7 @@ imdb.com##label[aria-label="Open Navigation Drawer"]
 imdb.com##.watchlistButtonCount
 imdb.com##.ipc-page-grid:has-text(/Featured today|Recently viewed|More to watch|Exclusive videos|Explore what’s streaming|Explore Movies & TV shows|Coming soon to theaters|Born today|Top news/)
 imdb.com##section.recently-viewed-items
+imdb.com##.recently-viewed
 
 youtube.com##ytd-mini-guide-renderer
 youtube.com###guide-wrapper
@@ -263,6 +264,8 @@ aliexpress.ru##div[class*="SharePanel"]
 aliexpress.ru##div[class*="Waterfall"]
 aliexpress.ru##div[class*="ChannelEntrance"]
 aliexpress.ru##div[class*="CategoriesMenu"]
+aliexpress.ru##div[class*="FestivalVenue"]
+aliexpress.ru##div[class*="DiscountsByCategoriesList"]
 aliexpress.ru##div[class*="IntroductionEntrance"]
 aliexpress.ru##div[class*="ShoppingcartRecommendWrapper"]
 aliexpress.ru##div[class*="ShoppingcartPaymentBanner"]
