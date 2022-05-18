@@ -521,7 +521,8 @@ ozon.ru##a[href="/my/favorites"] .tsCaptionBold
 ozon.ru##a[href="/my/favorites/"] span span
 ozon.ru##a[href="/live"]
 ozon.ru##header img[alt="Ozon"]
-ozon.ru##footer
+[$path=|/|]ozon.ru##div[data-widget="container"]
+[$path=|/|]ozon.ru##div[data-widget="paginator"]
 
 woman.ru##*
 otvet.mail.ru##*
@@ -657,9 +658,6 @@ facebook.com##div[data-pagelet*="FeedUnit"]:has-text(People You May Know)
 facebook.com##div[role="feed"]
 
 telegram.org##.input-search
-
-[$path=|/|]ozon.ru##div[data-widget="container"]
-[$path=|/|]ozon.ru##div[data-widget="paginator"]
 
 ##footer
 ###footer
