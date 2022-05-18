@@ -477,14 +477,14 @@ linkedin.com##img[class*="EntityPhoto"]
 linkedin.com##a[data-link-to="notifications"]
 linkedin.com##footer
 
-pornhub.com##*
-beeg.com##*
 kod.ru##*
 appleinsider.ru##*
 androidinsider.ru##*
+pornhub.com##*
 mobile-review.com##*
 iguides.ru##*
 lenta.ru##*
+beeg.com##*
 wylsa.com##*
 ria.ru##*
 rbc.ru##*
@@ -621,3 +621,7 @@ telegram.org##.input-search
 
 [$path=|/|]ozon.ru##div[data-widget="container"]
 [$path=|/|]ozon.ru##div[data-widget="paginator"]
+
+##footer
+###footer
+##.footer
