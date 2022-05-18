@@ -494,7 +494,7 @@ linkedin.com##img[class*="EntityPhoto"]
 linkedin.com##a[data-link-to="notifications"]
 linkedin.com##footer
 
-kod.ru,appleinsider.ru,androidinsider.ru,pornhub.com,mobile-review.com,iguides.ru,lenta.ru,beeg.com,wylsa.com,ria.ru,rbc.ru,vedomosti.ru,pikabu.ru,iphones.ru,vc.ru,lifehacker.ru,3dnews.ru,tjournal.ru,smotrim.net,mirtesen.ru,maximonline.ru,rozetked.me,ixbt.com,ferra.ru##*
+kod.ru,appleinsider.ru,androidinsider.ru,pornhub.com,mobile-review.com,moscowtimes.ru,iguides.ru,lenta.ru,beeg.com,wylsa.com,ria.ru,rbc.ru,vedomosti.ru,pikabu.ru,iphones.ru,vc.ru,lifehacker.ru,3dnews.ru,tjournal.ru,smotrim.net,mirtesen.ru,maximonline.ru,rozetked.me,ixbt.com,ferra.ru##*
 
 pinterest.com##button[aria-label="Notifications"]
 pinterest.com##button[aria-label="Messages"]
@@ -547,6 +547,10 @@ vk.com###public_videos
 vk.com###profile_albums
 vk.com###profile_media_narrow_block
 vk.com###top_audio
+vk.com###narrow_column
+vk.com###side_bar
+vk.com###page_header_cont
+vk.com###group_topics
 vk.com###react_rootEcosystemServicesNavigationEntry
 vk.com##aside[aria-label="Contacts"]
 vk.com##aside[aria-label="Links"]
@@ -556,6 +560,12 @@ vk.com##aside[aria-label="Following"]
 vk.com##aside[aria-label="Photo albums"]
 vk.com##aside[aria-label="Videos"]
 vk.com##aside[aria-label="Music"]
+vk.com##aside[aria-label="Attending"]
+vk.com##aside[aria-label="May attend"]
+vk.com##aside[aria-label="Articles"]
+vk.com##aside[aria-label="Photos"]
+vk.com##aside[aria-label="Organizers"]
+vk.com##.group_counters_wrap
 vk.com##.people_cell_img
 vk.com##.search_item_img
 vk.com##.TopSearch
