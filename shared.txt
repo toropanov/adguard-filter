@@ -572,6 +572,7 @@ vk.com##aside[aria-label="Photo albums"]
 vk.com##aside[aria-label="Videos"]
 vk.com##aside[aria-label="Music"]
 vk.com##.people_cell_img
+vk.com##.search_item_img
 vk.com###profile_photos_module
 vk.com###profile_friends_recomm
 vk.com###submit_post_box
