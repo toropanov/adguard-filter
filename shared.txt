@@ -538,6 +538,11 @@ ozon.ru##a[href="/live"]
 ozon.ru##header img[alt="Ozon"]
 ozon.ru##footer
 
+woman.ru##*
+otvet.mail.ru##*
+
+spormaster.ru##.up-header-banner
+
 vk.com###fastchat-reforged
 vk.com##.left_count_wrap
 vk.com##.like_wrap
@@ -545,13 +550,29 @@ vk.com##.replies
 vk.com##.post_replies_header
 vk.com##.header__title
 vk.com##h1[aria-labelledby="header__title"]
-
-woman.ru##*
-otvet.mail.ru##*
-
-spormaster.ru##.up-header-banner
-
 vk.com###page_avatar
+vk.com##.post_img
+vk.com##.ui_ownblock_img
+vk.com##.TopNavBtn__profileImg
+vk.com##.ReactionsPreview
+vk.com##.Avatar
+vk.com##.copy_post_img
+vk.com##.friends_photo_img
+vk.com###public_videos
+vk.com###profile_albums
+vk.com###profile_media_narrow_block
+vk.com###top_audio
+vk.com###react_rootEcosystemServicesNavigationEntry
+vk.com##aside[aria-label="Contacts"]
+vk.com##aside[aria-label="Links"]
+vk.com##aside[aria-label="Gifts"]
+vk.com##aside[aria-label="Friends "]
+vk.com##aside[aria-label="Following"]
+vk.com##aside[aria-label="Photo albums"]
+vk.com##aside[aria-label="Videos"]
+vk.com##aside[aria-label="Music"]
+vk.com##.people_cell_img
+vk.com###profile_photos_module
 vk.com###profile_friends_recomm
 vk.com###submit_post_box
 vk.com###public_followers
