@@ -19,6 +19,13 @@ jsbin.com##.menu:has-text(File)
 google.com##a[aria-label="Google apps"]
 google.com##div[aria-label="Show side panel"]
 
+imdb.com##.swiper-wrapper:upward(3)
+imdb.com##a[aria-label="Go To IMDb Pro"]
+imdb.com##label[aria-label="Open Navigation Drawer"]
+imdb.com##.watchlistButtonCount
+imdb.com##.ipc-page-grid:has-text(/Featured today|Recently viewed|More to watch|Exclusive videos|Explore what’s streaming|Explore Movies & TV shows|Coming soon to theaters|Born today|Top news/)
+imdb.com##section.recently-viewed-items
+
 youtube.com##ytd-mini-guide-renderer
 youtube.com###guide-wrapper
 youtube.com###guide-button
