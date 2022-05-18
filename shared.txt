@@ -569,6 +569,8 @@ vk.com##.group_counters_wrap
 vk.com##.people_cell_img
 vk.com##.search_item_img
 vk.com##.PostHeader
+vk.com###wall_tabs
+vk.com##.copy_post_header
 vk.com##.TopSearch
 vk.com###feed_recommends
 vk.com###stories_feed_wrap
