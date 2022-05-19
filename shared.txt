@@ -7,6 +7,7 @@ mkze.elm.ovh#%#if(location.pathname=='/'){location.pathname='/favorites'}
 toggl.com#%#if(location.pathname=='/'){location.href='https://track.toggl.com/timer'}
 journal.tinkoff.ru#%#if(location.pathname=='/'){location.href='https://www.w3schools.com/'}
 kino.pub#%#if(location.pathname=='/'){location.pathname='/favorites'}
+ozon.ru#%#if(location.pathname=='/'){location.pathname='/category'}
 
 jsbin.com###toppanel
 jsbin.com###panels
@@ -528,7 +529,6 @@ ozon.ru##div[data-widget="skuScroll"]:has-text(/Вы смотрели/)
 ozon.ru##div[data-widget="skuGrid3"]:has-text(/Рекомендуем/)
 ozon.ru##div[data-widget="skuLine"]:has-text(/Рекомендации для вас|Вы смотрели/)
 ozon.ru##a[data-widget="webToAppBanner"]
-ozon.ru##div[data-widget="paginator"]
 ozon.ru##div[data-widget="mobileEntryPoints"]
 ozon.ru##div[data-widget="setOfPreviews"]
 ozon.ru##div[data-widget="objectGrid1"]
@@ -548,9 +548,8 @@ ozon.ru##span:has-text(Уведомления):upward(1)
 ozon.ru##a[href^="/seller/"]
 ozon.ru##a[href^="/category/elektronnye-sigarety-i-tovary-dlya-kureniya"]
 ozon.ru##a[href^="/category/tovary-dlya-vzroslyh"]
+ozon.ru##a[href^="/category/alkogol"]
 ozon.ru##a[href="/my/notifications"]
-[$path=|/|]ozon.ru##div[data-widget="container"]
-[$path=|/|]ozon.ru##div[data-widget="paginator"]
 
 spormaster.ru##.up-header-banner
 
