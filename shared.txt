@@ -523,6 +523,7 @@ ozon.ru##div[data-widget="advBanner"]
 ozon.ru##div[data-widget="objectCloud"]
 ozon.ru##div[data-widget="listReviewsDesktop"]
 ozon.ru##div[data-widget="tagList"]
+ozon.ru##div[data-widget="profileMenu"]:upward(4)
 ozon.ru##form:has-text(Не нашли, что искали?)
 ozon.ru##div[data-widget="webNotificationsCounter"]
 ozon.ru##div[data-widget^="sku"]:has-text(/Похожие товары|Спонсорские товары|Покупают вместе|Рекомендуем|Вы смотрели|Рекомендации/)
