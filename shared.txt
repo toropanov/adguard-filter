@@ -496,8 +496,15 @@ linkedin.com##footer
 
 kod.ru,appleinsider.ru,androidinsider.ru,pornhub.com,mobile-review.com,moscowtimes.ru,iguides.ru,lenta.ru,beeg.com,wylsa.com,ria.ru,rbc.ru,vedomosti.ru,pikabu.ru,iphones.ru,vc.ru,lifehacker.ru,3dnews.ru,tjournal.ru,smotrim.net,mirtesen.ru,maximonline.ru,rozetked.me,ixbt.com,ferra.ru##*
 
-pinterest.com##button[aria-label="Notifications"]
-pinterest.com##button[aria-label="Messages"]
+pinterest.com##.AggregatedCloseupCard
+pinterest.com##div[aria-label="Notifications"]
+pinterest.com##div[aria-label="Messages"]
+pinterest.com##div[data-test-id="closeup-title"]
+pinterest.com##div[data-test-id="canonical-card"]
+pinterest.com##div[data-test-id="maybe-clickthrough-link"]
+pinterest.com##div[data-test-id="creator-card-profile"]
+pinterest.com##a:has-text(/Home|Today/)
+
 leetcode.com###subscribe
 
 ozon.ru##div[data-widget="topBar"]
