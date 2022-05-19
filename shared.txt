@@ -519,8 +519,15 @@ ozon.ru##div[data-widget="objectGrid3"]
 ozon.ru##a[href="/my/main"] .tsCaptionBold
 ozon.ru##a[href="/my/favorites"] .tsCaptionBold
 ozon.ru##a[href="/my/favorites/"] span span
+ozon.ru##a[href="/cart"] .tsCaptionBold
 ozon.ru##a[href="/live"]
+ozon.ru##nav[data-widget="mobileHeader"] a[href="/cart/"] span span
 ozon.ru##header img[alt="Ozon"]
+ozon.ru##a[href^="/highlight/"]
+ozon.ru##a[href^="/seller/"]
+ozon.ru##a[href^="/category/elektronnye-sigarety-i-tovary-dlya-kureniya"]
+ozon.ru##a[href^="/category/tovary-dlya-vzroslyh"]
+ozon.ru##a[href="/my/notifications"]
 [$path=|/|]ozon.ru##div[data-widget="container"]
 [$path=|/|]ozon.ru##div[data-widget="paginator"]
 
@@ -572,8 +579,20 @@ vk.com##aside[aria-label="Photos"]
 vk.com##aside[aria-label="Files"]
 vk.com##aside[aria-label="Organizers"]
 vk.com##aside[aria-label="Discussion board"]
+vk.com##aside[aria-label="Services"]
 vk.com##.group_counters_wrap
 vk.com##.people_cell_img
+vk.com##.pic_header
+vk.com##.pi_signed
+vk.com##.NarrativesBlock
+vk.com##.MarketBlock
+vk.com##.HeaderSearch
+vk.com##.OwnerPhotoGallery
+vk.com##.wi_head
+vk.com##.WallSearchBtn__wrapper
+vk.com##.profile_info_custom
+vk.com##h3.slim_header
+vk.com##Pad:has-text(/Games|Mini Apps/)
 vk.com##.search_item_img
 vk.com##.PostHeader
 vk.com###wall_tabs
