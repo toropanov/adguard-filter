@@ -508,7 +508,11 @@ ozon.ru##div[data-widget="objectBannerList"]
 ozon.ru##div[data-widget="footer"]
 ozon.ru##div[data-widget="banner"]
 ozon.ru##div[data-widget="advBanner"]
+ozon.ru##div[data-widget="objectCloud"]
+ozon.ru##div[data-widget="tagList"]
+ozon.ru##form:has-text(Не нашли, что искали?)
 ozon.ru##div[data-widget="webNotificationsCounter"]
+ozon.ru##div[data-widget="skuGrid2"]:has-text(/Рекомендации для вас|Вы смотрели/)
 ozon.ru##div[data-widget="skuLine"]:has-text(/Рекомендации для вас|Вы смотрели/)
 ozon.ru##a[data-widget="webToAppBanner"]
 ozon.ru##div[data-widget="paginator"]
