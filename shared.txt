@@ -534,6 +534,7 @@ ozon.ru##div[data-widget="setOfPreviews"]
 ozon.ru##div[data-widget="objectGrid1"]
 ozon.ru##div[data-widget="objectGrid2"]
 ozon.ru##div[data-widget="objectGrid3"]
+ozon.ru##session[data-widget="promoBanner"]
 ozon.ru##a[href="/my/main"] .tsCaptionBold
 ozon.ru##a[href="/my/favorites"] .tsCaptionBold
 ozon.ru##a[href="/my/favorites/"] span span
