@@ -525,6 +525,8 @@ ozon.ru##a[href="/live"]
 ozon.ru##nav[data-widget="mobileHeader"] a[href="/cart/"] span span
 ozon.ru##header img[alt="Ozon"]
 ozon.ru##a[href^="/highlight/"]
+ozon.ru##p:has-text(Уведомления):upward(1)
+ozon.ru##span:has-text(Уведомления):upward(1)
 ozon.ru##a[href^="/seller/"]
 ozon.ru##a[href^="/category/elektronnye-sigarety-i-tovary-dlya-kureniya"]
 ozon.ru##a[href^="/category/tovary-dlya-vzroslyh"]
