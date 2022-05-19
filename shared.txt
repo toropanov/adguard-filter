@@ -7,7 +7,7 @@ mkze.elm.ovh#%#if(location.pathname=='/'){location.pathname='/favorites'}
 toggl.com#%#if(location.pathname=='/'){location.href='https://track.toggl.com/timer'}
 journal.tinkoff.ru#%#if(location.pathname=='/'){location.href='https://www.w3schools.com/'}
 kino.pub#%#if(location.pathname=='/'){location.pathname='/favorites'}
-ozon.ru#%#if(location.pathname=='/'){location.pathname='/category'}
+ozon.ru#%#if(location.pathname=='/'){location.pathname='/my/orderlist'}
 
 jsbin.com###toppanel
 jsbin.com###panels
@@ -550,6 +550,7 @@ ozon.ru##a[href^="/category/elektronnye-sigarety-i-tovary-dlya-kureniya"]
 ozon.ru##a[href^="/category/tovary-dlya-vzroslyh"]
 ozon.ru##a[href^="/category/alkogol"]
 ozon.ru##a[href="/my/notifications"]
+ozon.ru##nav[data-widget="mobileHeader"] a[href="/"]
 
 spormaster.ru##.up-header-banner
 
