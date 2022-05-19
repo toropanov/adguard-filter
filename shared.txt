@@ -8,6 +8,7 @@ toggl.com#%#if(location.pathname=='/'){location.href='https://track.toggl.com/ti
 journal.tinkoff.ru#%#if(location.pathname=='/'){location.href='https://www.w3schools.com/'}
 kino.pub#%#if(location.pathname=='/'){location.pathname='/favorites'}
 ozon.ru#%#if(location.pathname=='/'){location.pathname='/my/orderlist'}
+www.ozon.ru#%#if(location.pathname=='/'){location.pathname='/my/orderlist'}
 
 jsbin.com###toppanel
 jsbin.com###panels
