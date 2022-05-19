@@ -505,6 +505,7 @@ pinterest.com##div[data-test-id="pointer-events-wrapper"]
 pinterest.com##div[data-test-id="closeup-title"]
 pinterest.com##div[data-test-id="canonical-card"]
 pinterest.com##div[data-test-id="maybe-clickthrough-link"]
+pinterest.com##div[data-test-id="gestalt-avatar-svg"]
 pinterest.com##div[data-test-id="creator-card-profile"]
 pinterest.com##a:has-text(/Home|Today/)
 
