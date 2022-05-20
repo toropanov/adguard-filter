@@ -3,11 +3,10 @@ drive2.ru#%#if(location.pathname=='/'){location.href='https://www.w3schools.com/
 4pda.to#%#if(location.pathname=='/' || location.search == '?act=idx' || location.search.includes('showforum')){ location.href = 'https://safe.duckduckgo.com' }
 jsbin.com#%#if(location.search!=='?js,console'){location.search='?js,console'}
 duckduckgo.com#%#if(location.hostname=='duckduckgo.com'){location.hostname='safe.duckduckgo.com'}
+ozon.ru#%#if(location.pathname=='/'){location.pathname='/my/orderlist'}
 mkze.elm.ovh#%#if(location.pathname=='/'){location.pathname='/favorites'}
 toggl.com#%#if(location.pathname=='/'){location.href='https://track.toggl.com/timer'}
-journal.tinkoff.ru#%#if(location.pathname=='/'){location.href='https://www.w3schools.com/'}
 kino.pub#%#if(location.pathname=='/'){location.pathname='/favorites'}
-ozon.ru#%#if(location.pathname=='/'){location.pathname='/my/orderlist'}
 
 jsbin.com###toppanel
 jsbin.com###panels
@@ -18,7 +17,7 @@ jsbin.com##.toppanel-love
 jsbin.com##.menu:has-text(File)
 
 google.com##a[aria-label="Google apps"]
-google.com##div[aria-label="Show side panel"]
+google.com##ddfddfiv[aria-label="Show side panel"]
 
 imdb.com##.swiper-wrapper:upward(3)
 imdb.com##a[aria-label="Go To IMDb Pro"]
