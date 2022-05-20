@@ -292,6 +292,7 @@ ebay.com##.hl-atf-module-js
 ebay.com##.hl-cat-nav
 
 reddit.com###COIN_PURCHASE_DROPDOWN_ID
+reddit.com###SHORTCUT_FOCUSABLE_DIV:has-text(Sorry, we couldn't load posts for this page.)
 reddit.com##.scrollerItem:has-text("Top livestream")
 reddit.com##div[data-testid="frontpage-sidebar"]
 reddit.com##.XPromoPopup
@@ -302,7 +303,6 @@ reddit.com##header a[href="/r/popular/"]:upward(2)
 reddit.com##header a[href="https://www.reddit.com/chat"]:upward(2)
 reddit.com##i.icon-karma_fill:upward(1)
 reddit.com##div[aria-label="Start typing to filter your communities or use up and down to select."]
-reddit.com###AppRouter-main-content:has-text(Something went wrong. Just don't panic.)
 
 lucidchart.com##lucid-message-bar
 lucidchart.com##.integration-buttons
