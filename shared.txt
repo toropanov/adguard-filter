@@ -708,6 +708,7 @@ facebook.com##div[data-pagelet*="FeedUnit"]:has-text(People You May Know)
 facebook.com##div[role="feed"]
 
 telegram.org##.input-search
+telegram.org##.connection-status
 
 ##footer
 ###footer
