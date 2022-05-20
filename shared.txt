@@ -107,6 +107,10 @@ raindrop.io##a[href="https://raindrop.io/pro/buy"]
 4pda.to##.borderwrap:contains("Информационная панель")
 4pda.to##.borderwrap:contains("читают эту тему")
 
+github.com##.feature-preview-indicator
+github.com##.dropdown-caret
+github.com##.footer
+
 yandex.ru##.services-new
 yandex.ru##.desk-notif-card
 yandex.ru##.headline__bar
