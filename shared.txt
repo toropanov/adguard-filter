@@ -514,42 +514,42 @@ leetcode.com###subscribe
 ozon.ru##div[data-widget="topBar"]
 ozon.ru##div[data-widget="catalogMenu"]
 ozon.ru##ul[data-widget="horizontalMenu"]
-ozon.ru##div[data-widget="advVideoBanner"]
-ozon.ru##div[data-widget="objectBannerList"]
 ozon.ru##div[data-widget="footer"]
-ozon.ru##div[data-widget="banner"]
-ozon.ru##div[data-widget="advBanner"]
+ozon.ru##div[data-widget*="banner"]
 ozon.ru##div[data-widget="objectCloud"]
 ozon.ru##div[data-widget="listReviewsDesktop"]
 ozon.ru##div[data-widget="tagList"]
-ozon.ru##div[data-widget="profileMenu"]:upward(4)
-ozon.ru##form:has-text(Не нашли, что искали?)
 ozon.ru##div[data-widget="webNotificationsCounter"]
-ozon.ru##div[data-widget^="sku"]:has-text(/Похожие товары|Спонсорские товары|Покупают вместе|Рекомендуем|Вы смотрели|Рекомендации/)
-ozon.ru##a[data-widget="webToAppBanner"]
 ozon.ru##div[data-widget="mobileEntryPoints"]
 ozon.ru##div[data-widget="setOfPreviews"]
-ozon.ru##div[data-widget="objectGrid1"]
-ozon.ru##div[data-widget="objectGrid2"]
-ozon.ru##div[data-widget="objectGrid3"]
-ozon.ru##section[data-widget="promoBanner"]
+ozon.ru##div[data-widget*="objectGrid"]
+ozon.ru##div[data-widget*="skuGrid"]:upward(div[data-widget="paginator"])
+ozon.ru##div[data-widget="profileMenu"]:upward(4)
+ozon.ru##div[data-widget="container"]:has-text(Все магазины)
+ozon.ru##div[data-widget^="sku"]:has-text(/Похожие товары|Спонсорские товары|Покупают вместе|Рекомендуем|Вы смотрели|Рекомендации/)
+ozon.ru##a[data-widget="webToAppBanner"]
 ozon.ru##a[href="/my/main"] .tsCaptionBold
 ozon.ru##a[href="/my/favorites"] .tsCaptionBold
 ozon.ru##a[href="/my/favorites/"] span span
 ozon.ru##a[href="/cart"] .tsCaptionBold
 ozon.ru##a[href="/live"]
-ozon.ru###comments
-ozon.ru##nav[data-widget="mobileHeader"] a[href="/cart/"] span span
-ozon.ru##header img[alt="Ozon"]
 ozon.ru##a[href^="/highlight/"]
-ozon.ru##p:has-text(Уведомления):upward(1)
-ozon.ru##span:has-text(Уведомления):upward(1)
 ozon.ru##a[href^="/seller/"]
 ozon.ru##a[href^="/category/elektronnye-sigarety-i-tovary-dlya-kureniya"]
 ozon.ru##a[href^="/category/tovary-dlya-vzroslyh"]
 ozon.ru##a[href^="/category/alkogol"]
 ozon.ru##a[href="/my/notifications"]
-ozon.ru##nav[data-widget="mobileHeader"] a[href="/"]
+ozon.ru##section[data-widget="searchSuggestions"]
+ozon.ru##section[data-widget="searchHistory"]
+ozon.ru##section[data-widget="promoBanner"]
+ozon.ru##section[data-widget="rateBoughtItems"]
+ozon.ru##form:has-text(Не нашли, что искали?)
+ozon.ru###comments
+ozon.ru##.vue-portal-target:has-text(Оцените ваши покупки)
+ozon.ru##nav[data-widget="mobileHeader"] a[href="/cart/"] span span
+ozon.ru##header img[alt="Ozon"]
+ozon.ru##p:has-text(Уведомления):upward(1)
+ozon.ru##span:has-text(Уведомления):upward(1)
 
 spormaster.ru##.up-header-banner
 
