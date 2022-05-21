@@ -34,6 +34,7 @@ youtube.com###masthead-skeleton-icons
 youtube.com###home-page-skeleton
 youtube.com##ytd-rich-grid-renderer
 youtube.com##ytd-comments
+youtube.com###notification-preference-button
 youtube.com###related
 youtube.com###info-contents
 youtube.com###endpoint[title="Home"]
