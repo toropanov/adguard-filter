@@ -604,6 +604,8 @@ vk.com##.search_results
 vk.com###group_topics
 vk.com##.mention_tt_img
 vk.com##.wall_signed
+vk.com##div[class*="Reply"]
+vk.com##div[class*="Replies"]
 vk.com##.page_actions_more
 vk.com###react_rootEcosystemServicesNavigationEntry
 vk.com##aside[aria-label="Contacts"]
