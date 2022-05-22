@@ -66,6 +66,7 @@ youtube.com##ytd-searchbox
 youtube.com###voice-search-button
 youtube.com##.banner-visible-area
 youtube.com##.ytp-ce-element
+youtube.com##.ytp-endscreen-content
 
 youtube.com##ytd-channel-name:has-text(/Димас из Батайска|Дима Гордей|Blondinka Drive/):upward(12)
 youtube.com##h1:has-text(/Димас из Батайска|Дима Гордей|Blondinka Drive/):upward(4)
@@ -664,6 +665,7 @@ vk.com###box_layer_bg
 vk.com###box_layer_wrap
 vk.com##.PageBottomBanner
 vk.com#$#body { overflow: scroll !important; }
+vk.com##a.header__back
 vk.com##a[href="/mail"]
 vk.com##a[href="/im"]
 vk.com##a[href="/feed"]
