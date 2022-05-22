@@ -660,6 +660,10 @@ vk.com##.recommends_link
 vk.com##.mmi_ads
 vk.com##.mmi_apps
 vk.com##.mmi_likes
+vk.com###box_layer_bg
+vk.com###box_layer_wrap
+vk.com##.PageBottomBanner
+vk.com#$#body { overflow: scroll !important; }
 vk.com##a[href="/mail"]
 vk.com##a[href="/im"]
 vk.com##a[href="/feed"]
@@ -733,3 +737,4 @@ telegram.org##.connection-status
 ##footer
 ###footer
 ##.footer
+##.footer_wrap
