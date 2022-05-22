@@ -606,6 +606,9 @@ vk.com##.mention_tt_img
 vk.com##.wall_signed
 vk.com##div[class*="Reply"]
 vk.com##div[class*="Replies"]
+vk.com##div[class*="reply"]
+vk.com##div[class*="replies"]
+vk.com##div[class*="comment"]
 vk.com##.page_actions_more
 vk.com###react_rootEcosystemServicesNavigationEntry
 vk.com##aside[aria-label="Contacts"]
@@ -620,10 +623,12 @@ vk.com##aside[aria-label="Attending"]
 vk.com##aside[aria-label="May attend"]
 vk.com##aside[aria-label="Articles"]
 vk.com##aside[aria-label="Photos"]
+vk.com##aside[aria-label="Products"]
 vk.com##aside[aria-label="Files"]
 vk.com##aside[aria-label="Organizers"]
 vk.com##aside[aria-label="Discussion board"]
 vk.com##aside[aria-label="Services"]
+vk.com##aside[aria-label="Members"]
 vk.com##.group_counters_wrap
 vk.com##.people_cell_img
 vk.com##.pic_header
@@ -646,6 +651,7 @@ vk.com###feed_recommends
 vk.com###stories_feed_wrap
 vk.com###feed_rmenu
 vk.com###feed_filters
+vk.com###groups_donut_module
 vk.com##.right_list_img
 vk.com##.profile_rate_warning
 vk.com###profile_photos_module
