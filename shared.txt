@@ -7,6 +7,7 @@ ozon.ru#%#if(location.pathname=='/'){location.pathname='/my/orderlist'}
 mkze.elm.ovh#%#if(location.pathname=='/'){location.pathname='/favorites'}
 toggl.com#%#if(location.pathname=='/'){location.href='https://track.toggl.com/timer'}
 kino.pub#%#if(location.pathname=='/'){location.pathname='/favorites'}
+bing.com#%#if(location.hostname=='bing.com'){location.hostname='safe.duckduckgo.com'}
 
 jsbin.com###toppanel
 jsbin.com###panels
@@ -72,7 +73,8 @@ youtube.com##ytd-channel-name:has-text(/Димас из Батайска|Дим�
 youtube.com##h1:has-text(/Димас из Батайска|Дима Гордей|Blondinka Drive/):upward(4)
 youtube.com##h3:has-text(/Димас из Батайска|Дима Гордей|Blondinka Drive/):upward(10)
 
-duckduckgo.com###links:has-text(/Тукитук|Афоня ТВ|Majorka|Мажорка|smotrim.net|escort|эскорт|голая|раздетая|топлес|Blondinka Drive|Дима Гордей|Димас Из Батайска|dezinfo.net/devushki|sliv-foto.ru/):upward(6)
+duckduckgo.com###links:has-text(/Тукитук|medialike.ru|girls-art.ru|sex|xxx|porn|nsfw|Афоня ТВ|Majorka|Мажорка|smotrim.net|escort|эскорт|голая|раздетая|топлес|Blondinka Drive|Дима Гордей|Димас Из Батайска|девушка дня|dezinfo.net/devushki|sliv-foto.ru/):upward(6)
+yandex.ru##.Link:has-text(/Тукитук|medialike.ru|girls-art.ru|sex|xxx|porn|nsfw|Афоня ТВ|Majorka|Мажорка|smotrim.net|escort|эскорт|голая|раздетая|топлес|Blondinka Drive|Дима Гордей|Димас Из Батайска|девушка дня|dezinfo.net/devushki|sliv-foto.ru/):upward(11)
 
 duckduckgo.com##.result[data-domain="www.woman.ru"]
 duckduckgo.com##.result[data-domain="lifehacker.ru"]
@@ -113,15 +115,6 @@ raindrop.io##a[href="https://raindrop.io/pro/buy"]
 github.com##.feature-preview-indicator
 github.com##.dropdown-caret
 github.com##.footer
-
-yandex.ru##.services-new
-yandex.ru##.desk-notif-card
-yandex.ru##.headline__bar
-yandex.ru##.headline__datetime
-yandex.ru##.home-link
-yandex.ru##.media-grid
-ya.ru##a.layout__footer-logo
-ya.ru##a.personal__mail
 
 avito.ru##.main-page-flex-container
 avito.ru##.footer-extended
@@ -426,6 +419,19 @@ zen.yandex.ru##div[class*="socials-block"]
 
 yandex.ru##.mn__first_up
 yandex.ru##.mn__services
+yandex.ru##.SerpFooter
+yandex.ru##.serp-navigation
+yandex.ru##.RelatedAbove
+yandex.ru##.RelatedBottom
+yandex.ru##.services-new
+yandex.ru##.desk-notif-card
+yandex.ru##.headline__bar
+yandex.ru##.headline__datetime
+yandex.ru##.home-link
+yandex.ru##.market-cart__wrapper
+yandex.ru##.media-grid
+ya.ru##a.layout__footer-logo
+ya.ru##a.personal__mail
 yandex.ru#$#.document:not(.document_dark_yes) .rows:after { height: 100vh !important; }
 
 mkze.elm.ovh###content[role="main"] .app-body:has-text(Новые фильмы)
@@ -522,7 +528,7 @@ linkedin.com##img[class*="EntityPhoto"]
 linkedin.com##a[data-link-to="notifications"]
 linkedin.com##footer
 
-kod.ru,appleinsider.ru,androidinsider.ru,pornhub.com,mobile-review.com,woman.ru,otvet.mail.ru,moscowtimes.ru,iguides.ru,lenta.ru,beeg.com,wylsa.com,ria.ru,rbc.ru,vedomosti.ru,pikabu.ru,iphones.ru,vc.ru,lifehacker.ru,3dnews.ru,tjournal.ru,smotrim.net,mirtesen.ru,maximonline.ru,rozetked.me,smart-lab.ru,meduza.io,ixbt.com,ferra.ru##*
+kod.ru,appleinsider.ru,androidinsider.ru,pornhub.com,mobile-review.com,woman.ru,otvet.mail.ru,moscowtimes.ru,iguides.ru,lenta.ru,beeg.com,wylsa.com,ria.ru,rbc.ru,vedomosti.ru,pikabu.ru,iphones.ru,vc.ru,lifehacker.ru,3dnews.ru,tjournal.ru,smotrim.net,mirtesen.ru,maximonline.ru,rozetked.me,yaplakal.com,smart-lab.ru,meduza.io,ixbt.com,ferra.ru##*
 
 pinterest.com##.AggregatedCloseupCard
 pinterest.com##.richPinInformation
