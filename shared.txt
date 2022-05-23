@@ -738,12 +738,23 @@ feedly.com##button[-ext-contains="Upgrade"]
 facebook.com##div[role="navigation"]
 facebook.com##div[role="complementary"]
 facebook.com##div[data-pagelet="Stories"]
+facebook.com##div[aria-label="Stories"]
+facebook.com##div[aria-label="Reels tray"]
 facebook.com##div[aria-label="Create a post"]
+facebook.com##div[aria-label*="Comment"]
+facebook.com##div[aria-label*="Reply"]
+facebook.com##div[aria-label*="Like"]
+facebook.com##div[aria-label*="Leave a comment"]
 facebook.com##div[data-pagelet="VideoChatHomeUnit"]
 facebook.com##img[alt*="Profile Photo"]
 facebook.com##div[data-pagelet*="FeedUnit"]:has-text(Reels)
 facebook.com##div[data-pagelet*="FeedUnit"]:has-text(People You May Know)
 facebook.com##div[role="feed"]
+facebook.com##div[aria-label^=Notifications]
+facebook.com##a[aria-label^=Watch]
+facebook.com##img[data-imgperflogname="profileCoverPhoto"]
+
+facebook.com##div[data-visualcompletion="ignore-dynamic"]
 
 telegram.org##.input-search
 telegram.org##.connection-status
