@@ -7,7 +7,7 @@ ozon.ru#%#if(location.pathname=='/'){location.pathname='/my/orderlist'}
 mkze.elm.ovh#%#if(location.pathname=='/'){location.pathname='/favorites'}
 toggl.com#%#if(location.pathname=='/'){location.href='https://track.toggl.com/timer'}
 kino.pub#%#if(location.pathname=='/'){location.pathname='/favorites'}
-bing.com#%#if(location.hostname=='bing.com'){location.hostname='safe.duckduckgo.com'}
+bing.com#%#if(location.pathname=='/'){location.hostname='safe.duckduckgo.com'}
 
 jsbin.com###toppanel
 jsbin.com###panels
