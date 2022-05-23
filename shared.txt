@@ -321,6 +321,11 @@ reddit.com##header a[href="/r/popular/"]:upward(2)
 reddit.com##header a[href="https://www.reddit.com/chat"]:upward(2)
 reddit.com##i.icon-karma_fill:upward(1)
 reddit.com##div[aria-label="Start typing to filter your communities or use up and down to select."]
+reddit.com##h2:has-text(/Moderators|Rules|Related Communities|General information|Filter by flair|About Community/):upward(4)
+reddit.com##div[id*="vote-arrows"]
+reddit.com##span:has-text(Log in or sign up to leave a comment):upward(1)
+reddit.com##a[aria-label="Advertise"]
+reddit.com##img[alt="User avatar"]
 
 lucidchart.com##lucid-message-bar
 lucidchart.com##.integration-buttons
