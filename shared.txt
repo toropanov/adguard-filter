@@ -237,6 +237,7 @@ drive2.ru##a[data-action="msgr.show"]
 aliexpress.com###home-firstscreen
 aliexpress.com###middle-promotion-container
 aliexpress.com###j-multi-sidebar-outer
+aliexpress.com###J_xiaomi_dialog
 aliexpress.com##.festival-container
 aliexpress.com##.fight-russian
 aliexpress.com##.topselection-newforyou
@@ -280,11 +281,14 @@ aliexpress.ru##div[class*="DiscountsByCategoriesList"]
 aliexpress.ru##div[class*="IntroductionEntrance"]
 aliexpress.ru##div[class*="ShoppingcartRecommendWrapper"]
 aliexpress.ru##div[class*="ShoppingcartPaymentBanner"]
+aliexpress.ru##div[class*="SearchHeader_HotWords"]
 aliexpress.ru##i[class*="Header_ShopCart__counter"]
 aliexpress.ru##h2[class*="RecommendationFeed"]
 aliexpress.ru##div[class*="SimilarSuggestions"]
+aliexpress.ru##div[class*="QuestionsAndAnswers"]
 aliexpress.ru##div[class*="SearchHeader_ShopCart__counter"]
 aliexpress.ru##div[exp_page_area="recommended_for_you"]
+aliexpress.ru##div[exp_page_area="Top_Selling"]
 aliexpress.ru##div[ae_button_type="Seller_Recommendations"]
 aliexpress.ru##div[ae_button_type="More_to_love"]
 aliexpress.ru##div[class*="TopHeadV2_TopHeadV2__topBarItem"]:has-text(Продавайте на AliExpress)
