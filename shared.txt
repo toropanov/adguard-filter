@@ -380,6 +380,7 @@ drive.google.com##div[data-target="upgrade-storage"]:upward(2)
 drive.google.com##a[data-target="quota"]
 drive.google.com##a[aria-label="Support"]
 drive.google.com##div[aria-label="Show side panel"]
+drive.google.com##div[aria-label="Grid view"]
 
 radio.yandex.ru##a.station[href^="/genre/"]
 radio.yandex.ru##.nav__banner
