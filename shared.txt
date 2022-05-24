@@ -296,6 +296,7 @@ aliexpress.ru##div[ae_button_type="Seller_Recommendations"]
 aliexpress.ru##div[ae_button_type="More_to_love"]
 aliexpress.ru##div[class*="TopHeadV2_TopHeadV2__topBarItem"]:has-text(Продавайте на AliExpress)
 aliexpress.ru##div[class*="TopHeadV2_TopHeadV2__topBarItemsWrap"]:has-text(Защита Покупателя)
+aliexpress.ru##div[class*="Container__primary"]:has-text(Подобрали для вас)
 
 stock.adobe.com###fmf-promo
 javascript.ru##.buy-book-button
