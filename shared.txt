@@ -10,7 +10,6 @@ kino.pub#%#if(location.pathname=='/'){location.pathname='/favorites'}
 bing.com#%#if(location.pathname=='/'){location.hostname='safe.duckduckgo.com'}
 yandex.ru#%#if(location.pathname=='/'){location.hostname='ya.ru'}
 
-
 jsbin.com###toppanel
 jsbin.com###panels
 jsbin.com##.help
@@ -101,7 +100,10 @@ duckduckgo.com##.tag-home
 duckduckgo.com##.footer_homepage
 duckduckgo.com##.footer
 duckduckgo.com##.js-module--news
+duckduckgo.com##.js-module--videos
 duckduckgo.com##.feedback-btn
+duckduckgo.com##.related-searches
+duckduckgo.com##.module--images
 duckduckgo.com##.tile--img__sub
 
 raindrop.io##a[href="https://raindrop.io/pro/buy"]
@@ -465,6 +467,7 @@ ya.ru##a.personal__mail
 ya.ru##.personal__count
 ya.ru##.input__voice-search
 ya.ru##.mini-suggest__popup
+ya.ru##.layout__header
 yandex.ru#$#.document:not(.document_dark_yes) .rows:after { height: 100vh !important; }
 
 mkze.elm.ovh###content[role="main"] .app-body:has-text(Новые фильмы)
