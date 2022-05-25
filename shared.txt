@@ -459,6 +459,7 @@ yandex.ru##.media-grid
 ya.ru##a.layout__footer-logo
 ya.ru##a.personal__mail
 ya.ru##.personal__count
+ya.ru##.input__voice-search
 yandex.ru#$#.document:not(.document_dark_yes) .rows:after { height: 100vh !important; }
 
 mkze.elm.ovh###content[role="main"] .app-body:has-text(Новые фильмы)
