@@ -9,6 +9,7 @@ toggl.com#%#if(location.pathname=='/'){location.href='https://track.toggl.com/ti
 kino.pub#%#if(location.pathname=='/'){location.pathname='/favorites'}
 bing.com#%#if(location.pathname=='/'){location.hostname='safe.duckduckgo.com'}
 
+
 jsbin.com###toppanel
 jsbin.com###panels
 jsbin.com##.help
