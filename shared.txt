@@ -8,6 +8,7 @@ mkze.elm.ovh#%#if(location.pathname=='/'){location.pathname='/favorites'}
 toggl.com#%#if(location.pathname=='/'){location.href='https://track.toggl.com/timer'}
 kino.pub#%#if(location.pathname=='/'){location.pathname='/favorites'}
 bing.com#%#if(location.pathname=='/'){location.hostname='safe.duckduckgo.com'}
+yandex.ru#%#if(location.pathname=='/'){location.hostname='ya.ru'}
 
 
 jsbin.com###toppanel
@@ -457,6 +458,7 @@ yandex.ru##.market-cart__wrapper
 yandex.ru##.media-grid
 ya.ru##a.layout__footer-logo
 ya.ru##a.personal__mail
+ya.ru##.personal__count
 yandex.ru#$#.document:not(.document_dark_yes) .rows:after { height: 100vh !important; }
 
 mkze.elm.ovh###content[role="main"] .app-body:has-text(Новые фильмы)
