@@ -35,6 +35,7 @@ youtube.com###masthead-skeleton-icons
 youtube.com###home-page-skeleton
 youtube.com##ytd-rich-grid-renderer
 youtube.com##ytd-comments
+youtube.com###owner-sub-count
 youtube.com###notification-preference-button
 youtube.com###related
 youtube.com###info-contents
@@ -70,6 +71,7 @@ youtube.com##.banner-visible-area
 youtube.com##.ytp-ce-element
 youtube.com##.ytp-endscreen-content
 youtube.com##.ytd-live-chat-frame
+youtube.com##a.ytp-next-button
 
 youtube.com##ytd-channel-name:has-text(/Димас из Батайска|Дима Гордей|Blondinka Drive/):upward(12)
 youtube.com##h1:has-text(/Димас из Батайска|Дима Гордей|Blondinka Drive/):upward(4)
