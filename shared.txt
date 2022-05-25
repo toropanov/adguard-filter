@@ -117,10 +117,12 @@ raindrop.io##a[href="https://raindrop.io/pro/buy"]
 4pda.to##.borderwrap:contains("Информационная панель")
 4pda.to##.borderwrap:contains("читают эту тему")
 
+github.com###feature-enrollment-toggle
 github.com##.feature-preview-indicator
 github.com##.js-feature-preview-indicator
 github.com##.dropdown-caret
 github.com##.footer
+github.com##a[href="/account/choose?action=upgrade"]
 
 avito.ru##.main-page-flex-container
 avito.ru##.footer-extended
