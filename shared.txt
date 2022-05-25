@@ -40,6 +40,7 @@ youtube.com###notification-preference-button
 youtube.com###related
 youtube.com###info-contents
 youtube.com###subscriber-count
+youtube.com###chat
 youtube.com###endpoint[title="Home"]
 youtube.com###endpoint[title="Trending"]
 youtube.com###endpoint[title="Originals"]
