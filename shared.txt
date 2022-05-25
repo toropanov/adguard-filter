@@ -456,10 +456,12 @@ yandex.ru##.headline__datetime
 yandex.ru##.home-link
 yandex.ru##.market-cart__wrapper
 yandex.ru##.media-grid
+yandex.ru##.mini-suggest__popup
 ya.ru##a.layout__footer-logo
 ya.ru##a.personal__mail
 ya.ru##.personal__count
 ya.ru##.input__voice-search
+ya.ru##.mini-suggest__popup
 yandex.ru#$#.document:not(.document_dark_yes) .rows:after { height: 100vh !important; }
 
 mkze.elm.ovh###content[role="main"] .app-body:has-text(Новые фильмы)
