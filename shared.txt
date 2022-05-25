@@ -118,6 +118,7 @@ raindrop.io##a[href="https://raindrop.io/pro/buy"]
 4pda.to##.borderwrap:contains("читают эту тему")
 
 github.com##.feature-preview-indicator
+github.com##.js-feature-preview-indicator
 github.com##.dropdown-caret
 github.com##.footer
 
