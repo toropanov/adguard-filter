@@ -781,6 +781,7 @@ stackoverflow.com##a[aria-controls="products-popover"]
 ##img[src*="fuck"]
 ##img[src*="devushka"]
 ##img[src*="goloe"]
+##img[src*="escort"]
 
 feedly.com##button[-ext-contains="Upgrade"]
 facebook.com##div[role="navigation"]
