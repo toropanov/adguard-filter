@@ -443,6 +443,7 @@ zen.yandex.ru##.article-recommender
 zen.yandex.ru##div[class*="subscribe"]
 zen.yandex.ru##div[class*="socials-block"]
 
+yandex.ru###search-result-aside
 yandex.ru##.mn__first_up
 yandex.ru##.mn__services
 yandex.ru##.SerpFooter
@@ -458,6 +459,7 @@ yandex.ru##.market-cart__wrapper
 yandex.ru##.media-grid
 yandex.ru##.mini-suggest__popup
 yandex.ru##.voice-search-button
+yandex.ru##li.serp-item[data-fast-name="ecommerce_constr"]
 ya.ru##a.layout__footer-logo
 ya.ru##a.personal__mail
 ya.ru##.personal__count
