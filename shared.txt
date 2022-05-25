@@ -38,6 +38,7 @@ youtube.com##ytd-comments
 youtube.com###notification-preference-button
 youtube.com###related
 youtube.com###info-contents
+youtube.com###subscriber-count
 youtube.com###endpoint[title="Home"]
 youtube.com###endpoint[title="Trending"]
 youtube.com###endpoint[title="Originals"]
@@ -68,6 +69,7 @@ youtube.com###voice-search-button
 youtube.com##.banner-visible-area
 youtube.com##.ytp-ce-element
 youtube.com##.ytp-endscreen-content
+youtube.com##.ytd-live-chat-frame
 
 youtube.com##ytd-channel-name:has-text(/Димас из Батайска|Дима Гордей|Blondinka Drive/):upward(12)
 youtube.com##h1:has-text(/Димас из Батайска|Дима Гордей|Blondinka Drive/):upward(4)
@@ -544,7 +546,7 @@ linkedin.com##img[class*="EntityPhoto"]
 linkedin.com##a[data-link-to="notifications"]
 linkedin.com##footer
 
-kod.ru,appleinsider.ru,androidinsider.ru,pornhub.com,mobile-review.com,woman.ru,otvet.mail.ru,moscowtimes.ru,iguides.ru,lenta.ru,beeg.com,wylsa.com,ria.ru,rbc.ru,vedomosti.ru,pikabu.ru,iphones.ru,vc.ru,lifehacker.ru,3dnews.ru,tjournal.ru,smotrim.net,mirtesen.ru,maximonline.ru,rozetked.me,yaplakal.com,smart-lab.ru,meduza.io,ixbt.com,ferra.ru##*
+kod.ru,appleinsider.ru,androidinsider.ru,pornhub.com,mobile-review.com,woman.ru,otvet.mail.ru,moscowtimes.ru,iguides.ru,lenta.ru,beeg.com,wylsa.com,ria.ru,rbc.ru,vedomosti.ru,pikabu.ru,iphones.ru,vc.ru,lifehacker.ru,3dnews.ru,tjournal.ru,smotrim.net,mirtesen.ru,maximonline.ru,rozetked.me,yaplakal.com,smart-lab.ru,meduza.io,ixbt.com,wildberries.ru,ferra.ru##*
 
 pinterest.com##.AggregatedCloseupCard
 pinterest.com##.richPinInformation
