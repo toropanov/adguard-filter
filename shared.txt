@@ -8,7 +8,7 @@ mkze.elm.ovh#%#if(location.pathname=='/'){location.pathname='/favorites'}
 toggl.com#%#if(location.pathname=='/'){location.href='https://track.toggl.com/timer'}
 kino.pub#%#if(location.pathname=='/'){location.pathname='/favorites'}
 bing.com#%#if(location.pathname=='/'){location.hostname='safe.duckduckgo.com'}
-yandex.ru#%#if(location.pathname=='/'){location.hostname='ya.ru'}
+yandex.ru#%#if(location.href=='https://yandex.ru/'){location.hostname='ya.ru'}
 
 jsbin.com###toppanel
 jsbin.com###panels
@@ -462,6 +462,7 @@ yandex.ru##.media-grid
 yandex.ru##.mini-suggest__popup
 yandex.ru##.voice-search-button
 yandex.ru##li.serp-item[data-fast-name="ecommerce_constr"]
+yandex.ru##a[href="https://passport.yandex.ru"]
 ya.ru##a.layout__footer-logo
 ya.ru##a.personal__mail
 ya.ru##.personal__count
