@@ -399,6 +399,13 @@ music.yandex.ru##.page-album__other-artist-albums
 music.yandex.ru##.page-album__related-content
 music.yandex.ru##.page-users .d-generic-page-head
 music.yandex.ru##.entity-cover
+music.yandex.ru##.d-tabs
+music.yandex.ru##.nav-kids__tab[data-name="radio"]
+music.yandex.ru##.button-radio-slider:has-text(By language)
+music.yandex.ru##.player-controls__btn_seq
+music.yandex.ru##.volume
+music.yandex.ru##.d-share-popup
+music.yandex.ru##.user__userpic
 
 drive.google.com##div[data-target="upgrade-storage"]:upward(2)
 drive.google.com##a[data-target="quota"]
