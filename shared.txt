@@ -409,7 +409,7 @@ music.yandex.ru##.user__userpic
 music.yandex.ru##.playlist_type_new
 music.yandex.ru##.playlist:has-text(Favorites)
 music.yandex.ru##.playlist:has-text(Liked on Radio)
-music.yandex.ru##.d-like
+music.yandex.ru##.playlist .d-like
 
 drive.google.com##div[data-target="upgrade-storage"]:upward(2)
 drive.google.com##a[data-target="quota"]
