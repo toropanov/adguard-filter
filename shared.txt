@@ -68,7 +68,13 @@ youtube.com##ytm-feed-filter-chip-bar-renderer
 youtube.com##div[tab-identifier="FEwhat_to_watch"]
 youtube.com##ytm-slim-video-action-bar-renderer
 youtube.com##ytd-searchbox
+youtube.com###metadata-line
+youtube.com###country-code
+youtube.com###hover-overlays
 youtube.com###voice-search-button
+youtube.com###description > yt-formatted-string
+youtube.com##ytd-badge-supported-renderer
+youtube.com##button[aria-label="Autoplay is off"]
 youtube.com##.banner-visible-area
 youtube.com##.ytp-ce-element
 youtube.com##.ytp-endscreen-content
@@ -819,6 +825,9 @@ facebook.com##div[data-visualcompletion="ignore-dynamic"]
 
 telegram.org##.input-search
 telegram.org##.connection-status
+telegram.org##.bubble use[href="#message-tail-filled"]
+telegram.org##.chat use[href="#message-tail-filled"]
+telegram.org##.sidebar-header__btn-container
 
 ##footer
 ###footer
