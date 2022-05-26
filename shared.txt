@@ -107,6 +107,7 @@ duckduckgo.com##.footer_homepage
 duckduckgo.com##.footer
 duckduckgo.com##.js-module--news
 duckduckgo.com##.js-module--videos
+duckduckgo.com##.js-module--maps_places
 duckduckgo.com##.feedback-btn
 duckduckgo.com##.related-searches
 duckduckgo.com##.module--images
