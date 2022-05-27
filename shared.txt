@@ -9,6 +9,7 @@ toggl.com#%#if(location.pathname=='/'){location.href='https://track.toggl.com/ti
 kino.pub#%#if(location.pathname=='/'){location.pathname='/favorites'}
 bing.com#%#if(location.pathname=='/'){location.hostname='safe.duckduckgo.com'}
 yandex.ru#%#if(location.href=='https://yandex.ru/'){location.hostname='ya.ru'}
+slack.com#%#if(location.pathname=='/'){location.href='https://app.slack.com/client/T53592GTV/CDF0CHQ03/thread/CAY8UCEDU-1653652958.032059'}
 
 jsbin.com###toppanel
 jsbin.com###panels
@@ -788,6 +789,35 @@ stackoverflow.com##a[aria-controls="products-popover"]
 ||*sexfilms*
 ||*prykoly*
 ||*dosug*
+
+slack.com###morePages
+slack.com###C6QL61SLV
+slack.com###CGRJXN55H
+slack.com###CP9RH2H0W
+slack.com###CUSSNT4R3
+slack.com###C010L001K51
+slack.com###C6HHVHK98
+slack.com###C6U3FJ1HN
+slack.com###CLZ4N01BM
+slack.com###C02A3EKNV6G
+slack.com###CESTX4GE6
+slack.com###CCYFFMK37
+slack.com###G7PPH0KD1
+slack.com###CA6CPE2LS
+slack.com###GMCPEGU3H
+slack.com###GG9L0FRMH
+slack.com###G01MY6UGVHQ
+slack.com###sectionHeading-LT7P0GRDF
+slack.com###sectionHeading-L031P8A3NCX
+slack.com##button[aria-label="New message"]
+slack.com##button[aria-label="Help"]
+slack.com##button[aria-label="Show history"]
+slack.com##button[data-qa="avatar_stack"]
+slack.com##.p-top_nav__right
+slack.com##.c-avatar
+slack.com##.c-reaction_bar
+slack.com##.c-message__actions
+slack.com##.c-custom_status
 
 /^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
 /^(.+[_.-])?telemetry[_.-]/
