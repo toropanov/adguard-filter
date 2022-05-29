@@ -868,7 +868,7 @@ facebook.com##img[data-imgperflogname="profileCoverPhoto"]
 facebook.com##div[data-visualcompletion="ignore-dynamic"]
 
 telegram.org##.input-search
-telegram.org##.connection-status
+telegram.org##.connection-status:remove()
 telegram.org##.bubble use[href="#message-tail-filled"]
 telegram.org##.chat use[href="#message-tail-filled"]
 telegram.org##.sidebar-header__btn-container
