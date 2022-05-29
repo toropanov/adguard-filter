@@ -177,6 +177,7 @@ avito.ru##div[data-banner-id="profile/apps-banner"]
 avito.ru##section[aria-label="Рекомендованные объявления"]
 avito.ru##a[data-marker="channels/channelLink"]:has-text(Поддержка Авито)
 avito.ru###messenger-channels-list div[data-marker="avatar"]
+avito.ru##ul[data-marker="suggest/list"]
 avito.ru##li[class*="index-profile-nav-item"]:has-text(Заказы)
 avito.ru##div[class*="index-profile-nav-group"]:has-text(Кошелёк)
 avito.ru##li[class*="index-profile-nav-item"]:has-text(Управление профилем)
