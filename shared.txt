@@ -125,9 +125,7 @@ raindrop.io##a[href="https://raindrop.io/pro/buy"]
 4pda.to##.makepost_link
 4pda.to##.copyright
 4pda.to##.social-icons
-4pda.to##.borderwrap:contains("Правилами раздела")
-4pda.to##.borderwrap:contains("Информационная панель")
-4pda.to##.borderwrap:contains("читают эту тему")
+4pda.to##.borderwrap:contains(/Правилами раздела|Внимание|Информационная панель|Новые темы необходимо создавать/)
 
 github.com###feature-enrollment-toggle
 github.com##.feature-preview-indicator
