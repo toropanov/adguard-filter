@@ -81,6 +81,12 @@ youtube.com##.ytp-ce-element
 youtube.com##.ytp-endscreen-content
 youtube.com##.ytd-live-chat-frame
 youtube.com##a.ytp-next-button
+youtube.com##tp-yt-paper-tab:has-text(/Community|Channels|About/)
+youtube.com##tp-yt-paper-button:has-text(/Play all/)
+youtube.com#$#ytd-page-manager { margin-left: 0!important; }
+youtube.com##tp-yt-app-drawer:remove()
+youtube.com##tp-yt-paper-button:has-text(/Subscribe/):upward(ytd-item-section-renderer)
+youtube.com##ytd-video-renderer #description-text
 
 youtube.com##ytd-channel-name:has-text(/Димас из Батайска|Дима Гордей|Blondinka Drive/):upward(12)
 youtube.com##h1:has-text(/Димас из Батайска|Дима Гордей|Blondinka Drive/):upward(4)
