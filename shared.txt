@@ -826,6 +826,7 @@ slack.com##.c-avatar
 slack.com##.c-reaction_bar
 slack.com##.c-message__actions
 slack.com##.c-custom_status
+slack.com##.c-message__edited_label
 
 /^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
 /^(.+[_.-])?telemetry[_.-]/
