@@ -119,7 +119,7 @@ raindrop.io##a[href="https://raindrop.io/pro/buy"]
 4pda.to###navstrip
 4pda.to###logostrip
 4pda.to###submenu
-4pda.to###userlinks
+4pda.to###userlinks .home
 4pda.to###gfooter
 4pda.to##.menu-main-mobile
 4pda.to##.makepost_link
