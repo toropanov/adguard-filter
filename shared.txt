@@ -878,6 +878,7 @@ telegram.org##.bubble use[href="#message-tail-filled"]
 telegram.org##.chat use[href="#message-tail-filled"]
 telegram.org##.sidebar-header__btn-container
 telegram.org##avatar-element
+telegram.org##reactions-element
 telegram.org##.verified-icon
 telegram.org##.chat-info .bottom:has-text(/subscribers/)
 telegram.org##.chatlist-chat:contains(/Telegram/)
