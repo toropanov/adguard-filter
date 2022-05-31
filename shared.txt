@@ -124,6 +124,7 @@ raindrop.io##a[href="https://raindrop.io/pro/buy"]
 
 b17.ru###article-buttons
 b17.ru###main_menu
+b17.ru###mobile_menuX
 b17.ru###share42
 b17.ru###art_prev_next_list
 b17.ru###wrapper-body-right-fly
@@ -133,6 +134,7 @@ b17.ru##.wrapper-bottom
 b17.ru##.h1_razdel
 b17.ru##.avt_box_bottom
 b17.ru##.other_art_h
+b17.ru##.article-avt-top
 b17.ru##h1
 
 4pda.to###navstrip
