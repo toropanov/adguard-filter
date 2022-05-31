@@ -839,7 +839,7 @@ slack.com##.c-custom_status
 slack.com##.c-message__edited_label
 slack.com##.p-member_profile_card
 slack.com##.c-emoji
-slack.com##i.c-presenc
+slack.com##i.c-presence
 slack.com#$#div[aria-describedby="channel_sidebar_summary"] { height: auto!important; }
 slack.com###addMoreDM
 slack.com##.p-channel_sidebar__list .c-scrollbar__track
