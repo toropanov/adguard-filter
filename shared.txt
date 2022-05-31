@@ -833,6 +833,13 @@ slack.com##.c-reaction_bar
 slack.com##.c-message__actions
 slack.com##.c-custom_status
 slack.com##.c-message__edited_label
+slack.com##.p-member_profile_card
+slack.com##.c-emoji
+slack.com#$#div[aria-describedby="channel_sidebar_summary"] { height: auto!important; }
+slack.com###addMoreDM
+slack.com##.p-channel_sidebar__list .c-scrollbar__track
+slack.com##span[data-stringify-text="@here"]
+slack.com##.p-workspace__channel_sidebar .p-ia__sidebar_header
 
 /^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
 /^(.+[_.-])?telemetry[_.-]/
