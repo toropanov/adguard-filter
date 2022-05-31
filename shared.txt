@@ -777,6 +777,10 @@ stackoverflow.com##.votecell
 stackoverflow.com##.post-signature
 stackoverflow.com##a[aria-controls="products-popover"]
 
+w.level.*##.v-navigation-drawer:remove()
+w.level.*#$#.v-main { padding-left: 0 !important; }
+w.level.*##.v-speed-dial
+
 ||*porn*.tumblr.com^
 ||*porn*.blogspot.com^
 ||*sex*.blogspot.com^
