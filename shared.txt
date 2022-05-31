@@ -550,6 +550,7 @@ market.yandex.ru##div[data-apiary-widget-name="@MarketNode/HeaderPlusBalance"]
 market.yandex.ru###catalogPopupButton
 market.yandex.ru##div[data-apiary-widget-name="@marketfront/VisibilityLoaderMarket"]:has-text(/История просмотров|Подобрали для вас|Вы это заказывали|Может пригодиться|Популярные категории|Популярные бренды/)
 market.yandex.ru##a[href="/live"]
+market.yandex.ru##a[href="/deals"]
 
 wylsa.com##.comments-area
 wylsa.com##.marketWidgetWrapper
