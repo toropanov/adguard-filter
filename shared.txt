@@ -158,6 +158,36 @@ github.com##.dropdown-caret
 github.com##.footer
 github.com##a[href="/account/choose?action=upgrade"]
 
+lichess.org###notify-toggle
+lichess.org###clinput
+lichess.org###challenge-toggle
+lichess.org###user_tag
+lichess.org###friend_box
+lichess.org###modal-wrap .ratings
+lichess.org##.lobby__counters
+lichess.org##.lobby__side
+lichess.org##.lobby__app
+lichess.org##.lobby__box
+lichess.org##.lobby__tournaments
+lichess.org##.lobby__blog
+lichess.org##.lobby__support
+lichess.org##.lobby__about
+lichess.org##.puzzle__controls
+lichess.org##.puzzle__side
+lichess.org##.puzzle__session
+lichess.org##.game__meta
+lichess.org##.col1-moves l4x
+lichess.org##.kiddo
+lichess.org##coords
+lichess.org##rm6
+lichess.org##.user-link
+lichess.org##a.config_hook
+lichess.org##a.config_friend
+lichess.org##a[title="Analysis board"]
+lichess.org##button[title="Resign"]
+lichess.org##button[title="Offer draw"]
+lichess.org###topnav section:has-text(/Tools|Community|Watch|lichess.org/)
+
 avito.ru##.main-page-flex-container
 avito.ru##.footer-extended
 avito.ru##.js-promo-sticky-container
