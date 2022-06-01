@@ -258,6 +258,8 @@ avito.ru##div[class*="item-sellerInfo"]:has-text(/([A-Za-z]+)|([()]+)/):upward(d
 avito.ru##div[class*="item-sellerInfo"]:has-text(/магазин|тц|маркет| в |телефон|компани|электро|айфон|не |комисс|мастер/i):upward(div[data-marker="item"])
 avito.ru##div[data-marker="item-line"]:has-text(/Предложение услуг/):upward(div[data-marker="item"])
 avito.ru##div[data-marker="messagesHistory"] a[data-marker="avatar"]
+avito.ru##a[data-marker="item/link"]
+avito.ru##div[itemtype="http://schema.org/Product"]:has-text(/Проверенный партнёр/)
 
 tinkoff.ru##div[class*="Pulse"]
 tinkoff.ru##div[class*="pulse"]
