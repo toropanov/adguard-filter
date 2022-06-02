@@ -188,6 +188,7 @@ lichess.org##a.config_friend
 lichess.org##a[title="Analysis board"]
 lichess.org##button[title="Resign"]
 lichess.org##button[title="Offer draw"]
+lichess.org##header
 lichess.org###topnav section:has-text(/Tools|Community|Watch|lichess.org/)
 
 avito.ru##.main-page-flex-container
