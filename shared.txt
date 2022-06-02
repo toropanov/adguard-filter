@@ -963,6 +963,7 @@ telegram.org##reactions-element
 telegram.org##.verified-icon
 telegram.org##.chat-info .bottom:has-text(/subscribers/)
 telegram.org##.chatlist-chat:contains(/Telegram/)
+telegram.org##.sidebar-header
 
 ##div[id*="footer"]
 ##div[class*="footer"]
