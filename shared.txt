@@ -159,6 +159,7 @@ github.com##.feature-preview-indicator
 github.com##.js-feature-preview-indicator
 github.com##.dropdown-caret
 github.com##.footer
+github.com##a:has-text(/Add a README/):upward(.flash)
 github.com##a[href="/account/choose?action=upgrade"]
 
 lichess.org###notify-toggle
