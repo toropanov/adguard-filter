@@ -680,6 +680,7 @@ ozon.ru##div[data-widget*="banner"]
 ozon.ru##div[data-widget="webCurrentSeller"]
 ozon.ru##div[data-widget="webMarketingMarks"]
 ozon.ru##div[data-widget="advVideoBanner"]
+ozon.ru##div[data-widget="advVideoBannerMobile"]
 ozon.ru##div[data-widget="objectCloud"]
 ozon.ru##div[data-widget="listReviewsDesktop"]
 ozon.ru##div[data-widget="tagList"]
@@ -708,6 +709,7 @@ ozon.ru##section[data-widget="promoBanner"]
 ozon.ru##section[data-widget="rateBoughtItems"]
 ozon.ru##form:has-text(Не нашли, что искали?)
 ozon.ru###comments
+ozon.ru##video
 ozon.ru##.tsCaptionBold
 ozon.ru##a[href="/my/main"] > span:nth-child(1)
 ozon.ru##a[href="/my/favorites"] > span:nth-child(1)
