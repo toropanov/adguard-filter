@@ -966,3 +966,5 @@ telegram.org##.chatlist-chat:contains(/Telegram/)
 ###footer
 ##.footer
 ##.footer_wrap
+
+leetcode.com#$#div[role="dialog"] footer { display: block!important }
