@@ -962,9 +962,10 @@ telegram.org##.verified-icon
 telegram.org##.chat-info .bottom:has-text(/subscribers/)
 telegram.org##.chatlist-chat:contains(/Telegram/)
 
-##footer
-###footer
-##.footer
-##.footer_wrap
+##div[id*="footer"]
+##div[class*="footer"]
+
+##div[id*="comment"]
+##div[class*="comment"]
 
 leetcode.com#$#div[role="dialog"] footer { display: block!important }
