@@ -115,6 +115,7 @@ duckduckgo.com##.logo-wrap--home
 duckduckgo.com##.tag-home
 duckduckgo.com##.footer_homepage
 duckduckgo.com##.footer
+duckduckgo.com##a.header__button--menu
 duckduckgo.com##.js-module--news
 duckduckgo.com##.js-module--videos
 duckduckgo.com##.js-module--maps_places
@@ -153,6 +154,8 @@ b17.ru##.stick_container
 4pda.to##.social-icons
 4pda.to##.ipbtable .postdetails
 4pda.to##.ipbtable span.edit
+4pda.to##li.menu-main-item
+4pda.to##.events-wrapper
 4pda.to##.formbuttonrow a:contains(/ЖАЛОБА|ПЛОХО|ХОРОШО|FAQ/)
 4pda.to##noindex .borderwrap:contains(/Правилами раздела|Информационная панель|Новые темы необходимо создавать/)
 
