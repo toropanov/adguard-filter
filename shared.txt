@@ -166,6 +166,7 @@ github.com##.dropdown-caret
 github.com##.footer
 github.com##a:has-text(/Add a README/):upward(.flash)
 github.com##a[href="/account/choose?action=upgrade"]
+github.com##a[href="/toropanov/adguard-filter"]:upward(li.source)
 
 lichess.org###notify-toggle
 lichess.org###clinput
