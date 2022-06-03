@@ -975,6 +975,7 @@ telegram.org##.sidebar-header
 
 ##div[id*="footer"]
 ##div[class*="footer"]
+##footer
 
 ##div[id*="comment"]
 ##div[class*="comment"]
