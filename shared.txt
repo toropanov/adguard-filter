@@ -977,6 +977,7 @@ telegram.org##.verified-icon
 telegram.org##.chat-info .bottom:has-text(/subscribers/)
 telegram.org##.chatlist-chat:contains(/Telegram/)
 telegram.org##.sidebar-header
+telegram.org##.bubble-hover-reaction
 
 ##div[id*="footer"]
 ##div[class*="footer"]
