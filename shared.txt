@@ -13,6 +13,7 @@ slack.com#%#if(location.pathname=='/'){location.href='https://app.slack.com/clie
 b17.ru#%#if(location.pathname=='/' || location.pathname=='/forum/topic.php'){location.hostname='safe.duckduckgo.com'}
 facebook.com#%#if(location.host=='www.facebook.com'){location.href='https://safe.duckduckgo.com/'}
 instagram.com#%#if(location.host=='www.instagram.com'){location.href='https://safe.duckduckgo.com/'}
+music.yandex.ru#%#if(location.pathname=='/'){location.pathname='/users/toropanov/playlists/1023'}
 
 jsbin.com###toppanel
 jsbin.com###panels
@@ -898,6 +899,8 @@ slack.com###CA6CPE2LS
 slack.com###GMCPEGU3H
 slack.com###GG9L0FRMH
 slack.com###G01MY6UGVHQ
+slack.com###C52L32NV7
+slack.com###G6H2TUEJD
 slack.com###sectionHeading-LT7P0GRDF
 slack.com###sectionHeading-L031P8A3NCX
 slack.com##button[aria-label="New message"]
@@ -906,6 +909,7 @@ slack.com##button[aria-label="Show history"]
 slack.com##button[data-qa="avatar_stack"]
 slack.com##.p-top_nav__right
 slack.com##.c-avatar
+slack.com###c-coachmark-anchor
 slack.com##.c-reaction_bar
 slack.com##.c-message__actions
 slack.com##.c-custom_status
