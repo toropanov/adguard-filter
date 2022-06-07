@@ -497,6 +497,17 @@ music.yandex.ru##.playlist:has-text(Liked on Radio)
 music.yandex.ru##.playlist .d-like
 music.yandex.ru##.progress__left:remove()
 music.yandex.ru##.progress__right:remove()
+music.yandex.ru##.d-track:has-text(/[а-я]/ig)
+music.yandex.ru##.d-suggest__item:has-text(/[а-я]/ig)
+music.yandex.ru##button[title*="Add this artist to"]
+music.yandex.ru##button[title*="Add this playlist to"]
+music.yandex.ru##div[class*="video"]
+music.yandex.ru##.page-artist__subhead
+music.yandex.ru##.page-artist__artists
+music.yandex.ru##.page-artist__concerts
+music.yandex.ru##.page-artist__videos
+music.yandex.ru##.page-artist__playlists
+music.yandex.ru##.artist-pics
 
 drive.google.com##div[data-target="upgrade-storage"]:upward(2)
 drive.google.com##a[data-target="quota"]
