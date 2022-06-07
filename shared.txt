@@ -8,6 +8,7 @@ mkze.elm.ovh#%#if(location.pathname=='/'){location.pathname='/favorites'}
 toggl.com#%#if(location.pathname=='/'){location.href='https://track.toggl.com/timer'}
 kino.pub#%#if(location.pathname=='/'){location.pathname='/favorites'}
 bing.com#%#if(location.pathname=='/'){location.hostname='safe.duckduckgo.com'}
+google.com#%#if(location.pathname=='/' || location.pathname=='/search'){location.hostname='safe.duckduckgo.com'}
 yandex.ru#%#if(location.href=='https://yandex.ru/'){location.hostname='ya.ru'}
 slack.com#%#if(location.pathname=='/'){location.href='https://app.slack.com/client/T53592GTV/CDF0CHQ03/thread/CAY8UCEDU-1653652958.032059'}
 b17.ru#%#if(location.pathname=='/' || location.pathname=='/forum/topic.php'){location.hostname='safe.duckduckgo.com'}
