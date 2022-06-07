@@ -103,3 +103,5 @@ imgur.com##div#under-image
 ##div#hl-comments
 ##div.discussionContainer
 ###liste_reactions
+##div[id*="comment"]
+##div[class*="comment"]
