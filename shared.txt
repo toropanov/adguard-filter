@@ -131,6 +131,7 @@ duckduckgo.com##.feedback-btn
 duckduckgo.com##.related-searches
 duckduckgo.com##.module--images
 duckduckgo.com##.tile--img__sub
+duckduckgo.com##.footer--mobile
 
 raindrop.io##a[href="https://raindrop.io/pro/buy"]
 
