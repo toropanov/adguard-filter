@@ -48,7 +48,6 @@ youtube.com###guide-button
 youtube.com###masthead-skeleton-icons
 youtube.com###home-page-skeleton
 youtube.com##ytd-rich-grid-renderer
-youtube.com##ytd-comments
 youtube.com###owner-sub-count
 youtube.com###notification-preference-button
 youtube.com###related
@@ -410,7 +409,6 @@ aliexpress.ru##div[class*="Container__primary"]:has-text(Подобрали дл
 stock.adobe.com###fmf-promo
 javascript.ru##.buy-book-button
 javascript.ru##.main__header-title
-javascript.ru###comments
 javascript.ru##.page-footer
 w3schools.com###right
 w3schools.com##a[title="Go Pro"]
@@ -455,7 +453,6 @@ kino.pub##a[href="/selection/my"]
 kino.pub##a[href="/subtitle"]
 kino.pub###aside
 kino.pub###aside:remove()
-kino.pub###comments
 kino.pub##.carousel-index
 kino.pub##.carousel-index:upward(1)
 kino.pub##h3.index
@@ -553,7 +550,6 @@ twitter.com##aside[aria-label="Who to follow"]
 zeplin.io##.socketBanner.warn
 
 zen.yandex.ru##header
-zen.yandex.ru###article__comments
 zen.yandex.ru##.article-left-block__cropped
 zen.yandex.ru##.sticky-container
 zen.yandex.ru##.article__title
@@ -596,7 +592,6 @@ mkze.elm.ovh##a[href="/selection/my"]
 mkze.elm.ovh##a[href="/subtitle"]
 mkze.elm.ovh###aside
 mkze.elm.ovh###aside:remove()
-mkze.elm.ovh###comments
 mkze.elm.ovh##.carousel-index
 mkze.elm.ovh##.carousel-index:upward(1)
 mkze.elm.ovh##h3.index
@@ -622,13 +617,10 @@ market.yandex.ru##div[data-apiary-widget-name="@marketfront/VisibilityLoaderMark
 market.yandex.ru##a[href="/live"]
 market.yandex.ru##a[href="/deals"]
 
-wylsa.com##.comments-area
 wylsa.com##.marketWidgetWrapper
 wylsa.com##.relatedPosts
 jsfiddle.net###hello-bar
 
-lifehacker.ru###comments
-lifehacker.ru##.widgets-renderer-item_comments
 lifehacker.ru##.widgets-renderer-item_taxonomy-posts
 lifehacker.ru##.nav-menu-below-header__container
 lifehacker.ru##.primary-menu
@@ -666,7 +658,6 @@ tproger.ru##.container-header
 tproger.ru##aside
 tproger.ru###post-widget-container
 tproger.ru###tp-recommended-posts
-tproger.ru###tproger-comments
 tproger.ru##.single__thumbnail
 tproger.ru##.float-widget-container
 tproger.ru##.footer-meta
@@ -741,7 +732,6 @@ ozon.ru##section[data-widget="searchHistory"]
 ozon.ru##section[data-widget="promoBanner"]
 ozon.ru##section[data-widget="rateBoughtItems"]
 ozon.ru##form:has-text(Не нашли, что искали?)
-ozon.ru###comments
 ozon.ru##video
 ozon.ru##.tsCaptionBold
 ozon.ru##a[href="/my/main"] > span:nth-child(1)
@@ -794,7 +784,6 @@ vk.com##div[class*="Reply"]
 vk.com##div[class*="Replies"]
 vk.com##div[class*="reply"]
 vk.com##div[class*="replies"]
-vk.com##div[class*="comment"]
 vk.com##.page_actions_more
 vk.com###react_rootEcosystemServicesNavigationEntry
 vk.com##aside[aria-label="Contacts"]
@@ -981,10 +970,8 @@ facebook.com##div[data-pagelet="Stories"]
 facebook.com##div[aria-label="Stories"]
 facebook.com##div[aria-label="Reels tray"]
 facebook.com##div[aria-label="Create a post"]
-facebook.com##div[aria-label*="Comment"]
 facebook.com##div[aria-label*="Reply"]
 facebook.com##div[aria-label*="Like"]
-facebook.com##div[aria-label*="Leave a comment"]
 facebook.com##div[data-pagelet="VideoChatHomeUnit"]
 facebook.com##img[alt*="Profile Photo"]
 facebook.com##div[data-pagelet*="FeedUnit"]:has-text(Reels)
