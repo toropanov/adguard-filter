@@ -149,6 +149,7 @@ b17.ru##.stick_container
 b17.ru##.mobile_bottom
 b17.ru##video
 b17.ru##img
+b17.ru##a
 
 4pda.to###navstrip
 4pda.to###logostrip
