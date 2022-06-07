@@ -146,6 +146,7 @@ b17.ru##.article-avt-top
 b17.ru##h1
 b17.ru##.stick_block_layer
 b17.ru##.stick_container
+b17.ru##.mobile_bottom
 b17.ru##video
 b17.ru##img
 
