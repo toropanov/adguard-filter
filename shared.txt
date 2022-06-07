@@ -1005,8 +1005,4 @@ telegram.org##.chatlist-chat:contains(/Telegram/)
 telegram.org##.sidebar-header
 telegram.org##.bubble-hover-reaction
 
-##div[id*="footer"]
-##div[class*="footer"]
-##footer
-
 leetcode.com#$#div[role="dialog"] footer { display: block!important }
