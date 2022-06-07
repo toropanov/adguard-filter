@@ -777,6 +777,7 @@ vk.com###top_audio
 vk.com###side_bar
 vk.com###search_menu
 vk.com###filter_form
+vk.com##.page_cover
 vk.com##.search_results
 vk.com###group_topics
 vk.com##.mention_tt_img
@@ -829,6 +830,8 @@ vk.com###feed_rmenu
 vk.com###feed_filters
 vk.com###groups_donut_module
 vk.com##.right_list_img
+vk.com###group_events
+vk.com###group_section_menu
 vk.com##.profile_rate_warning
 vk.com###profile_photos_module
 vk.com###profile_friends_recomm
