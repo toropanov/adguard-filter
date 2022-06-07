@@ -107,6 +107,8 @@ youtube.com##h3:has-text(/Димас из Батайска|Дима Гордей
 duckduckgo.com###links:has-text(/Тукитук|medialike.ru|erotic|devushka|krasotki|girls-art.ru|Афоня ТВ|Majorka|Мажорка|обнаженн|smotrim.net|escort|эскорт|голая|раздетая|топлес|Blondinka Drive|Wylsacom|Дима Гордей|Димас Из Батайска|девушка дня|dezinfo.net/devushki|sliv-foto.ru/):upward(6)
 yandex.ru##.Link:has-text(/Тукитук|medialike.ru|голая|эроти|erotic|секс|devushka|krasotki|nude|naked|sex|porn|fuck|girls-art.ru|sex|xxx|porn|nsfw|Афоня ТВ|Majorka|naked|обнаженн|Мажорка|smotrim.net|escort|эскорт|голая|раздетая|топлес|Blondinka Drive|Wylsacom|Дима Гордей|Димас Из Батайска|девушка дня|dezinfo.net/devushki|sliv-foto.ru/):upward(11)
 
+duckduckgo.com##a[href*="b17.ru/forum/"]:upward(article)
+
 duckduckgo.com###powered_by
 duckduckgo.com##.js-feedback-btn-wrap
 duckduckgo.com##.badge-link
