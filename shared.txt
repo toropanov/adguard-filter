@@ -862,7 +862,7 @@ vk.com##.audioPlaylistSnippet__footer
 vk.com###box_layer_bg
 vk.com###box_layer_wrap
 vk.com##.PageBottomBanner
-vk.com#$#body { overflow: scroll !important; }
+vk.com#$#body { overflow: scroll !important; top: 0 !important; position: relative !important; }
 vk.com##a.header__back
 vk.com##a.pp_auth_link
 vk.com##a[href="/mail"]
