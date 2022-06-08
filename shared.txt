@@ -28,6 +28,7 @@ kod.ru,appleinsider.ru,androidinsider.ru,auto.ru,mobile-review.com,woman.ru,otve
 
 duckduckgo.com##a[href*="b17.ru/forum/"]:upward(article)
 duckduckgo.com##a[href*="zen.yandex.ru/video/"]:upward(article)
+duckduckgo.com##a[href*="play.google.com/store/apps/"]:upward(article)
 
 jsbin.com###toppanel
 jsbin.com###panels
