@@ -856,7 +856,6 @@ vk.com##.mmi_ads
 vk.com##.mmi_apps
 vk.com##.ModalMenu
 vk.com##.Popup
-vk.com##.basis__header_unauthorized
 vk.com##.mmi_likes
 vk.com##.audioPlaylistSnippet__list
 vk.com##.audioPlaylistSnippet__footer
