@@ -935,6 +935,7 @@ slack.com###GG9L0FRMH
 slack.com###G01MY6UGVHQ
 slack.com###C52L32NV7
 slack.com###G6H2TUEJD
+slack.com##li[data-id="C6QL61SLV"]
 slack.com###sectionHeading-LT7P0GRDF
 slack.com###sectionHeading-L031P8A3NCX
 slack.com##button[aria-label="New message"]
