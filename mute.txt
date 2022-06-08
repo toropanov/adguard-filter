@@ -114,3 +114,5 @@ imgur.com##div#under-image
 ##div#hl-comments
 ##div.discussionContainer
 ###liste_reactions
+##ytd-comments
+###comments
