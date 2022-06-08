@@ -9,6 +9,7 @@ mkze.elm.ovh#%#if(location.pathname=='/'){location.pathname='/favorites'}
 toggl.com#%#if(location.pathname=='/'){location.href='https://track.toggl.com/timer'}
 kino.pub#%#if(location.pathname=='/'){location.pathname='/favorites'}
 bing.com#%#if(location.pathname=='/'){location.hostname='safe.duckduckgo.com'}
+vk.com#%#if(location.pathname=='/'){location.hostname='safe.duckduckgo.com'}
 google.com#%#if(location.pathname=='/' || location.pathname=='/search'){location.href='safe.duckduckgo.com'}
 yandex.ru#%#if(location.href=='https://yandex.ru/'){location.hostname='ya.ru'}
 slack.com#%#if(location.pathname=='/'){location.href='https://app.slack.com/client/T53592GTV/CDF0CHQ03/thread/CAY8UCEDU-1653652958.032059'}
@@ -77,6 +78,7 @@ youtube.com##button[aria-label="Guide"]
 youtube.com##button[aria-label="Upload"]
 youtube.com##button[aria-label="YouTube apps"]
 youtube.com##button[aria-label="Notifications"]
+youtube.com##button[aria-label="Account"]
 youtube.com##ytm-item-section-renderer[data-content-type="related"]
 youtube.com##ytm-comments-entry-point-header-renderer
 youtube.com##ytm-pivot-bar-renderer
@@ -103,6 +105,7 @@ youtube.com#$#ytd-page-manager { margin-left: 0!important; }
 youtube.com##tp-yt-app-drawer:remove()
 youtube.com##tp-yt-paper-button:has-text(/Subscribe/):upward(ytd-item-section-renderer)
 youtube.com##ytd-video-renderer #description-text
+youtube.com##span[class*="header-subscriber-count"]
 
 youtube.com##ytd-channel-name:has-text(/Димас из Батайска|Дима Гордей|Blondinka Drive/):upward(12)
 youtube.com##h1:has-text(/Димас из Батайска|Дима Гордей|Blondinka Drive|Wylsacom/):upward(4)
@@ -850,12 +853,18 @@ vk.com##.new_post_container
 vk.com##.recommends_link
 vk.com##.mmi_ads
 vk.com##.mmi_apps
+vk.com##.ModalMenu
+vk.com##.Popup
+vk.com##.basis__header_unauthorized
 vk.com##.mmi_likes
+vk.com##.audioPlaylistSnippet__list
+vk.com##.audioPlaylistSnippet__footer
 vk.com###box_layer_bg
 vk.com###box_layer_wrap
 vk.com##.PageBottomBanner
 vk.com#$#body { overflow: scroll !important; }
 vk.com##a.header__back
+vk.com##a.pp_auth_link
 vk.com##a[href="/mail"]
 vk.com##a[href="/im"]
 vk.com##a[href="/feed"]
