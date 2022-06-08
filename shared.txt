@@ -972,17 +972,6 @@ slack.com##.p-workspace__channel_sidebar .p-ia__sidebar_header
 /^pixels?[-.]/
 /^stat(s|istics)?[0-9]*[_.-]/
 
-##img[src*="krasotki"]
-##img[src*="nude"]
-##img[src*="naked"]
-##img[src*="sex"]
-##img[src*="erotica"]
-##img[src*="porn"]
-##img[src*="fuck"]
-##img[src*="devushka"]
-##img[src*="goloe"]
-##img[src*="escort"]
-
 feedly.com##button[-ext-contains="Upgrade"]
 facebook.com##div[role="navigation"]
 facebook.com##div[role="complementary"]
