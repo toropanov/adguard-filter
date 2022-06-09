@@ -31,6 +31,7 @@ duckduckgo.com##a[href*="b17.ru/forum/"]:upward(article)
 duckduckgo.com##a[href*="zen.yandex.ru/video/"]:upward(article)
 duckduckgo.com##a[href*="play.google.com/store/apps/"]:upward(article)
 duckduckgo.com##a[href*="tiktok.com"]:upward(article)
+duckduckgo.com##a[href*="apps.apple.com/"]:upward(article)
 
 jsbin.com###toppanel
 jsbin.com###panels
