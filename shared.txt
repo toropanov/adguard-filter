@@ -115,9 +115,9 @@ youtube.com##ytd-channel-name:has-text(/Димас из Батайска|MAJORKA
 youtube.com##h1:has-text(/Димас из Батайска|MAJORKA|LITVIN|MORGENSHTERN|Селеба Из Гетто|ДНЕВНИК ХАЧА|Edward Bil|Дима Гордей|Blondinka Drive|Wylsacom/i):upward(4)
 youtube.com##h3:has-text(/Димас из Батайска|MAJORKA|LITVIN|MORGENSHTERN|Селеба Из Гетто|ДНЕВНИК ХАЧА|Edward Bil|Дима Гордей|Blondinka Drive|Wylsacom/i):upward(10)
 
-duckduckgo.com###links:has-text(/Тукитук|medialike.ru|erotic|devushka|krasotki|girls-art.ru|Афоня ТВ|Majorka|Мажорка|обнаженн|smotrim.net|escort|эскорт|голая|раздетая|топлес|MORGENSHTERN|Blondinka Drive|Селеба Из Гетто|ДНЕВНИК ХАЧА|Edward Bil|Wylsacom|Дима Гордей|Димас Из Батайска|девушка дня|dezinfo.net/devushki|sliv-foto.ru/):upward(6)
+duckduckgo.com###links:has-text(/Тукитук|medialike.ru|erotic|devushka|krasotki|girls-art.ru|Афоня ТВ|Majorka|Мажорка|обнаженн|smotrim.net|escort|эскорт|голая|раздетая|топлес|Михаил Литвин|MORGENSHTERN|Blondinka Drive|Селеба Из Гетто|ДНЕВНИК ХАЧА|Edward Bil|Wylsacom|Дима Гордей|Димас Из Батайска|девушка дня|dezinfo.net/devushki|sliv-foto.ru/):upward(6)
 
-yandex.ru##.Link:has-text(/Тукитук|medialike.ru|голая|эроти|erotic|секс|devushka|krasotki|nude|naked|sex|porn|fuck|girls-art.ru|sex|xxx|porn|nsfw|Афоня ТВ|Majorka|naked|обнаженн|Мажорка|smotrim.net|escort|эскорт|голая|раздетая|топлес|MORGENSHTERN|Blondinka Drive|Селеба Из Гетто|ДНЕВНИК ХАЧА|Edward Bil|Wylsacom|Дима Гордей|Димас Из Батайска|девушка дня|dezinfo.net/devushki|sliv-foto.ru/):upward(11)
+yandex.ru##.Link:has-text(/Тукитук|medialike.ru|голая|эроти|erotic|секс|devushka|krasotki|nude|naked|sex|porn|fuck|girls-art.ru|sex|xxx|porn|nsfw|Афоня ТВ|Majorka|naked|обнаженн|Мажорка|smotrim.net|escort|эскорт|голая|раздетая|топлес|Михаил Литвин|MORGENSHTERN|Blondinka Drive|Селеба Из Гетто|ДНЕВНИК ХАЧА|Edward Bil|Wylsacom|Дима Гордей|Димас Из Батайска|девушка дня|dezinfo.net/devushki|sliv-foto.ru/):upward(11)
 
 duckduckgo.com###powered_by
 duckduckgo.com##.js-feedback-btn-wrap
