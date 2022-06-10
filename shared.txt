@@ -947,11 +947,11 @@ slack.com###sectionHeading-LT7P0GRDF
 slack.com###sectionHeading-L031P8A3NCX
 slack.com##button[aria-label="New message"]
 slack.com##button[aria-label="Help"]
+slack.com##div[aria-label="Hidden"]
 slack.com##button[aria-label="Show history"]
 slack.com##button[data-qa="avatar_stack"]
 slack.com##.p-top_nav__right
 slack.com##.c-avatar
-slack.com###c-coachmark-anchor
 slack.com##.c-reaction_bar
 slack.com##.c-message__actions
 slack.com##.c-custom_status
