@@ -722,6 +722,8 @@ ozon.ru##div[data-widget*="banner"]
 ozon.ru##div[data-widget="webCurrentSeller"]
 ozon.ru##div[data-widget="webMarketingMarks"]
 ozon.ru##div[data-widget="advVideoBanner"]
+ozon.ru##div[data-widget="hammers"]
+
 ozon.ru##div[data-widget="advVideoBannerMobile"]
 ozon.ru##div[data-widget="objectCloud"]
 ozon.ru##div[data-widget="listReviewsDesktop"]
@@ -729,6 +731,7 @@ ozon.ru##div[data-widget="tagList"]
 ozon.ru##div[data-widget="webNotificationsCounter"]
 ozon.ru##div[data-widget="mobileEntryPoints"]
 ozon.ru##div[data-widget="setOfPreviews"]
+ozon.ru##div[data-widget="blackFridayCounter"]
 ozon.ru##div[data-widget*="objectGrid"]
 ozon.ru##div[data-widget*="skuGrid"]:upward(div[data-widget="paginator"])
 ozon.ru##div[data-widget="profileMenu"]:upward(4)
