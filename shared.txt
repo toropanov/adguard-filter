@@ -228,6 +228,8 @@ lichess.org##button[title="Offer draw"]
 lichess.org##header
 lichess.org###topnav section:has-text(/Tools|Community|Watch|lichess.org/)
 
+reactjs.org##header a[href*="fb.com"]:upward(3)
+
 avito.ru##.main-page-flex-container
 avito.ru##.footer-extended
 avito.ru##.js-promo-sticky-container
