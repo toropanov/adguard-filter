@@ -672,6 +672,7 @@ linkedin.com##img[class*="avatar"]
 linkedin.com##img[class*="entity-image"]
 linkedin.com##img[class*="EntityPhoto"]
 linkedin.com##a[data-link-to="notifications"]
+linkedin.com##a[href^="https://www.linkedin.com/notifications/"]
 linkedin.com##footer
 
 pinterest.com##.AggregatedCloseupCard
