@@ -666,6 +666,7 @@ leetcode.com##button:has-text(/Store/)
 linkedin.com###msg-overlay
 linkedin.com##.share-box-feed-entry__closed-share-box
 linkedin.com##.avatar
+linkedin.com##.premium-upsell-link
 linkedin.com##.ad-banner-container
 linkedin.com##img[class*="avatar"]
 linkedin.com##img[class*="entity-image"]
