@@ -707,6 +707,7 @@ ozon.ru##div[data-widget="mobileEntryPoints"]
 ozon.ru##div[data-widget="setOfPreviews"]
 ozon.ru##div[data-widget="blackFridayCounter"]
 ozon.ru##div[data-widget*="objectGrid"]
+ozon.ru##div[data-widget="profileRecommendations"]
 ozon.ru##div[data-widget*="skuGrid"]:upward(div[data-widget="paginator"])
 ozon.ru##div[data-widget="profileMenu"]:upward(4)
 ozon.ru##div[data-widget="container"]:has-text(Все магазины)
