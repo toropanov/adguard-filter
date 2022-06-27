@@ -76,6 +76,7 @@ imgur.com##div#under-image
 ##div[class*=postcomments]
 ##div#postComments
 ##div[id*=comments_block]
+##div#article__comments
 ##div.comment-rig
 ##div#inferno-comments
 ##div#commentsView
