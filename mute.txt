@@ -16,6 +16,7 @@
 ##[class~=commentList]
 ##[id~=commentlist]
 ##[id~=commentList]
+##[class*=ProjectComments]
 ##[class~=comment-list]
 ##[id~=comment-list]
 ~quora.com##[class~=comment_list]
