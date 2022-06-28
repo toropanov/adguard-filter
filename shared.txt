@@ -449,6 +449,7 @@ kino.pub##.carousel-index:upward(1)
 kino.pub##h3.index
 
 behance.net##.Popup-popup-Hub
+behance.net##.project-module__actions
 behance.net##button:has-text(/Sign Up/)
 behance.net##.InfinityFooter__global-selector
 behance.net##a[title="Adobe Creative Cloud"]
