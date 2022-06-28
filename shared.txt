@@ -189,6 +189,7 @@ b17.ru##a
 
 github.com###feature-enrollment-toggle
 github.com##.feature-preview-indicator
+github.com##.user-status-container
 github.com##.js-feature-preview-indicator
 github.com##.dropdown-caret
 github.com##.footer
