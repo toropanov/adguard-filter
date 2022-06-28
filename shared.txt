@@ -672,6 +672,7 @@ leetcode.com##a[href^="/subscribe/"]
 leetcode.com##button[aria-label="notification"]
 leetcode.com###subscribe
 leetcode.com###interview-nav-item
+leetcode.com##a[href="/discuss/"]
 leetcode.com##a[class*="notification-icon"]
 leetcode.com##.ant-notification
 leetcode.com##button:has-text(/Store/)
