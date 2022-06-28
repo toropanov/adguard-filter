@@ -454,6 +454,14 @@ behance.net##.InfinityFooter__global-selector
 behance.net##a[title="Adobe Creative Cloud"]
 behance.net##.js-vue-mobile-app-upsell
 behance.net##a:has-text(/Use App/)
+behance.net##div[class*="CoverStats-container"]
+behance.net##div[modaltitle="Work in Progress"]
+behance.net##li[class*="NotificationBadge"]
+behance.net##[class*="ProjectCoverNeue-feature"]
+behance.net##[class*="ProjectCoverNeue-details"]
+behance.net##[class*="ProjectCoverNeue-topRight"]
+behance.net##[class*="SubscriptionRow"]
+behance.net##[class*="TabMenu-tabContainer"]
 behance.net#$#.mobile-banner-visible { position: relative !important; }
 
 music.yandex.ru##.notify
