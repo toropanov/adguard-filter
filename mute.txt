@@ -121,5 +121,3 @@ imgur.com##div#under-image
 ##ytd-comments
 ###comments
 ##[target-id="engagement-panel-comments-section"]
-
-avito.ru##*
