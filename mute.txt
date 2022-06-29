@@ -120,3 +120,4 @@ imgur.com##div#under-image
 ###liste_reactions
 ##ytd-comments
 ###comments
+##[target-id="engagement-panel-comments-section"]
