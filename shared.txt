@@ -1,4 +1,5 @@
 youtube.com#%#if(location.pathname=='/'){location.href='https://www.w3schools.com/'}
+zen.yandex.ru#%#if(location.pathname=='/'){location.href='https://www.w3schools.com/'}
 drive2.ru#%#if(location.pathname=='/'){location.href='https://www.w3schools.com/'}
 habr.com#%#if(location.pathname=='/' || location.pathname == '/ru/all/'){location.href='https://www.w3schools.com/'}
 4pda.to#%#if(location.pathname=='/' || location.search == '?act=idx' || location.search.includes('showforum')){ location.href = 'https://safe.duckduckgo.com' }
