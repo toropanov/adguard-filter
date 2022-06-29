@@ -198,6 +198,7 @@ github.com##img.avatar
 github.com##a:has-text(/Add a README/):upward(.flash)
 github.com##a[href="/account/choose?action=upgrade"]
 github.com##a[href="/toropanov/adguard-filter"]:upward(li.source)
+github.com###jump-to-suggestion-repository-462241140
 
 lichess.org###notify-toggle
 
