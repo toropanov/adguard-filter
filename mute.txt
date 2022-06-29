@@ -67,6 +67,7 @@ imgur.com##div#under-image
 ##div#commentLinks
 ##div#commentsWrapper
 ###commentList
+###comment-teaser
 ##div.commentList
 ##div#commentsDiv
 ##div#commentspage
