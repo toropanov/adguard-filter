@@ -704,6 +704,8 @@ pinterest.com##div[data-test-id="maybe-clickthrough-link"]
 pinterest.com##div[data-test-id="gestalt-avatar-svg"]
 pinterest.com##div[data-test-id="creator-card-profile"]
 pinterest.com##a:has-text(/Home|Today/)
+pinterest.com##a[href="/notifications/"]:upward(1)
+pinterest.com##[data-test-id="nav-bar-profile"]
 
 ozon.ru##div[data-widget="topBar"]
 ozon.ru##div[data-widget="catalogMenu"]
