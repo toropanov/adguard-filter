@@ -614,6 +614,22 @@ mkze.elm.ovh###aside:remove()
 mkze.elm.ovh##.carousel-index
 mkze.elm.ovh##.carousel-index:upward(1)
 mkze.elm.ovh##h3.index
+mkze.elm.ovh##a[href="/movie?genre=21"]:upward(.item)
+mkze.elm.ovh##a[href="/movie?genre=10"]:upward(.item)
+mkze.elm.ovh##a[href="/movie?genre=9"]:upward(.item)
+mkze.elm.ovh##a[href="/movie?genre=12"]:upward(.item)
+mkze.elm.ovh##a[href="/movie?genre=15"]:upward(.item)
+mkze.elm.ovh##a[href="/movie?genre=17"]:upward(.item)
+mkze.elm.ovh##a[href="/movie?genre=11"]:upward(.item)
+
+mkze.elm.ovh##td a[href="/movie?age=18"]:upward(.page-content)
+mkze.elm.ovh##td a[href="/movie?genre=21"]:upward(.page-content)
+mkze.elm.ovh##td a[href="/movie?genre=10"]:upward(.page-content)
+mkze.elm.ovh##td a[href="/movie?genre=9"]:upward(.page-content)
+mkze.elm.ovh##td a[href="/movie?genre=12"]:upward(.page-content)
+mkze.elm.ovh##td a[href="/movie?genre=15"]:upward(.page-content)
+mkze.elm.ovh##td a[href="/movie?genre=17"]:upward(.page-content)
+mkze.elm.ovh##td a[href="/movie?genre=11"]:upward(.page-content)
 
 music.yandex.ru##.deco-teaser
 market.yandex.ru##.n-review-poll
