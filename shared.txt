@@ -448,6 +448,7 @@ kino.pub##a[href="/subtitle"]
 kino.pub###aside
 kino.pub###aside:remove()
 kino.pub##.carousel-index
+kino.pub##td a[href="/movie?age=18"]:upward(.page-content)
 kino.pub##.carousel-index:upward(1)
 kino.pub##h3.index
 
