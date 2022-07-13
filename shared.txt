@@ -442,6 +442,8 @@ forum.adguard.com###header
 forum.adguard.com##.p-body-sidebar
 forum.adguard.com##.node-extra
 
+rutracker.org###logo
+
 kino.pub###content[role="main"] .app-body:has-text(Новые фильмы)
 kino.pub##a[href="/selection/my"]
 kino.pub##a[href="/subtitle"]
