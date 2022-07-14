@@ -1,5 +1,6 @@
-youtube.com#%#if(location.pathname=='/'){location.href='https://www.w3schools.com/'}
-zen.yandex.ru#%#if(location.pathname=='/'){location.href='https://www.w3schools.com/'}
+youtube.com#%#if(location.pathname=='/'){location.href='https://safe.duckduckgo.com'}
+zen.yandex.ru#%#if(location.pathname=='/'){location.href='https://safe.duckduckgo.com'}
+journal.tinkoff.ru#%#if(location.pathname=='/'){location.href='https://safe.duckduckgo.com'}
 drive2.ru#%#if(location.pathname=='/'){location.href='https://www.w3schools.com/'}
 habr.com#%#if(location.pathname=='/' || location.pathname == '/ru/all/'){location.href='https://www.w3schools.com/'}
 4pda.to#%#if(location.pathname=='/' || location.search == '?act=idx' || location.search.includes('showforum')){ location.href = 'https://safe.duckduckgo.com' }
@@ -583,6 +584,11 @@ zen.yandex.ru##.theme-tags
 zen.yandex.ru##.article-recommender
 zen.yandex.ru##div[class*="subscribe"]
 zen.yandex.ru##div[class*="socials-block"]
+
+journal.tinkoff.ru##.article-header 
+journal.tinkoff.ru##[data-id="header-app"]
+journal.tinkoff.ru##.article-author
+journal.tinkoff.ru##.recommender-showcase
 
 yandex.ru###search-result-aside
 yandex.ru##.mn__first_up
