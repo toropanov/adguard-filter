@@ -29,6 +29,11 @@ yandex.ru##.serp-item:has-text(/kod.ru|auto.ru|appleinsider.ru|coub.com|androidi
 
 kod.ru,nextdns.io,gbstore.ru,appleinsider.ru,coub.com,androidinsider.ru,auto.ru,mobile-review.com,woman.ru,otvet.mail.ru,moscowtimes.ru,iguides.ru,lenta.ru,beeg.com,wylsa.com,ria.ru,rbc.ru,vedomosti.ru,pikabu.ru,iphones.ru,vc.ru,xda-developers.com,www.xda-developers.com,lifehacker.ru,tumblr.com,3dnews.ru,pressa.tv,tjournal.ru,smotrim.net,mirtesen.ru,maximonline.ru,pornhub.com,rozetked.me,yaplakal.com,smart-lab.ru,meduza.io,ixbt.com,wildberries.ru,incrussia.ru,fotostrana.ru,livejournal.com,pixmafia.ru,medialike.ru,inosmi.ru,click-or-die.ru,fb.ru,facebook.com,instagram.com,ferra.ru##*
 
+music.yandex.ru##.d-track:has-text(/MORGENSHTERN|Morgenstern|Моргенштерн|Yanix|Leningrad|Ленинград|Сергей Шнуров|Skryptonite|Scriptonite|Скриптонит|Клава Кока|Klava Koka|Klava Coca|Артур Пирожков|Хаски|Russian|Rap|Русск/)
+music.yandex.ru##.playlist:has-text(/MORGENSHTERN|Morgenstern|Моргенштерн|Yanix|Leningrad|Ленинград|Сергей Шнуров|Skryptonite|Scriptonite|Скриптонит|Клава Кока|Klava Koka|Klava Coca|Артур Пирожков|Хаски|Russian|Rap|Русск/)
+music.yandex.ru##.album:has-text(/MORGENSHTERN|Morgenstern|Моргенштерн|Yanix|Leningrad|Ленинград|Сергей Шнуров|Skryptonite|Scriptonite|Скриптонит|Клава Кока|Klava Koka|Klava Coca|Артур Пирожков|Хаски|Russian|Rap|Русск/)
+music.yandex.ru##.artist:has-text(/MORGENSHTERN|Morgenstern|Моргенштерн|Yanix|Leningrad|Ленинград|Сергей Шнуров|Skryptonite|Scriptonite|Скриптонит|Клава Кока|Klava Koka|Klava Coca|Артур Пирожков|Хаски|Russian|Rap|Русск/)
+
 duckduckgo.com##a[href*="b17.ru/forum/"]:upward(article)
 duckduckgo.com##a[href*="zen.yandex.ru/video/"]:upward(article)
 duckduckgo.com##a[href*="play.google.com/store/apps/"]:upward(article)
@@ -531,6 +536,7 @@ music.yandex.ru##.page-artist__concerts
 music.yandex.ru##.page-artist__videos
 music.yandex.ru##.page-artist__playlists
 music.yandex.ru##.artist-pics
+music.yandex.ru##.d-suggest__popup-content
 
 passport.yandex.ru##.passp-bg
 
