@@ -18,7 +18,7 @@ slack.com#%#if(location.pathname=='/'){location.href='https://app.slack.com/clie
 b17.ru#%#if(location.pathname=='/' || location.pathname=='/forum/topic.php'){location.hostname='safe.duckduckgo.com'}
 facebook.com#%#if(location.host=='www.facebook.com'){location.href='https://safe.duckduckgo.com/'}
 instagram.com#%#if(location.host=='www.instagram.com'){location.href='https://safe.duckduckgo.com/'}
-music.yandex.ru#%#if(location.pathname=='/'){location.pathname='/users/toropanov/playlists/1023'}
+music.yandex.ru#%#if(location.pathname=='/'){location.pathname='/users/toropanov/playlists/'}
 javascript.ru#%#if(location.host=='javascript.ru'){location.href='https://learn.javascript.ru/'}
 github.com#%#if(location.pathname=='/'){location.pathname='/toropanov'}
 
