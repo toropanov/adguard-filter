@@ -616,12 +616,12 @@ yandex.ru##.mini-suggest__popup
 yandex.ru##.voice-search-button
 yandex.ru##li.serp-item[data-fast-name="ecommerce_constr"]
 yandex.ru##a[href="https://passport.yandex.ru"]
-ya.ru##a.layout__footer-logo
-ya.ru##a.personal__mail
-ya.ru##.personal__count
-ya.ru##.input__voice-search
-ya.ru##.mini-suggest__popup
-ya.ru##.layout__header
+yandex.ru##a.logo
+ya.ru##.home-link2
+ya.ru##.headline
+ya.ru##.footer3
+ya.ru##.search3__logo > svg
+ya.ru##.search3__voice
 yandex.ru#$#.document:not(.document_dark_yes) .rows:after { height: 100vh !important; }
 
 mkze.elm.ovh###content[role="main"] .app-body:has-text(Новые фильмы)
