@@ -51,6 +51,7 @@ jsbin.com##.toppanel-logo
 jsbin.com##.toppanel-love
 jsbin.com##.menu:has-text(File)
 
+google.com##.logo
 google.com##a[aria-label="Google apps"]
 google.com##ddfddfiv[aria-label="Show side panel"]
 
