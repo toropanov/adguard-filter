@@ -804,6 +804,7 @@ ozon.ru##section[data-widget="promoBanner"]
 ozon.ru##section[data-widget="rateBoughtItems"]
 ozon.ru##form:has-text(Не нашли, что искали?)
 ozon.ru##video
+ozon.ru##a[href*="advert="]
 ozon.ru##.tsCaptionBold
 ozon.ru##a[href="/my/main"] > span:nth-child(1)
 ozon.ru##a[href="/my/favorites"] > span:nth-child(1)
