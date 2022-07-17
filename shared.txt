@@ -53,6 +53,7 @@ jsbin.com##.menu:has-text(File)
 
 google.com##.logo
 google.com###footcnt
+google.com##.hdtb-mitem:has-text(/News|More/)
 google.com##a[aria-label="Google apps"]
 google.com##ddfddfiv[aria-label="Show side panel"]
 
