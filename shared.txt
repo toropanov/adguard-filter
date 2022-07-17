@@ -134,7 +134,8 @@ yandex.ru##.Link:has-text(/Тукитук|medialike.ru|голая|эроти|ero
 duckduckgo.com###powered_by
 duckduckgo.com##.js-feedback-btn-wrap
 duckduckgo.com##.badge-link
-duckduckgo.com###header_wrapper
+duckduckgo.com##.header__logo
+duckduckgo.com##ul#duckbar_static
 duckduckgo.com###bottom_spacing2
 duckduckgo.com##.feedback-prompt
 duckduckgo.com##.header--aside__item.showcase
