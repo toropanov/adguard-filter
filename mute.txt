@@ -120,5 +120,6 @@ imgur.com##div#under-image
 ###liste_reactions
 ##ytd-comments
 ###comments
+##.comments__content_wrapper
 ###tproger-comments
 ##[target-id="engagement-panel-comments-section"]
