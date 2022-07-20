@@ -1041,6 +1041,8 @@ facebook.com##img[data-imgperflogname="profileCoverPhoto"]
 
 facebook.com##div[data-visualcompletion="ignore-dynamic"]
 
+
+telegram.org#%#if(location.pathname=='/'){ setTimeout(() => { document.querySelectorAll('#folders-tabs > .menu-horizontal-div-item')[1].click(); }, 650)}
 telegram.org##.input-search
 telegram.org##.connection-status:remove()
 telegram.org##.bubble use[href="#message-tail-filled"]
@@ -1053,6 +1055,8 @@ telegram.org##.chat-info .bottom:has-text(/subscribers/)
 telegram.org##.chatlist-chat:contains(/Telegram/)
 telegram.org##.sidebar-header
 telegram.org##.bubble-hover-reaction
+telegram.org###folders-tabs > .menu-horizontal-div-item:nth-child(1)
+telegram.org##.chatlist-chat.is-muted .unread.badge
 
 leetcode.com#$#div[role="dialog"] footer { display: block!important }
 
