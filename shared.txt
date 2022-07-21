@@ -1,4 +1,4 @@
-youtube.com#%#if(location.pathname=='/'){location.href='https://safe.duckduckgo.com'}
+youtube.com#%#if(location.pathname=='/'){location.pathname='/feed/subscriptions'}
 zen.yandex.ru#%#if(location.pathname=='/'){location.href='https://safe.duckduckgo.com'}
 journal.tinkoff.ru#%#if(location.pathname=='/'){location.href='https://safe.duckduckgo.com'}
 drive2.ru#%#if(location.pathname=='/'){location.href='https://www.w3schools.com/'}
