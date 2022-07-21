@@ -435,7 +435,6 @@ reddit.com##.scrollerItem:has-text("Top livestream")
 reddit.com##div[data-testid="frontpage-sidebar"]
 reddit.com##.XPromoPopup
 reddit.com##.TopNav__promoButton
-reddit.com###SearchDropdown
 reddit.com##div[aria-modal="true"]:upward(1)
 reddit.com##header a[href="/r/popular/"]:upward(2)
 reddit.com##header a[href="https://www.reddit.com/chat"]:upward(2)
