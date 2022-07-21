@@ -1042,10 +1042,7 @@ facebook.com##img[data-imgperflogname="profileCoverPhoto"]
 facebook.com##div[data-visualcompletion="ignore-dynamic"]
 
 
-telegram.org#%#if(location.pathname=='/'){
-  setTimeout(() => { document.querySelectorAll('#folders-tabs > .menu-horizontal-div-item')[1].click(); }, 750);
-  setTimeout(() => { document.querySelectorAll('#folders-tabs > .menu-horizontal-div-item')[1].click(); }, 1000);
-}
+telegram.org#%#if(location.pathname=='/'){ setTimeout(() => { document.querySelectorAll('#folders-tabs > .menu-horizontal-div-item')[1].click(); }, 750); setTimeout(() => { document.querySelectorAll('#folders-tabs > .menu-horizontal-div-item')[1].click(); }, 1000); }
 
 telegram.org##.input-search
 telegram.org##.connection-status:remove()
