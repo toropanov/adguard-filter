@@ -997,10 +997,12 @@ slack.com###C52L32NV7
 slack.com###G6H2TUEJD
 slack.com###CB0U45DQB
 slack.com##li[data-id="C6QL61SLV"]
+slack.com###sectionHeading-L01JBDP0LDC
 slack.com###sectionHeading-LT7P0GRDF
 slack.com###sectionHeading-L031P8A3NCX
 slack.com##.c-presence
 slack.com##.c-custom_status
+slack.com##.p-bookmarks_bar_container
 slack.com##.c-search_autocomplete__footer_feeedback_help_container
 slack.com##.p-ia__sidebar_header__user__status
 slack.com##button[aria-label="New message"]
@@ -1008,6 +1010,8 @@ slack.com##button[aria-label="Help"]
 slack.com##div[aria-label="Hidden"]
 slack.com##button[aria-label="Show history"]
 slack.com##button[data-qa="avatar_stack"]
+slack.com#$#.p-channel_sidebar__static_list__item { position: initial!important; }
+slack.com#$#.c-virtual_list__scroll_container { height: auto!important; }
 
 /^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
 /^(.+[_.-])?telemetry[_.-]/
