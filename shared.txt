@@ -1,5 +1,6 @@
 youtube.com#%#if(location.pathname=='/'){location.pathname='/feed/subscriptions'}
 zen.yandex.ru#%#if(location.pathname=='/'){location.href='https://safe.duckduckgo.com'}
+yandex.ru#%#if(location.pathname=='/images/'){location.href='https://safe.duckduckgo.com'}
 google.com#%#if(location.pathname=='/'){location.href='https://safe.duckduckgo.com'}
 journal.tinkoff.ru#%#if(location.pathname=='/'){location.href='https://safe.duckduckgo.com'}
 drive2.ru#%#if(location.pathname=='/'){location.href='https://www.w3schools.com/'}
@@ -160,6 +161,10 @@ duckduckgo.com##.related-searches
 duckduckgo.com##.module--images
 duckduckgo.com##.tile--img__sub
 duckduckgo.com##.footer--mobile
+duckduckgo.com###zci-images
+duckduckgo.com###zci-videos
+duckduckgo.com##.vertical--news
+duckduckgo.com##.vertical--map
 
 raindrop.io##a[href="https://raindrop.io/pro/buy"]
 
