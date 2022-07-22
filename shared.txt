@@ -645,7 +645,7 @@ yandex.ru##.infinity-zen
 yandex.ru##.DistrSmartbannerOverlay
 yandex.ru##.DistrSmartbanner
 yandex.ru##.main__carousel.serp 
-yandex.ru##.serp-item[data-fast-name="images"]
+yandex.ru##.serp-item[data-fast-name*=/entity_search|video|images|multiusurveys/]
 yandex.ru##.Reviews
 
 ya.ru##.home-link2
