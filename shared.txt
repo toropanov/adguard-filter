@@ -615,6 +615,7 @@ yandex.ru##.mn__first_up
 yandex.ru##.mn__services
 yandex.ru##.SerpFooter
 yandex.ru##.serp-navigation
+yandex.ru##.ECommerceCarousel
 yandex.ru##.RelatedAbove
 yandex.ru##.RelatedBottom
 yandex.ru##.services-new
