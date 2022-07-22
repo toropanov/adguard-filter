@@ -625,6 +625,9 @@ yandex.ru##a.logo
 yandex.ru##.serp-item .Warning
 yandex.ru##.serp-item[data-video]
 yandex.ru##.tabs-navigation__tab
+yandex.ru##.HeaderPhoneNavigation
+yandex.ru##.HeaderPhoneActions
+yandex.ru##.entity-search__list
 
 ya.ru##.home-link2
 ya.ru##.headline
