@@ -646,6 +646,7 @@ yandex.ru##.DistrSmartbannerOverlay
 yandex.ru##.DistrSmartbanner
 yandex.ru##.main__carousel.serp 
 yandex.ru##.serp-item[data-fast-name="images"]
+yandex.ru##.Reviews
 
 ya.ru##.home-link2
 ya.ru##.headline
