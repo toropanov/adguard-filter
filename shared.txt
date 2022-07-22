@@ -649,6 +649,7 @@ yandex.ru##.serp-item[data-fast-name="entity_search"]
 yandex.ru##.serp-item[data-fast-name="video-unisearch"]
 yandex.ru##.serp-item[data-fast-name="images"]
 yandex.ru##.serp-item[data-fast-name="multiusurveys"]
+yandex.ru##[data-fast-name="misspell"]
 yandex.ru##.Reviews
 yandex.ru##.dialog__overlay
 yandex.ru##.serp-item .IconDots
