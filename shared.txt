@@ -642,6 +642,7 @@ yandex.ru##.content__informers-bg
 yandex.ru##.infinity-zen
 yandex.ru##.DistrSmartbannerOverlay
 yandex.ru##.DistrSmartbanner
+yandex.ru##.main__carousel.serp 
 
 ya.ru##.home-link2
 ya.ru##.headline
