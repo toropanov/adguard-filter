@@ -647,6 +647,7 @@ yandex.ru##.DistrSmartbanner
 yandex.ru##.main__carousel.serp 
 yandex.ru##.serp-item[data-fast-name*=/entity_search|video|images|multiusurveys/]
 yandex.ru##.Reviews
+yandex.ru##.serp-item .IconDots
 
 ya.ru##.home-link2
 ya.ru##.headline
