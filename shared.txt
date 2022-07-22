@@ -646,6 +646,8 @@ yandex.ru##.main__carousel.serp
 
 ya.ru##.home-link2
 ya.ru##.headline
+ya.ru##.theader__search-icon
+ya.ru##.lite-switcher-touch
 ya.ru##.footer3
 ya.ru##.search3__logo > svg
 ya.ru##.search3__voice
