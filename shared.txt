@@ -638,6 +638,8 @@ yandex.ru##.tabs-navigation__tab
 yandex.ru##.HeaderPhoneNavigation
 yandex.ru##.HeaderPhoneActions
 yandex.ru##.entity-search__list
+yandex.ru##.content__informers-bg
+yandex.ru##.infinity-zen
 
 ya.ru##.home-link2
 ya.ru##.headline
