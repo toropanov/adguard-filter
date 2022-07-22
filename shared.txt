@@ -623,6 +623,8 @@ yandex.ru##li.serp-item[data-fast-name="ecommerce_constr"]
 yandex.ru##a[href="https://passport.yandex.ru"]
 yandex.ru##a.logo
 yandex.ru##.serp-item .Warning
+yandex.ru##.serp-item[data-video]
+yandex.ru##.tabs-navigation__tab
 
 ya.ru##.home-link2
 ya.ru##.headline
