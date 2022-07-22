@@ -650,6 +650,7 @@ yandex.ru##.serp-item[data-fast-name="video-unisearch"]
 yandex.ru##.serp-item[data-fast-name="images"]
 yandex.ru##.serp-item[data-fast-name="multiusurveys"]
 yandex.ru##.Reviews
+yandex.ru##.dialog__overlay
 yandex.ru##.serp-item .IconDots
 
 ya.ru##.home-link2
