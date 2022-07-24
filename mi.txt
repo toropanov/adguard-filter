@@ -1,1 +1,73 @@
-
+avito.ru##.main-page-flex-container
+avito.ru##.footer-extended
+avito.ru##.js-promo-sticky-container
+avito.ru##.serp-vips
+avito.ru##.js-footer-app
+avito.ru##.fraud-alert
+avito.ru##.seller-safety
+avito.ru##.category-map
+avito.ru##div[class^="index-logo"]
+avito.ru##div[class^="index-social"]
+avito.ru##li[class*="index-nav-item"]
+avito.ru##div[class^="index-center"]:has([data-marker="bx-recommendations-block-item"])
+avito.ru##div[class*="delivery-banner"]
+avito.ru##div[class*="header-navigation-logo"]
+avito.ru##div[data-marker="new-section/list"]
+avito.ru##div[data-marker="stories"]
+avito.ru##div[data-marker="geo-location"]
+avito.ru##h2[data-marker="bx-recommendations-block-title"]
+avito.ru##div[data-marker="bx-recommendations-block-item"]
+avito.ru##div[data-marker="story-previewer"]
+avito.ru##div[class*="category-with-counters"]
+avito.ru##div[data-marker="footer"]
+avito.ru##div[class*="items-vip"]
+avito.ru##a[data-marker="navigation/link"]
+avito.ru##a[data-marker="search-form/save"]
+avito.ru##a[href="https://m.avito.ru/promo/card-landing"]
+avito.ru##a[data-marker="more-link"]
+avito.ru##button[data-marker="navigation/more-button"]
+avito.ru##a[data-marker="menu/nc"]
+avito.ru##a[data-marker="menu/business"]
+avito.ru##a[href="/paid-services/listing-fees"]
+avito.ru##a[href="/profile/notifications"]
+avito.ru##a[href="/shops/moskva"]
+avito.ru##a[href="/favorites"] i
+avito.ru##a[href="/profile/safety?srcRef=lk"]
+avito.ru##div[data-marker="header/notifications"]
+avito.ru##div[data-marker="header/username-tooltip/favorites/count"]
+avito.ru##div[data-marker="linked-info-banner"]
+avito.ru##button[data-marker="bx-recommendations-block-show-more"]
+avito.ru##div[data-marker="float-add-button"]
+avito.ru##div[data-marker="catalog-section"]
+avito.ru##i[data-marker="header/favorites-counter"]
+avito.ru##div[data-marker="header/notifications"]
+avito.ru##div[data-banner-id="profile/apps-banner"]
+avito.ru##section[aria-label="Рекомендованные объявления"]
+avito.ru##a[data-marker="channels/channelLink"]:has-text(Поддержка Авито)
+avito.ru###messenger-channels-list div[data-marker="avatar"]
+avito.ru##ul[data-marker="suggest/list"]
+avito.ru##li[class*="index-profile-nav-item"]:has-text(Заказы)
+avito.ru##div[class*="index-profile-nav-group"]:has-text(Кошелёк)
+avito.ru##li[class*="index-profile-nav-item"]:has-text(Управление профилем)
+avito.ru##li[class*="index-profile-nav-item"]:has-text(Защита профиля)
+avito.ru##li[class*="index-profile-nav-item"]:has-text(Мои отзывы)
+avito.ru##li[class*="profile-sidebar-navigation-item"]:has-text(Кошелёк)
+avito.ru##li[class*="profile-sidebar-navigation-item"]:has-text(Заказы)
+avito.ru##li[class*="profile-sidebar-navigation-item"]:has-text(Мои отзывы)
+avito.ru##li[class*="profile-sidebar-navigation-item"]:has-text(Управление профилем)
+avito.ru##a[data-marker="menu/save-search"] span
+avito.ru##div[class*="index-info"]
+avito.ru##div[class*="favoriteSellersGallery"]
+avito.ru##div[data-marker="icebreaker"]
+avito.ru##div[class*="iitem-view-search-info"]
+avito.ru##div[class*="SnippetBar"]
+avito.ru##ul[class*="index-nav-inner"]
+avito.ru##span[class*="index-nav-tab-notify"]
+avito.ru##a[href="/business"]
+avito.ru##a[href="/shops/moskva_i_mo"]
+avito.ru##a[href="//support.avito.ru"]
+avito.ru##div[data-marker="item-user-logo"]:upward(div[data-marker="item"])
+avito.ru##div[class*="item-sellerInfo"]:has-text(/([A-Za-z]+)|([()]+)/):upward(div[data-marker="item"])
+avito.ru##div[class*="item-sellerInfo"]:has-text(/магазин|тц|маркет| в |телефон|компани|электро|айфон|не |комисс|мастер/i):upward(div[data-marker="item"])
+avito.ru##div[data-marker="item-line"]:has-text(/Предложение услуг/):upward(div[data-marker="item"])
+avito.ru##div[data-marker="messagesHistory"] a[data-marker="avatar"]
