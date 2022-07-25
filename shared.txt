@@ -973,6 +973,10 @@ vk.com##a[href="/friends"]
 vk.com##a[href="/docs"]
 vk.com##a[data-header="Photos"]
 
+vk.com##.wall_text:has-text(/NSFW|nsfw|MORGENSHTERN|Morgenstern|Моргенштерн|Yanix|Leningrad|Ленинград|Сергей Шнуров|Skryptonite|Scriptonite|Скриптонит|Клава Кока|Klava Koka|Klava Coca|Артур Пирожков|Хаски|Rap|Димас из Батайска|MAJORKA|LITVIN|MORGENSHTERN|Селеба Из Гетто|ДНЕВНИК ХАЧА|Edward Bil|Дима Гордей|Blondinka Drive|Wylsacom|голая|эроти|erotic|секс|devushka|krasotki|nude|naked|sex|porn|fuck|sex|xxx|naked|porn|escort|эскорт|голая|раздетая|топлес|девушка дня|18+|onlyfans/):upward(body)
+
+vk.com##.page_info_wrap:has-text(/NSFW|nsfw|MORGENSHTERN|Morgenstern|Моргенштерн|Yanix|Leningrad|Ленинград|Сергей Шнуров|Skryptonite|Scriptonite|Скриптонит|Клава Кока|Klava Koka|Klava Coca|Артур Пирожков|Хаски|Rap|Димас из Батайска|MAJORKA|LITVIN|MORGENSHTERN|Селеба Из Гетто|ДНЕВНИК ХАЧА|Edward Bil|Дима Гордей|Blondinka Drive|Wylsacom|голая|эроти|erotic|секс|devushka|krasotki|nude|naked|sex|porn|fuck|sex|xxx|naked|porn|escort|эскорт|голая|раздетая|топлес|девушка дня|18+|onlyfans/):upward(body)
+
 stackoverflow.com##.s-user-card--info
 stackoverflow.com##.s-sidebarwidget__yellow
 stackoverflow.com##.votecell
