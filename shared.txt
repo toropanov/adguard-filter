@@ -973,7 +973,7 @@ vk.com##a[href="/friends"]
 vk.com##a[href="/docs"]
 vk.com##a[data-header="Photos"]
 
-vk.com##body:has-text(/NSFW|nsfw|MORGENSHTERN|Morgenstern|Моргенштерн|Yanix|Leningrad|Ленинград|Сергей Шнуров|Skryptonite|Scriptonite|Скриптонит|Клава Кока|Klava Koka|Klava Coca|Артур Пирожков|Хаски|Rap|Димас из Батайска|MAJORKA|LITVIN|MORGENSHTERN|Селеба Из Гетто|ДНЕВНИК ХАЧА|Edward Bil|Дима Гордей|Blondinka Drive|Wylsacom|эроти|erotic|секс|devushk|krasotki|nude|naked|sex|porn|fuck|xxx|naked|porn|escort|сочные|эскорт|голая|голой|знакомства|трансвест|киски|киска|раздетая|топлес|девушка дня|нудист|нудизм|nudist|милашка|wildberries|шлюхи|трахни|трахал|трахну|шлюха|порно|шлюшки|brazzers|devushki|обнажен|onlyfans|попку|тверк|попка|попки|разврат|эротик|сиськ|пошлые|пошлых|жопа|жопу|тик-ток|tik-tok|подслушано|tiktok|бикини|откровен|бодиарт|боди-арт|грудь|чулки|горячие|колготки/)
+vk.com##body:has-text(/nsfw|MORGENSHTERN|Morgenstern|Моргенштерн|Yanix|Сергей Шнуров|Skryptonite|Scriptonite|Скриптонит|Клава Кока|Klava Koka|Klava Coca|Артур Пирожков|Димас из Батайска|MAJORKA|LITVIN|MORGENSHTERN|Селеба Из Гетто|красивые девушки|ДНЕВНИК ХАЧА|Edward Bil|Дима Гордей|Blondinka Drive|Wylsacom|erotic|devushk|krasotki|naked|porn|naked|escort|эскорт|голой|раздетая|топлес|девушка дня|порно|brazzers|devushki|эротик/i)
 
 stackoverflow.com##.s-user-card--info
 stackoverflow.com##.s-sidebarwidget__yellow
