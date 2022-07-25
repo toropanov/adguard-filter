@@ -4,6 +4,7 @@
 ##[id*="avatar"]
 ##[class*="avatar"]
 ##[alt*="avatar"]
+##[alt*="Avatar"]
 ##ytm-profile-icon
 
 ~disqus.com##iframe[src*=disqus\.com\/embed\/comments]
