@@ -45,6 +45,7 @@ duckduckgo.com##a[href*="tiktok.com"]:upward(article)
 duckduckgo.com##a[href*="instagram.com"]:upward(article)
 duckduckgo.com##a[href*="facebook.com"]:upward(article)
 duckduckgo.com##a[href*="bing.com"]:upward(article)
+duckduckgo.com##a[href*="vk.com/video"]:upward(article)
 duckduckgo.com##a[href*="apps.apple.com/"]:upward(article)
 
 jsbin.com###toppanel
