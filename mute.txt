@@ -7,9 +7,9 @@
 ##[alt*="Avatar"]
 ##ytm-profile-icon
 
-~disqus.com##iframe[src*=disqus\.com\/embed\/comments]
-~disqus.com##div#disqus_thread
-~disqus.com##div.dsq-widget
+##iframe[src*=disqus\.com\/embed\/comments]
+##div#disqus_thread
+##div.dsq-widget
 ~facebook.com##fb\:comments
 ~facebook.com##iframe[src*=facebook\.com\/plugins\/comments]
 ~facebook.com##div.fb_iframe_widget
@@ -125,3 +125,5 @@ imgur.com##div#under-image
 ##.comments__body
 ###tproger-comments
 ##[target-id="engagement-panel-comments-section"]
+
+||disqus.com^$important
