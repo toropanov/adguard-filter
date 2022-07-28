@@ -753,6 +753,7 @@ habr.com##.tm-footer
 tproger.ru##.single__header
 tproger.ru##.container-header
 tproger.ru##aside
+tproger.ru###top-post-widget-container
 tproger.ru###post-widget-container
 tproger.ru###tp-recommended-posts
 tproger.ru##.single__thumbnail
