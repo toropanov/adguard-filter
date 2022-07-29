@@ -979,6 +979,7 @@ vk.com##a[data-header="Photos"]
 
 vk.com##body:has-text(/nsfw|MORGENSHTERN|Morgenstern|Моргенштерн|Yanix|Сергей Шнуров|Skryptonite|Scriptonite|Скриптонит|Клава Кока|Klava Koka|Klava Coca|Артур Пирожков|Димас из Батайска|MAJORKA|LITVIN|MORGENSHTERN|Селеба Из Гетто|красивые девушки|ДНЕВНИК ХАЧА|Edward Bil|Дима Гордей|Blondinka Drive|Wylsacom|erotic|devushk|krasotki|naked|porn|naked|escort|эскорт|голой|раздетая|топлес|девушка дня|порно|brazzers|devushki|эротик/i)
 
+stackoverflow.com###sidebar
 stackoverflow.com##.s-user-card--info
 stackoverflow.com##.s-sidebarwidget__yellow
 stackoverflow.com##.votecell
