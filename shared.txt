@@ -984,6 +984,8 @@ stackoverflow.com##.s-user-card--info
 stackoverflow.com##.s-sidebarwidget__yellow
 stackoverflow.com##.votecell
 stackoverflow.com##.post-signature
+stackoverflow.com##ol.s-topbar--content
+stackoverflow.com##a.s-topbar--menu-btn
 stackoverflow.com##a[aria-controls="products-popover"]
 
 w.level.*##.v-navigation-drawer:remove()
