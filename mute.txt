@@ -17,6 +17,9 @@
 stackoverflow.com##[id^="comments"]
 stackoverflow.com##.bottom-notice
 stackoverflow.com##.s-anchors
+vk.com##.wcomments_wrap
+##iframe[src*=vk\.com\/widget_comments]
+
 ##[class~=commentlist]
 ##[class~=commentList]
 ##[id~=commentlist]
