@@ -21,14 +21,12 @@
 ##[class*=ProjectComments]
 ##[class~=comment-list]
 ##[id~=comment-list]
-~quora.com##[class~=comment_list]
 ##[id~=comment_list]
 ##[class~=commentslist]
 ##[class~=commentsList]
 ##[id~=commentslist]
 ##[id~=commentsList]
 ##[class~=comments-list]
-~flickr.com##[id~=comments-list]
 ##[class~=comments_list]
 ##[id~=comments_list]
 ##div#comments-title
@@ -41,7 +39,6 @@
 ##div.post-outer > div#comments, div.post-outer > div.comments
 ##div#comments > dl#comments-block
 ##div.comments > div[id^=comment]:not(.forumComment)
-~archlinux.org##div#comments> div.comment
 ##div#comments div.comment-wrapper
 ##div.comments-body
 ##div.serendipity_comments
@@ -125,6 +122,7 @@ imgur.com##div#under-image
 ##.comment-container
 ##.customer-comments
 ##.comments__body
+##.article-comments
 ###tproger-comments
 ##[target-id="engagement-panel-comments-section"]
 
